@@ -1,5 +1,5 @@
 ## version $VER: Trident.catalog 2.0 (04.02.2021)
-## language espa√±ol
+## language espaÒol
 ## codeset 0
 ;
 MSG_APP_TITLE
@@ -63,7 +63,7 @@ Q
 ; Q
 ;
 MSG_MENU_INFO
-Informaci√≥n
+InformaciÛn
 ; Information
 ;
 MSG_MENU_SAVELOG
@@ -75,11 +75,11 @@ Limpiar errores
 ; Flush errors
 ;
 MSG_MENU_SAVEDEV
-Guardar la lista de perif√©ricos...
+Guardar la lista de perifÈricos...
 ; Save device list...
 ;
 MSG_MENU_SETTINGS
-Configuraci√≥n
+ConfiguraciÛn
 ; Settings
 ;
 MSG_MENU_LOAD
@@ -107,7 +107,7 @@ A
 ; A
 ;
 MSG_MENU_MUISETTINGS
-Configuraci√≥n MUI
+ConfiguraciÛn MUI
 ; MUI Settings
 ;
 MSG_MENU_SC_MUISETTINGS
@@ -127,7 +127,7 @@ Controladores
 ; Controllers
 ;
 MSG_MAINPANEL_DEVICES
-Perif√©ricos
+PerifÈricos
 ; Devices
 ;
 MSG_MAINPANEL_CLASSES
@@ -143,7 +143,7 @@ Popups
 ; Popups
 ;
 MSG_MAINPANEL_CONFIG
-Configuraci√≥n
+ConfiguraciÛn
 ; Config
 ;
 MSG_ERRLVL_ALL
@@ -179,7 +179,7 @@ Mostrar popup si no hay binding
 ; Popup, if there is no binding
 ;
 MSG_POPUP_NOCONFIG
-Mostrar popup si no hay configuraci√≥n
+Mostrar popup si no hay configuraciÛn
 ; Popup, if there is no config yet
 ;
 MSG_POPUP_CONFIGCLASS
@@ -219,7 +219,7 @@ MSG_PANEL_HARDWARE_LABEL1
 ; \33c\33bUSB Hardware Controllers available
 ;
 MSG_PANEL_HARDWARE_CONTROLLER_HELP
-Esta es la lista de los controladores disponibles. \nVarios controladores diferentes pueden estar en el sistema\nal mismo tiempo.\nPara a√±adir una entrada, usa el gadget 'Nuevo' de debajo.\nTienes que poner un controlador conectado manualmente\nla primera vez que a√±ades el perif√©rico.
+Esta es la lista de los controladores disponibles. \nVarios controladores diferentes pueden estar en el sistema\nal mismo tiempo.\nPara aÒadir una entrada, usa el gadget 'Nuevo' de debajo.\nTienes que poner un controlador conectado manualmente\nla primera vez que aÒades el perifÈrico.
 ; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
 ;
 MSG_PANEL_HARDWARE_COLS_NAME
@@ -251,15 +251,15 @@ MSG_PANEL_HARDWARE_UNKNOWN
 ; \33iunknown until online
 ;
 MSG_PANEL_HARDWARE_LABEL2
-Perif√©rico:
+PerifÈrico:
 ; Device:
 ;
 MSG_PANEL_HARDWARE_DEVICE_HELP
-Escribe el nombre del driver del controlador\nen este campo. Estos perif√©ricos suelen\nestar guardados en DEVS:USBHardware.
+Escribe el nombre del driver del controlador\nen este campo. Estos perifÈricos suelen\nestar guardados en DEVS:USBHardware.
 ; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
 ;
 MSG_PANEL_HARDWARE_SELECT
-Seleccionar perif√©rico USBHardware...
+Seleccionar perifÈrico USBHardware...
 ; Select USBHardware device...
 ;
 MSG_PANEL_HARDWARE_UNIT
@@ -267,7 +267,7 @@ Unidad:
 ; Unit:
 ;
 MSG_PANEL_HARDWARE_UNIT_HELP
-Si hay varias tarjetas del mismo tipo\nen tu m√°quina, escribe aqui el numero\nde la que corresponde.
+Si hay varias tarjetas del mismo tipo\nen tu m·quina, escribe aqui el numero\nde la que corresponde.
 ; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
 ;
 MSG_PANEL_HARDWARE_DRIVER_NEW
@@ -291,7 +291,7 @@ MSG_PANEL_HARDWARE_DRIVER_DELETE
 ; \33c Delete
 ;
 MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
-Click para borrar la entrada seleccionada.\El hardware se desconectar√° autom√°ticamente,\njunto con los perifer√≠cos conectados a el.
+Click para borrar la entrada seleccionada.\El hardware se desconectar· autom·ticamente,\njunto con los periferÌcos conectados a el.
 ; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
 ;
 MSG_PANEL_HARDWARE_DRIVER_ONLINE
@@ -315,15 +315,15 @@ MSG_PANEL_HARDWARE_DRIVER_INFO
 ; \33c Info
 ;
 MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
-Para obtener informaci√≥n del driver del\nperif√©rico haz click aqu√≠. El periferico tiene\nque estar conectado para ver la informaci√≥n
+Para obtener informaciÛn del driver del\nperifÈrico haz click aquÌ. El periferico tiene\nque estar conectado para ver la informaciÛn
 ; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
 ;
 MSG_PANEL_DEVICES_LABEL
-\33c\33bPerif√©ricos USB en el sistema
+\33c\33bPerifÈricos USB en el sistema
 ; \33c\33bUSB Devices in the system
 ;
 MSG_PANEL_DEVICES_HELP
-Esta es la lista de los perif√©ricos (funciones)\nUSB en el sistema. Tambien muestra los\nperifericos y interfaces existentes.
+Esta es la lista de los perifÈricos (funciones)\nUSB en el sistema. Tambien muestra los\nperifericos y interfaces existentes.
 ; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
 ;
 MSG_PANEL_DEVICES_COLS_NAME
@@ -351,7 +351,7 @@ MSG_PANEL_DEVICES_SCAN
 ; \33c Class Scan
 ;
 MSG_PANEL_DEVICES_SCAN_HELP
-Pulsando este bot√≥n se lanzar√° un escaneo de clase. Esto significa\nque cada perif√©rico ser√° examinado para ver si coincide con alguna\nde las clases en el sistema. En ese caso, se establecer√° un binding\n y se a√±adir√° autom√°ticamente la funcionalidad.\n
+Pulsando este botÛn se lanzar· un escaneo de clase. Esto significa\nque cada perifÈrico ser· examinado para ver si coincide con alguna\nde las clases en el sistema. En ese caso, se establecer· un binding\n y se aÒadir· autom·ticamente la funcionalidad.\n
 ; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
 ;
 MSG_PANEL_DEVICES_UNBIND
@@ -359,23 +359,23 @@ MSG_PANEL_DEVICES_UNBIND
 ; \33c Unbind
 ;
 MSG_PANEL_DEVICES_UNBIND_HELP
-Elimina manualmente un binding. Puede ser\nutil para desactivar temporalmente un perif√©rico.\nUsa 'Class Scan' para reactivar el binding.
+Elimina manualmente un binding. Puede ser\nutil para desactivar temporalmente un perifÈrico.\nUsa 'Class Scan' para reactivar el binding.
 ; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
 ;
 MSG_PANEL_DEVICES_INFO
-\33c Informaci√≥n
+\33c InformaciÛn
 ; \33c Information
 ;
 MSG_PANEL_DEVICES_INFO_HELP
-Abre una ventana de informaci√≥n detallada\nPru√©bala, nada puede ir mal.
+Abre una ventana de informaciÛn detallada\nPruÈbala, nada puede ir mal.
 ; Opens a detailed information window.\nJust try it, nothing can go wrong.
 ;
 MSG_PANEL_DEVICES_SETTINGS
-\33c Configuraci√≥n
+\33c ConfiguraciÛn
 ; \33c Settings
 ;
 MSG_PANEL_DEVICES_SETTINGS_HELP
-Si hay un binding del perif√©rico y la clase\nsoporta configuraci√≥n por GUI, pulsando este bot√≥n\n abrir√° la ventana de preferencias.\n\nEl bot√≥n correspondiente a la configuracion del binding\ndel interface puede estar dentro de la ventana\nde informaci√≥n.
+Si hay un binding del perifÈrico y la clase\nsoporta configuraciÛn por GUI, pulsando este botÛn\n abrir· la ventana de preferencias.\n\nEl botÛn correspondiente a la configuracion del binding\ndel interface puede estar dentro de la ventana\nde informaciÛn.
 ; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
 ;
 MSG_PANEL_DEVICES_SUSPEND
@@ -383,7 +383,7 @@ MSG_PANEL_DEVICES_SUSPEND
 ; \33c Suspend
 ;
 MSG_PANEL_DEVICES_SUSPEND_HELP
-Pone el perif√©rico en modo de bajo consumo.\n Si un binding de clase no lo soporta, este \nbot√≥n no har√° nada.
+Pone el perifÈrico en modo de bajo consumo.\n Si un binding de clase no lo soporta, este \nbotÛn no har· nada.
 ; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
 ;
 MSG_PANEL_DEVICES_RESUME
@@ -391,7 +391,7 @@ MSG_PANEL_DEVICES_RESUME
 ; \33c Resume
 ;
 MSG_PANEL_DEVICES_RESUME_HELP
-Reanuda el perif√©rico tras haberse puesto\nen suspensi√≥n.\n
+Reanuda el perifÈrico tras haberse puesto\nen suspensiÛn.\n
 ; Resumes the device to full operation after\nit was placed into suspend mode.\n
 ;
 MSG_PANEL_DEVICES_POWERCYCLE
@@ -399,7 +399,7 @@ MSG_PANEL_DEVICES_POWERCYCLE
 ; \33c Powercycle
 ;
 MSG_PANEL_DEVICES_POWERCYCLE_HELP
-Reinicia el puerto hub y reenumera el perif√©rico.\n Es √∫til para reactivar perif√©ricos muertos.\n
+Reinicia el puerto hub y reenumera el perifÈrico.\n Es ˙til para reactivar perifÈricos muertos.\n
 ; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
 ;
 MSG_PANEL_DEVICES_DISABLE
@@ -407,11 +407,11 @@ MSG_PANEL_DEVICES_DISABLE
 ; \33c Disable
 ;
 MSG_PANEL_DEVICES_DISABLE_HELP
-Apaga el puerto permanentemente. No puede ser\nreactivado desenchufando y volviendo a enchufar el perif√©rico.\n
+Apaga el puerto permanentemente. No puede ser\nreactivado desenchufando y volviendo a enchufar el perifÈrico.\n
 ; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
 ;
 MSG_POSEIDON_SHORTHELP
-Poseidon (llamado Neptuno en lat√≠n) es el dios del mar\ny sus habitantes, uno de los Ol√≠mpicos, el hijo de Cronos\n y Rhea, hermano de Zeus, Hades, Demeter, Hera,\nHestia. Casado con Amphitrita, una Nereida,\ncon la que tuvo como hijo a Trit√≥n, un trit√≥n. Como otros Ol√≠mpicos,\ntuvo multitud de amor√≠os (p.e. con Medusa)\ny numerosos hijos (p.e. Pegaso).
+Poseidon (llamado Neptuno en latÌn) es el dios del mar\ny sus habitantes, uno de los OlÌmpicos, el hijo de Cronos\n y Rhea, hermano de Zeus, Hades, Demeter, Hera,\nHestia. Casado con Amphitrita, una Nereida,\ncon la que tuvo como hijo a TritÛn, un tritÛn. Como otros OlÌmpicos,\ntuvo multitud de amorÌos (p.e. con Medusa)\ny numerosos hijos (p.e. Pegaso).
 ; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
 ;
 MSG_PANEL_CLASSES
@@ -419,7 +419,7 @@ MSG_PANEL_CLASSES
 ; \33c\33bUSB Classes available
 ;
 MSG_PANEL_CLASSES_HELP
-Esta es la lista de clases USB disponibles.\nCada clase es un driver de software para un grupo\nde perif√©ricos USB. Se pueden a√±adir manualmente\nusando el bot√≥n 'A√±adir' o autom√°ticamente con 'Dir Scan'.
+Esta es la lista de clases USB disponibles.\nCada clase es un driver de software para un grupo\nde perifÈricos USB. Se pueden aÒadir manualmente\nusando el botÛn 'AÒadir' o autom·ticamente con 'Dir Scan'.
 ; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
 ;
 MSG_PANEL_CLASSES_COLS_NAME
@@ -431,27 +431,27 @@ MSG_PANEL_CLASSES_COLS_USE
 ; \33uUse#
 ;
 MSG_PANEL_CLASSES_COLS_DESC
-\33uDescripci√≥n
+\33uDescripciÛn
 ; \33uDescription
 ;
 MSG_PANEL_CLASSES_LABEL
-Librer√≠a de clases:
+LibrerÌa de clases:
 ; Class library:
 ;
 MSG_PANEL_CLASSES_LABEL_HELP
-Para a√±adir una clase de driver,\introduce su nombre aqu√≠ y pulsa 'A√±adir'.
+Para aÒadir una clase de driver,\introduce su nombre aquÌ y pulsa 'AÒadir'.
 ; To manually add an usb class driver,\nenter its name here and click on 'Add'.
 ;
 MSG_PANEL_CLASSES_SELECT
-Selecciona librer√≠a de clases USB...
+Selecciona librerÌa de clases USB...
 ; Select USB class library...
 ;
 MSG_PANEL_CLASSES_ADD
-\33cA√±adir
+\33cAÒadir
 ; \33cAdd
 ;
 MSG_PANEL_CLASSES_ADD_HELP
-Para a√±adir una clase de driver,\introduce su nombre arriba y pulsa este bot√≥n.
+Para aÒadir una clase de driver,\introduce su nombre arriba y pulsa este botÛn.
 ; To manually add an usb class\ndriver, enter its name above\nand click on this button.
 ;
 MSG_PANEL_CLASSES_REMOVE
@@ -459,7 +459,7 @@ MSG_PANEL_CLASSES_REMOVE
 ; \33c Remove
 ;
 MSG_PANEL_CLASSES_REMOVE_HELP
-Pincha aqu√≠ para eliminar una clase de\ndriver y sus bindings.
+Pincha aquÌ para eliminar una clase de\ndriver y sus bindings.
 ; Click here to remove a class driver\nand all its current bindings.
 ;
 MSG_PANEL_CLASSES_CONFIG
@@ -467,7 +467,7 @@ MSG_PANEL_CLASSES_CONFIG
 ; \33c Configure
 ;
 MSG_PANEL_CLASSES_CONFIG_HELP
-Si una clase de driver es configurable,\nhaz click aqu√≠ y se abrir√° una ventana\nde configuraci√≥nde la clase.
+Si una clase de driver es configurable,\nhaz click aquÌ y se abrir· una ventana\nde configuraciÛnde la clase.
 ; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
 ;
 MSG_PANEL_CLASSES_SCAN
@@ -475,7 +475,7 @@ MSG_PANEL_CLASSES_SCAN
 ; \33c Dir Scan
 ;
 MSG_PANEL_CLASSES_SCAN_HELP
-Escanear autom√°ticamente clases\nde drivers y\na√±adir los drivers encontrados al sistema.
+Escanear autom·ticamente clases\nde drivers y\naÒadir los drivers encontrados al sistema.
 ; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
 ;
 MSG_PANEL_OPTIONS
@@ -483,7 +483,7 @@ MSG_PANEL_OPTIONS
 ; \33c\33bVarious Settings
 ;
 MSG_PANEL_OPTIONS_STACK
-Configuraci√≥n de la pila
+ConfiguraciÛn de la pila
 ; Stack Settings
 ;
 MSG_PANEL_OPTIONS_PRIORITY
@@ -499,7 +499,7 @@ Retardo de arranque:
 ; Boot delay:
 ;
 MSG_PANEL_OPTIONS_BOOT_HELP
-Si reset es residente, este valor define\n el tiempo que Poseidon debe esperar\npor los perif√©ricos USB, permitiendo arrancar\ndesde dispositivos USB lentos como unidades CD.
+Si reset es residente, este valor define\n el tiempo que Poseidon debe esperar\npor los perifÈricos USB, permitiendo arrancar\ndesde dispositivos USB lentos como unidades CD.
 ; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
 ;
 MSG_PANEL_OPTIONS_BOOT_FORMAT
@@ -507,27 +507,27 @@ MSG_PANEL_OPTIONS_BOOT_FORMAT
 ; %ld sec.
 ;
 MSG_PANEL_OPTIONS_DISABLELOW
-Deshabilitar autom√°ticamente el hub en condiciones de bajo consumo:
+Deshabilitar autom·ticamente el hub en condiciones de bajo consumo:
 ; Automatically disable hub port on low power conditions:
 ;
 MSG_PANEL_OPTIONS_DISABLELOW_HELP
-Si se detecta en un puerto una condici√≥n de bajo\nconsumo, seleccionando este conmutador se apagar√°\nel perif√©rico causante de esa condici√≥n.
+Si se detecta en un puerto una condiciÛn de bajo\nconsumo, seleccionando este conmutador se apagar·\nel perifÈrico causante de esa condiciÛn.
 ; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
 ;
 MSG_PANEL_OPTIONS_DISABLEDEAD
-Deshabilitar autom√°ticamente el puerto hub si un perif√©rico muere:
+Deshabilitar autom·ticamente el puerto hub si un perifÈrico muere:
 ; Automatically disable hub port, if device drops dead:
 ;
 MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
-Si un perif√©rico muere (timeout de trasnferencia),\y este conmutador se selecciona, el puerto del\nhub se deshabilitar√° autom√°ticamente para evitar\npenalizaci√≥n en el desempe√±o.
+Si un perifÈrico muere (timeout de trasnferencia),\y este conmutador se selecciona, el puerto del\nhub se deshabilitar· autom·ticamente para evitar\npenalizaciÛn en el desempeÒo.
 ; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
 ;
 MSG_PANEL_OPTIONS_POWERCYCLE
-Reiniciar autom√°ticamente el puerto hub si un perif√©rico muere:
+Reiniciar autom·ticamente el puerto hub si un perifÈrico muere:
 ; Automatically power cycle hub port, if device drops dead:
 ;
 MSG_PANEL_OPTIONS_POWERCYCLE_HELP
-Si un perif√©rico muere (timeout de trasnferencia),\y este conmutador se selecciona, el puerto del\nhub se reiniciar√° autom√°ticamente para intentar\nrevivir el perif√©rico. Sin embargo, puede llevar a bucles infinitos.
+Si un perifÈrico muere (timeout de trasnferencia),\y este conmutador se selecciona, el puerto del\nhub se reiniciar· autom·ticamente para intentar\nrevivir el perifÈrico. Sin embargo, puede llevar a bucles infinitos.
 ; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
 ;
 MSG_PANEL_OPTIONS_POWERSAVE
@@ -535,15 +535,15 @@ Habilitar el modo de bajo consumo:
 ; Enable power-saving suspend mode:
 ;
 MSG_PANEL_OPTIONS_POWERSAVE_HELP
-Los perif√±ericos se pondr√°n en modo de suspensi√≥n\ntras un tiempo de inactividad especificado.\nEl consumo baja a menos de 1mA.\nLa vuelta al funcionamiento normal usualmente tarda 25ms.
+Los perifÒericos se pondr·n en modo de suspensiÛn\ntras un tiempo de inactividad especificado.\nEl consumo baja a menos de 1mA.\nLa vuelta al funcionamiento normal usualmente tarda 25ms.
 ; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
 ;
 MSG_PANEL_OPTIONS_FORCESUSPEND
-Forzar suspensi√≥n, aunque la clase no lo soporte:
+Forzar suspensiÛn, aunque la clase no lo soporte:
 ; Force suspend mode, even if not supported by class:
 ;
 MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
-Las clases deben soportar pasar al modo suspendido.\nSi no, habilitando este conmutador simplemente\nse liberar√° el binding antes de suspenderse.\nEsto solo se hace en para despertares remotos de\n perif√©ricos, si no, la clase no podr√≠a volver a hacer bind.
+Las clases deben soportar pasar al modo suspendido.\nSi no, habilitando este conmutador simplemente\nse liberar· el binding antes de suspenderse.\nEsto solo se hace en para despertares remotos de\n perifÈricos, si no, la clase no podrÌa volver a hacer bind.
 ; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
 ;
 MSG_PANEL_OPTIONS_INACTIVITY
@@ -551,7 +551,7 @@ Periodo de inactividad para suspender:
 ; Inactivity timeout for suspend:
 ;
 MSG_PANEL_OPTIONS_INACTIVITY_HELP
-Tiempo para intentar poner un perif√©rico en\nmodo ahorro de energ√≠a.
+Tiempo para intentar poner un perifÈrico en\nmodo ahorro de energÌa.
 ; Timeout before trying to place a device into\npower saving suspend mode.
 ;
 MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
@@ -563,7 +563,7 @@ Opciones de log
 ; Logging Options
 ;
 MSG_PANEL_OPTIONS_LOGGING_LABEL
-Mensajes de informaci√≥n de log:
+Mensajes de informaciÛn de log:
 ; Log info messages:
 ;
 MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
@@ -599,7 +599,7 @@ Memoria asignada en el Pool de Poseidon:
 ; Memory allocated in Poseidon Pool:
 ;
 MSG_PANEL_POPO
-\33c\33bConfiguraci√≥n de Popup
+\33c\33bConfiguraciÛn de Popup
 ; \33c\33bPopup Settings
 ;
 MSG_PANEL_POPO_LABEL
@@ -611,7 +611,7 @@ Al conectar:
 ; On connecting:
 ;
 MSG_PANEL_POPO_CONNECT_HELP
-Comportamiento de ventana\nemergente al conectar perif√©ricos
+Comportamiento de ventana\nemergente al conectar perifÈricos
 ; Popup display behaviour on\nconnecting new USB devices
 ;
 MSG_PANEL_POPO_DISCONNECT
@@ -619,15 +619,15 @@ Al desconectar:
 ; On disconnect:
 ;
 MSG_PANEL_POPO_DISCONNECT_HELP
-Mostrar ventana emergente\nsi se quita el perif√©rico.
+Mostrar ventana emergente\nsi se quita el perifÈrico.
 ; Whether to popup a window\nif the device is removed.
 ;
 MSG_PANEL_POPO_DEATH
-A la muerte del perif√©rico:
+A la muerte del perifÈrico:
 ; On device death:
 ;
 MSG_PANEL_POPO_DEATH_HELP
-Abrir un requester si el perif√©rico parece muerto.
+Abrir un requester si el perifÈrico parece muerto.
 ; Open a requester, if device seems to be dead.
 ;
 MSG_PANEL_POPO_DELAY
@@ -659,11 +659,11 @@ Traer ventana al frente si cambia el contenido.
 ; Pop window to front, if content changes.
 ;
 MSG_PANEL_POPO_CONSOUND
-Sonido de conexi√≥n:
+Sonido de conexiÛn:
 ; Connection sound:
 ;
 MSG_PANEL_POPO_CONSOUND_HELP
-Se reproducir√° este sonido cada vez\nque se conecte un perif√©rico al bus.
+Se reproducir· este sonido cada vez\nque se conecte un perifÈrico al bus.
 ; This sound will be replayed everytime\na device is connected to the bus.
 ;
 MSG_PANEL_POPO_CONSOUND_SELECT
@@ -675,7 +675,7 @@ Desconectar el sonido:
 ; Disconnect sound:
 ;
 MSG_PANEL_POPO_DISCONSOUND_HELP
-Se reproducir√° este sonido cada vez\nque se desconecte un perif√©rico del bus.
+Se reproducir· este sonido cada vez\nque se desconecte un perifÈrico del bus.
 ; This sound will be replayed everytime\na device is removed from the bus.
 ;
 MSG_PANEL_POPO_DISCONSOUND_SELECT
@@ -683,11 +683,11 @@ Selecciona un fichero de sonido para reproducir...
 ; Select a sound file to be replayed...
 ;
 MSG_PANEL_CONFIG
-\33c\33bGesti√≥n de la configuraci√≥n (Usar drag & drop)
+\33c\33bGestiÛn de la configuraciÛn (Usar drag & drop)
 ; \33c\33bConfiguration management (Use drag & drop)
 ;
 MSG_PANEL_CONFIG_HELP
-En esta caja puedes ver todas las preferencias que se\nhansalvado as√≠ como el fichero enENVARC:.\nPuedes usar este panel para borrar o exportar prefs.\n\nUsar drag & drop para copiar o reemplazar las preferencias.\n
+En esta caja puedes ver todas las preferencias que se\nhansalvado asÌ como el fichero enENVARC:.\nPuedes usar este panel para borrar o exportar prefs.\n\nUsar drag & drop para copiar o reemplazar las preferencias.\n
 ; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
 ;
 MSG_PANEL_CONFIG_COLS_TYPE
@@ -695,15 +695,15 @@ MSG_PANEL_CONFIG_COLS_TYPE
 ; \33uType
 ;
 MSG_PANEL_CONFIG_COLS_DESC
-\33uDescripci√≥n
+\33uDescripciÛn
 ; \33uDescription
 ;
 MSG_PANEL_CONFIG_COLS_OWNER
-\33uDue√±o
+\33uDueÒo
 ; \33uOwner
 ;
 MSG_PANEL_CONFIG_COLS_SIZE
-\33uTama√±o
+\33uTamaÒo
 ; \33uSize
 ;
 MSG_PANEL_CONFIG_SAVEAS
@@ -743,7 +743,7 @@ Log de mensaje
 ; Message Log
 ;
 MSG_PANEL_CONFIG_INFLVL
-Nivel de informaci√≥n:
+Nivel de informaciÛn:
 ; Information level:
 ;
 MSG_PANEL_CONFIG_INFLVL_HELP
@@ -763,11 +763,11 @@ MSG_PANEL_CONFIG_LOGFLUSH
 ; \33c Flush all
 ;
 MSG_PANEL_CONFIG_LOGFLUSH_HELP
-Pinchando este bot√≥n se eliminar√°n todos\nlos mensajes de la pila. No habr√° forma\nde recuperarlos.
+Pinchando este botÛn se eliminar·n todos\nlos mensajes de la pila. No habr· forma\nde recuperarlos.
 ; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
 ;
 MSG_PANEL_CONFIG_LOGHELP
-Estos son los mensajes de la pila Poseidon\ngenerados hasta ahora. Si quieres limpiar esta lista\nhaz click en el bot√≥n 'Limpiar todos los mensajes'.
+Estos son los mensajes de la pila Poseidon\ngenerados hasta ahora. Si quieres limpiar esta lista\nhaz click en el botÛn 'Limpiar todos los mensajes'.
 ; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
 ;
 MSG_PANEL_CONFIG_ALLONLINE
@@ -775,7 +775,7 @@ Todos conectados
 ; \33c All Online
 ;
 MSG_PANEL_CONFIG_ALLONLINE_HELP
-Lanzar todos los drivers que han sido\nintriducidos en el panel 'Hardware'.\nAdem√°s, los perif√©ricos encontrados se comprobar√°n para\nposibles bindings.
+Lanzar todos los drivers que han sido\nintriducidos en el panel 'Hardware'.\nAdem·s, los perifÈricos encontrados se comprobar·n para\nposibles bindings.
 ; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
 ;
 MSG_PANEL_CONFIG_ALLOFFLINE
@@ -783,7 +783,7 @@ Todos desconectados
 ; \33c All Offline
 ;
 MSG_PANEL_CONFIG_ALLOFFLINE_HELP
-Usando 'Desconectado' puedes apagar todos los\ndrivers de perif√©rico.\nEsto para por completo la pila.
+Usando 'Desconectado' puedes apagar todos los\ndrivers de perifÈrico.\nEsto para por completo la pila.
 ; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
 ;
 MSG_PANEL_CONFIG_RESTART
@@ -791,7 +791,7 @@ MSG_PANEL_CONFIG_RESTART
 ; \33c Restart
 ;
 MSG_PANEL_CONFIG_RESTART_HELP
-Haciendo click en 'Reiniciar' se reiniciar√°n\ntodos los drivers de perif√©ricos.
+Haciendo click en 'Reiniciar' se reiniciar·n\ntodos los drivers de perifÈricos.
 ; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
 ;
 MSG_PANEL_CONFIG_SAVE
@@ -799,7 +799,7 @@ MSG_PANEL_CONFIG_SAVE
 ; \33c Save
 ;
 MSG_PANEL_CONFIG_SAVE_HELP
-Para guardar en el disco, pulsa este bot√≥n.\nLa configuraci√≥n se guardar√° en ENVARC:\ny ENV:.
+Para guardar en el disco, pulsa este botÛn.\nLa configuraciÛn se guardar· en ENVARC:\ny ENV:.
 ; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
 ;
 MSG_PANEL_CONFIG_USE
@@ -807,7 +807,7 @@ MSG_PANEL_CONFIG_USE
 ; \33c Use
 ;
 MSG_PANEL_CONFIG_USE_HELP
-Para usar, pero no guardar permanentemente\npulsar este bot√≥n. La configuraci√≥n se\nguardar√° en ENV:.
+Para usar, pero no guardar permanentemente\npulsar este botÛn. La configuraciÛn se\nguardar· en ENV:.
 ; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
 ;
 MSG_UNKNOWN
@@ -815,19 +815,19 @@ desconocido
 ; unknown
 ;
 MSG_HARDWARE_WINDOW
-Ventana de informaci√≥n del driver de perif√©rico
+Ventana de informaciÛn del driver de perifÈrico
 ; Hardware driver information window
 ;
 MSG_HARDWARE_WINDOW_HELP
-Estos campos muestran informaci√≥n general\ndel driver de hardware USB.
+Estos campos muestran informaciÛn general\ndel driver de hardware USB.
 ; These fields show some general information\non the USB hardware driver.
 ;
 MSG_HARDWARE_WINDOW_FRAME
-Informaci√≥n general de driver de hardware USB
+InformaciÛn general de driver de hardware USB
 ; General USB hardware driver information
 ;
 MSG_HARDWARE_WINDOW_LABEL
-Perif√©rico:\nUnidad:\nVersi√≥n:\nProducto:\nFAbricante:\nDescripci√≥n:\nCopyright:
+PerifÈrico:\nUnidad:\nVersiÛn:\nProducto:\nFAbricante:\nDescripciÛn:\nCopyright:
 ; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
 ;
 MSG_ACTION_SAVE_ERR
@@ -867,7 +867,7 @@ Selecciona un fichero de Preferencias Poseidon...
 ; Select a Poseidon Prefs file...
 ;
 MSG_ACTION_PREFS_LOADED
-Configuraci√≥n cargada desde %s.
+ConfiguraciÛn cargada desde %s.
 ; Config loaded from %s.
 ;
 MSG_ACTION_PREFS_SAVEAS
@@ -875,7 +875,7 @@ Selecciona un fichero para guardar las prefs...
 ; Select file to save prefs to...
 ;
 MSG_ACTION_PREFS_SAVED
-Configuraci√≥n correctamente guardad en %s.
+ConfiguraciÛn correctamente guardad en %s.
 ; Configuration successfully saved to %s.
 ;
 MSG_ACTION_PREFS_SAVEDERR
@@ -883,11 +883,11 @@ No se pudo guardar la configuracion en %s.
 ; Couldn't save config to %s.
 ;
 MSG_ACTION_PREFS_NOTSAVED
-No se ha guardado la configuraci√≥n!
+No se ha guardado la configuraciÛn!
 ; Config not saved!
 ;
 MSG_ACTION_PREFS_SAVEDSUCCESS
-Configuraci√≥n guardada.
+ConfiguraciÛn guardada.
 ; Configuration successfully saved.
 ;
 MSG_ACTION_USEQUIT
@@ -895,7 +895,7 @@ Usar|Guardar|Cancelar
 ; Use|Save|Cancel
 ;
 MSG_ACTION_CONFIGCHANGED
-La configuraci√≥n actual se ha cambiado y no\nse ha guardado aun.
+La configuraciÛn actual se ha cambiado y no\nse ha guardado aun.
 ; The current configuration has been changed\nand not been saved yet.
 ;
 MSG_ACTION_SAVEQUIT
@@ -907,15 +907,15 @@ Ninguno
 ; None
 ;
 MSG_ACTION_DEV_FORCE_REQ
-No soy tonto!|Lo reconsiderar√©
+No soy tonto!|Lo reconsiderarÈ
 ; I'm not dumb!|I'll reconsider
 ;
 MSG_ACTION_DEV_FORCE_REQ_TXT
-Estas a punto de establecer un binding forzado al \33bperif√©rico\33n\n. Esto no es un binding del interface.\Como la mayor√≠a de gente es incapaz de leer\nel manual y pueden hacer as mal que bien.\nPor favor, asegurate de que sabes que\nest√°s haciendo y no rompas cosas (y despues molestarme con emails tontos).
+Estas a punto de establecer un binding forzado al \33bperifÈrico\33n\n. Esto no es un binding del interface.\Como la mayorÌa de gente es incapaz de leer\nel manual y pueden hacer as mal que bien.\nPor favor, asegurate de que sabes que\nest·s haciendo y no rompas cosas (y despues molestarme con emails tontos).
 ; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
 ;
 MSG_ACTION_DEV_FORCE
-Forzando el binding del perif√©rico de %s a %s.
+Forzando el binding del perifÈrico de %s a %s.
 ; Forcing device binding of %s to %s.
 ;
 MSG_ACTION_DEV_FORCE_REMOVE
@@ -927,19 +927,19 @@ Quitar|Cancelar
 ; Remove|Cancel
 ;
 MSG_ACTION_CFG_REMOVE_HELP
-Est√°s a punto de \33bborrar\33n la configuraci√≥n\nrelativa la perif√©rico con ID\n\33b%s\33n.\nEsto incluye la configuraci√≥n individual de la asignaci√≥n\nde clase para el perif√©rico o interfaz, as√≠ como a las cosas que Tritent guarda (Como nombre o inhibici√≥n de ventanas enemergentes).\n\nSeguro que quieres continuar?
+Est·s a punto de \33bborrar\33n la configuraciÛn\nrelativa la perifÈrico con ID\n\33b%s\33n.\nEsto incluye la configuraciÛn individual de la asignaciÛn\nde clase para el perifÈrico o interfaz, asÌ como a las cosas que Tritent guarda (Como nombre o inhibiciÛn de ventanas enemergentes).\n\nSeguro que quieres continuar?
 ; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
 ;
 MSG_ACTION_CFG_REMOVE_DEFAULT
-Est√°s a punto de \33bborrar\33n la configuraci√≥n\n por defecto de la clase \33b%s\33n.\nEsto asignar√° las prefs iniciales de las clases\na los valores por defecto\33nen el pr√≥ximo reinicio\33n!\nNormalmente no suele afectar a la configuraci√≥n\nindividual del perif√©rico o interfaz.\n\nSeguro que quieres continuar?
+Est·s a punto de \33bborrar\33n la configuraciÛn\n por defecto de la clase \33b%s\33n.\nEsto asignar· las prefs iniciales de las clases\na los valores por defecto\33nen el prÛximo reinicio\33n!\nNormalmente no suele afectar a la configuraciÛn\nindividual del perifÈrico o interfaz.\n\nSeguro que quieres continuar?
 ; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
 ;
 MSG_ACTION_CFG_REMOVE_CLASS
-Est√°s a punto de \33bborrar\33n la configuraci√≥n\nde la clase \33b%s\33n\nguardada para el perif√©rico con ID\n\33b%s\33n.\n\nSeguro que quieres continuar?
+Est·s a punto de \33bborrar\33n la configuraciÛn\nde la clase \33b%s\33n\nguardada para el perifÈrico con ID\n\33b%s\33n.\n\nSeguro que quieres continuar?
 ; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
 ;
 MSG_ACTION_CFG_REMOVE_CLASS_DEF
-Est√°s a punto de \33bborrar\33n la configuraci√≥n\nde la clase \33b%s\33n\nguardada para el interface\n\33b%s\33n del perif√©rico con ID\n\33b%s\33n.\n\nSeguro que quieres continuar?
+Est·s a punto de \33bborrar\33n la configuraciÛn\nde la clase \33b%s\33n\nguardada para el interface\n\33b%s\33n del perifÈrico con ID\n\33b%s\33n.\n\nSeguro que quieres continuar?
 ; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
 ;
 MSG_ACTION_CFG_REMOVE_UNKNOWN
@@ -991,7 +991,7 @@ Oops!
 ; Oops!
 ;
 MSG_ACTION_CFGDATA_OOPS_HELP
-Para importar las prefs de un\nperif√©rico o interface se debe\nseleccionar la entrada donde se a√±adir√°.
+Para importar las prefs de un\nperifÈrico o interface se debe\nseleccionar la entrada donde se aÒadir·.
 ; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
 ;
 MSG_ACTION_CFGDATA_ERR
@@ -1023,11 +1023,11 @@ Quieres \33bremplazar\33n o \33bfusionar\33n las preferencias de\n\33b%s\33n\nco
 ; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
 ;
 MSG_APPLYDRAGACTION_DEVCFGDATA
-A√±adir al perif√©rico|Cancelar
+AÒadir al perifÈrico|Cancelar
 ; Add to device|Cancel
 ;
 MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
-Lo siento, solo se pueden guardar las prefs\ndel mismo due√±o.\nEn su lugar, quieres a√±adirlas al perif√©rico\n?
+Lo siento, solo se pueden guardar las prefs\ndel mismo dueÒo.\nEn su lugar, quieres aÒadirlas al perifÈrico\n?
 ; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
 ;
 MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
@@ -1047,11 +1047,11 @@ Quieres \33bremplazar\33n las preferencias de\n\33b%s\33n\npor la que hay en\n\3
 ; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
 ;
 MSG_APPLYDRAGACTION_DEVICECFG_ADD
-A√±adir|Cancelar
+AÒadir|Cancelar
 ; Add|Cancel
 ;
 MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
-Quieres \33ba√±adir\33n las preferencias de\n\33b%s\33n\nen el perif√©rico\n\33b%s\33n?
+Quieres \33baÒadir\33n las preferencias de\n\33b%s\33n\nen el perifÈrico\n\33b%s\33n?
 ; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
 ;
 MSG_CFGLISTDISPATCHER_OOPS
