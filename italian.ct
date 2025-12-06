@@ -1,4 +1,4 @@
-## version $VER: Trident.catalog 2.0 (17.05.2023)
+## version $VER: Trident.catalog 2.1 (06.12.2025)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -8,7 +8,7 @@ Trident
 ; Trident
 ;
 MSG_APP_VERSION
-4.3 (27-May-09)
+4.4 (06-Dic-2025)
 ; 4.3 (27-May-09)
 ;
 MSG_APP_DESC

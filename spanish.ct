@@ -1,4 +1,4 @@
-## version $VER: Trident.catalog 2.0 (04.02.2021)
+## version $VER: Trident.catalog 2.1 (06.12.2025)
 ## language español
 ## codeset 0
 ;
@@ -7,7 +7,7 @@ Trident
 ; Trident
 ;
 MSG_APP_VERSION
-4.3 (27-May-09)
+4.4 (06-Dic-2025)
 ; 4.3 (27-May-09)
 ;
 MSG_APP_DESC
