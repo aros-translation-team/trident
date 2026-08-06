@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Grafiüki interfejs za Poseidon USB stek
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Projekat
+; Project
+;
+MSG_MENU_ABOUT
+O programu...
+; About...
+;
+MSG_MENU_ABOUTMUI
+O MUI...
+; About MUI...
+;
+MSG_MENU_HELP
+Help
+; Help
+;
+MSG_MENU_ONLINE
+Na mreßi
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Van mreße
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Ikonifikuj
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Iza–i
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Informacije
+; Information
+;
+MSG_MENU_SAVELOG
+Snimi log greÁaka...
+; Save error log...
+;
+MSG_MENU_FLUSH
+ObriÁi greÁke
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Snimi listu ure–aja...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+PodeÁavanja
+; Settings
+;
+MSG_MENU_LOAD
+Uüitaj...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Snimi
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Snimi kao...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI podeÁavanja
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+OpÁte
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Kontroleri
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Ure–aji
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Klase
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Opcije
+; Options
+;
+MSG_MAINPANEL_POPUPS
+IskaüuÜi prozori
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Konfiguracija
+; Config
+;
+MSG_ERRLVL_ALL
+Sve poruke
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Upozorenja i gore
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+GreÁke i otkazi
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Samo otkazi
+; Failures only
+;
+MSG_POPUP_NEVER
+Nikad ne otvaraj iskaüuÜi prozor! Pih!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Iskoüi samo u sluüaju greÁke
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Iskoüi za nove, nepoznate ure–aje
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Iskoüi ako nema povezivanja
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Iskoüi ako joÁ nema konfiguracije
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Iskoüi kod klase koja se moße podesiti
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Iskoüi, bez obzira na povezivanje
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Uvek me odmah gnjavi
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 grafiüki korisniüki interfejs
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cza Poseidon USB stek
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cSva prava zadrßana.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason ikone su\nljubaznoÁÜu Martina Merca.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bDostupni USB hardverski kontroleri
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Ovo je lista dostupnih hardverskih kontrolera.\nViÁe razliüitih kontrolera moße biti u sistemu\nistovremeno.\nDa dodate stavku, koristite gedßet 'Novo' na dnu.\nHardverski kontroler morate ruüno ukljuüiti\nprvi put kada dodate ure–aj.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uIme
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uJedinica
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uAktivan
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uProizvod
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Da
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Ne
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33inepoznato dok se ne ukljuüi
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Ure–aj:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+U ovo polje unesite ime drajvera\nure–aja kontrolera. Ovi ure–aji se\nobiüno nalaze u DEVS:USBHardware.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Izaberite USBHardware ure–aj...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Jedinica:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Ako u vaÁoj maÁini ima viÁe kartica\niste vrste, ovde unesite broj\njedinice te ploüe.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Novo
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Kliknite ovde da napravite\nnovu stavku hardverskog drajvera.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopiraj
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Kliknite ovde da kopirate izabranu\nstavku hardverskog drajvera.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c ObriÁi
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Kliknite ovde da uklonite izabranu stavku.\nHardver Üe se automatski iskljuüiti,\nzajedno sa svim povezanim ure–ajima.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Ukljuüi
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Kliknite ovde da aktivirate\npojedinaüni hardverski drajver.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Iskljuüi
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Kliknite ovde da deaktivirate\npojedinaüni hardverski drajver.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Info
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Da dobijete informacije o drajveru ure–aja,\nkliknite ovde. Ure–aj mora biti ukljuüen\nda bi informacije bile dostupne.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bUSB ure–aji u sistemu
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Ovo je lista USB ure–aja (funkcija)\ntrenutno u sistemu. Tako–e prikazuje\npostojeÜa povezivanja ure–aja ili interfejsa.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uIme
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uBrzina
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uStanje
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uKlasa
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uPovezivanja
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Skeniraj klase
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Klik na ovo dugme pokreÜe skeniranje klasa. To znaüi da\nÜe svaki ure–aj biti ispitan da li odgovara nekoj od standardnih\nklasa u sistemu. U tom sluüaju biÜe uspostavljeno povezivanje\ni funkcionalnost Üe biti automatski dodata sistemu.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Razveßi
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Ruüno uklanja povezivanje. To moße biti\nkorisno za privremeno deaktiviranje ure–aja.\nKoristite 'Skeniraj klase' da ponovo aktivirate povezivanje.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Informacije
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Otvara prozor sa detaljnim informacijama.\nSamo probajte, niÁta ne moße poÜi naopako.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c PodeÁavanja
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Ako postoji povezivanje ure–aja i klasa\npodrßava grafiüki prozor za konfiguraciju, klik na\novo dugme otvara prozor sa podeÁavanjima.\n\nImajte na umu da se odgovarajuÜe dugme za\npodeÁavanja povezivanja interfejsa nalazi unutar\nprozora sa informacijama.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Mirovanje
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Êalje ure–aj u reßim mirovanja radi uÁtede energije.\nAko povezivanje klase ne podrßava mirovanje,\novo dugme neÜe uraditi niÁta.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Nastavi
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+VraÜa ure–aj u pun rad nakon\nÁto je stavljen u reßim mirovanja.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Prekid napajanja
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Prekida i vraÜa napajanje porta haba i ponovo\nprepoznaje ure–aj. Korisno za oßivljavanje mrtvih ure–aja.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c OnemoguÜi
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Trajno iskljuüuje napajanje porta. Ne moße se\nponovo aktivirati izvlaüenjem/vraÜanjem ure–aja.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Posejdon (latinsko ime Neptun), bog mora\ni njegovih stanovnika, jedan od Olimpljana, sin\nKrona i Reje, brat Zevsa, Hada, Demetre,\nHere i Hestije. Bio je oßenjen Amfitritom, Nereidom,\ni sa njom imao sina Tritona, morskog üoveka. Kao i drugi\nOlimpljani, imao je mnoge ljubavne veze (npr. sa Meduzom)\ni brojnu decu (npr. Pegaza).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bDostupne USB klase
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Ovo je lista dostupnih USB klasa.\nSvaka klasa je softverski drajver za grupu\nUSB ure–aja. Klase se mogu ruüno dodati dugmetom\n'Dodaj' ili automatski pomoÜu 'Skeniraj dir.'.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uIme
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uUpotr.#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uOpis
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Biblioteka klase:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+Da ruüno dodate USB drajver klase,\nunesite njegovo ime ovde i kliknite na 'Dodaj'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Izaberite USB biblioteku klase...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cDodaj
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+Da ruüno dodate USB drajver\nklase, unesite njegovo ime iznad\ni kliknite na ovo dugme.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Ukloni
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Kliknite ovde da uklonite drajver klase\ni sva njegova trenutna povezivanja.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Podesi
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Ako drajver klase podrßava neku vrstu\nkonfiguracije, kliknite ovde i otvoriÜe se\nprozor za konfiguraciju te klase.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Skeniraj dir.
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Automatski traßi drajvere klasa i\ndodaje sve\nprona–ene drajvere u sistem.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bRazna podeÁavanja
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+PodeÁavanja steka
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Prioritet podzadataka:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Odre–uje prioritet svih podzadataka\nkoje pokreÜe Poseidon.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+KaÁnjenje pri pokretanju:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Ako je rezidentan pri resetu, ova vrednost\nodre–uje koliko dugo Poseidon treba da üeka da\nse USB ure–aji smire, Áto omoguÜava pokretanje sa\nsporih ure–aja kao Áto je USB CD ure–aj.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Automatski onemoguÜi port haba pri slabom napajanju:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Ako se na portu otkrije slabo napajanje,\nizborom ovog prekidaüa automatski se iskljuüuje\nure–aj koji izaziva slabo napajanje.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Automatski onemoguÜi port haba ako ure–aj otkaße:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Ako ure–aj otkaße (isteknu vremena prenosa),\na ovaj prekidaü je izabran, port haba Üe\nbiti automatski onemoguÜen da bi se izbeglo\nnepotrebno usporavanje.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Automatski prekini napajanje porta haba ako ure–aj otkaße:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Ako ure–aj otkaße (isteknu vremena prenosa),\na ovaj prekidaü je izabran, port haba Üe biti\nautomatski resetovan u pokuÁaju da se ure–aj oßivi.\nMe–utim, ovo moße dovesti do gadnih beskonaünih petlji.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+OmoguÜi reßim mirovanja radi uÁtede energije:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Ure–aji Üe biti stavljeni u reßim mirovanja nakon\nzadatog perioda neaktivnosti.\nPotroÁnja energije pada ispod 1mA.\nNastavak rada obiüno se odvija u roku od 25ms.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Prisili reßim mirovanja, üak i ako ga klasa ne podrßava:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Drajveri klasa bi trebalo da podrßavaju prelazak u\nreßim mirovanja. Ako ne podrßavaju, ukljuüivanje ovog\nprekidaüa jednostavno prekida povezivanje pre mirovanja.\nOvo se radi samo za ure–aje sa daljinskim bu–enjem,\ninaüe se klasa ne bi automatski ponovo povezala.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Vreme neaktivnosti do mirovanja:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Vreme üekanja pre pokuÁaja da se ure–aj stavi\nu reßim mirovanja radi uÁtede energije.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Opcije zapisivanja
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Zapisuj informativne poruke:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Ukljuüuje/iskljuüuje zapisivanje obiünih\ninformativnih poruka.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Zapisuj upozorenja:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Ukljuüuje/iskljuüuje zapisivanje upozorenja.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Zapisuj greÁke:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Ukljuüuje/iskljuüuje zapisivanje greÁaka.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Zapisuj otkaze:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Ukljuüuje/iskljuüuje zapisivanje otkaza.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Zauzeta memorija u Poseidon pulu:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bPodeÁavanja iskaüuÜih prozora
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Opcije iskaüuÜeg prozora
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Pri povezivanju:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+PonaÁanje iskaüuÜeg prozora pri\npovezivanju novih USB ure–aja
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Pri iskljuüivanju:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Da li otvoriti iskaüuÜi prozor\nkada se ure–aj ukloni.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Pri otkazu ure–aja:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Otvara upitnik ako se üini da je ure–aj mrtav.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+KaÁnjenje iskaüuÜeg prozora:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Koliko dugo upitnik treba da bude prikazan\npre nego Áto automatski nestane.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Aktiviraj prozor:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+¨ini prozor aktivnim pri otvaranju.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Izbaci napred:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Izbacuje prozor napred ako se sadrßaj promeni.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Zvuk pri povezivanju:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Ovaj zvuk Üe se puÁtati svaki put kada\nse ure–aj poveße na magistralu.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Izaberite zvuüni fajl koji Üe se puÁtati...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Zvuk pri iskljuüivanju:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Ovaj zvuk Üe se puÁtati svaki put kada\nse ure–aj ukloni sa magistrale.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Izaberite zvuüni fajl koji Üe se puÁtati...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bUpravljanje konfiguracijom (koristite prevlaüenje)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+U ovom okviru moßete videti sva podeÁavanja koja su\nsnimljena uz fajl podeÁavanja u ENVARC:.\nOvaj panel moßete koristiti za brisanje ili izvoz podeÁavanja.\n\nKoristite prevlaüenje za kopiranje ili zamenu podeÁavanja.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uTip
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uOpis
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uVlasnik
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uVeliüina
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Snimi kao
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Snima sva podeÁavanja pod datim imenom\nradi kasnijeg ponovnog uüitavanja.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Izvezi
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+OmoguÜava da snimite izabranu stavku\nkako biste je kasnije ponovo uüitali.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Uvezi
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Uvozi prethodno snimljeni deo podeÁavanja.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Ukloni
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+BriÁe izabranu stavku podeÁavanja.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Log poruka
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Nivo informacija:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Ovaj gedßet odre–uje koliüinu i\nvrstu poruka prikazanih ispod.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Snimi na disk
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Za pravljenje log fajla sa greÁkama,\nnpr. da mi poÁaljete informacije\nradi prijave greÁke ili pomoÜi.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c ObriÁi sve
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Klik na ovo dugme uklanja sve\nporuke u steku. Nema naüina\nda se one vrate.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Ovo su poruke Poseidon steka\ngenerisane do sada. Ako ßelite da obriÁete ovu listu\nsamo kliknite na dugme 'ObriÁi sve'.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Ukljuüi sve
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+PokreÜe sve drajvere USB hardverskih ure–aja\nkoji su uneti u panelu 'Hardver'.\nOsim toga, prona–eni ure–aji biÜe provereni\nzbog moguÜih povezivanja.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Iskljuüi sve
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+PomoÜu 'Iskljuüi sve' moßete zaustaviti sve\ndrajvere USB hardverskih ure–aja.\nOvo potpuno zaustavlja stek.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Restartuj
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+Klik na 'Restartuj' zaustavlja i ponovo pokreÜe\nsve drajvere hardverskih ure–aja.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Snimi
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Da snimite trenutna podeÁavanja na disk, kliknite\nna ovo dugme. Konfiguracija Üe biti\nsmeÁtena i u ENVARC: i u\n ENV:.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Koristi
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Da koristite podeÁavanja, ali ih ne snimite trajno,\nkliknite na ovo dugme. Konfiguracija Üe biti\nsmeÁtena u ENV:.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+nepoznato
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Prozor sa informacijama o hardverskom drajveru
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Ova polja prikazuju neke opÁte informacije\no USB hardverskom drajveru.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+OpÁte informacije o USB hardverskom drajveru
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Ure–aj:\nJedinica:\nVerzija:\nProizvod:\nProizvo–aü:\nOpis:\nKopirajt:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Izaberite fajl u koji se snimaju greÁke...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Log greÁaka snimljen u fajl %s.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+GreÁka pri otvaranju fajla %s za upis.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Izaberite fajl u koji se snima lista ure–aja...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+GreÁka pri izvrÁavanju PsdDevLister
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister snimljen u %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Izaberite fajl sa Poseidon podeÁavanjima...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Konfiguracija uüitana iz %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Izaberite fajl u koji se snimaju podeÁavanja...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Konfiguracija je uspeÁno snimljena u %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Nije moguÜe snimiti konfiguraciju u %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Konfiguracija nije snimljena!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Konfiguracija je uspeÁno snimljena.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Koristi|Snimi|PoniÁti
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+Trenutna konfiguracija je izmenjena\ni joÁ nije snimljena.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Nije moguÜe snimiti konfiguraciju.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Nema
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Nisam glup!|RazmisliÜu ponovo
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Upravo Üete uspostaviti prisilno povezivanje\n\33bure–aja\33n. Ovo nije povezivanje interfejsa. Kako\nveÜina ljudi nije u stanju da proüita uputstvo,\noni nanose viÁe Átete nego koristi.\nUverite se da znate Áta radite i da niÁta\nne kvarite (a onda me gnjavite\nglupim mejlovima).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+Prisilno povezivanje ure–aja %s sa %s.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+Uklonjeno prisilno povezivanje ure–aja %s.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Ukloni|PoniÁti
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+Upravo Üete \33bukloniti\33n konfiguracione\npodatke vezane za ure–aj sa ID-om\n\33b%s\33n.\nTo obuhvata sva pojedinaüno snimljena podeÁavanja\nklasa za ure–aj ili interfejse, kao i ono\nÁto Trident snima (kao Áto je prilago–eno ime ili\nzabrana iskaüuÜih prozora).\n\nDa li ste sigurni da ßelite da uklonite ova podeÁavanja?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+Upravo Üete \33bukloniti\33n (podrazumevanu)\nkonfiguraciju klase \33b%s\33n.\nOvo Üe poüetna podeÁavanja klase vratiti na\ninterne podrazumevane vrednosti \33bpri sledeÜem pokretanju\33n!\nObiüno ne utiüe na pojedinaüno snimljena\npodeÁavanja ure–aja ili interfejsa.\n\nDa li ste sigurni da ßelite da uklonite ova podeÁavanja?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+Upravo Üete \33bukloniti\33n konfiguraciju\nklase \33b%s\33n,\nposebno snimljenu za ure–aj sa ID-om\n\33b%s\33n.\n\nDa li ste sigurni da ßelite da uklonite ova podeÁavanja?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+Upravo Üete \33bukloniti\33n konfiguraciju\nklase \33b%s\33n\nsnimljenu za odre–eni interfejs\n\33b%s\33n ure–aja sa ID-om\n\33b%s\33n.\n\nDa li ste sigurni da ßelite da uklonite ova podeÁavanja?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Da li zaista ßelite da uklonite ove\n\33bnepoznate podatke\33n iz podeÁavanja?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Izaberite fajl u koji Üe se izvesti podeÁavanja...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+NeuspeÁno otvaranje fajla %s.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Izaberite fajl iz kojeg se uvoze podeÁavanja...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Ups!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Da biste uvezli podeÁavanja ure–aja\nili interfejsa, morate izabrati stavku\nure–aja kojoj treba da se dodaju.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Ne poznajem tu vrstu fajla sa podeÁavanjima.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+GreÁka pri üitanju fajla sa podeÁavanjima %s.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+NeuspeÁna alokacija bafera za uüitavanje %s.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+Izgleda da %s nije iff fajl.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+NeuspeÁno otvaranje fajla %s.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Zameni|Spoji|PoniÁti
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+¶elite li da \33bzamenite\33n ili \33bspojite\33n podeÁavanja za\n\33b%s\33n\nsa sadrßajem iz\n\33b%s\33n?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Dodaj ure–aju|PoniÁti
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Naßalost, mogu se zameniti samo podeÁavanja\nistog vlasnika.\n\n¶elite li umesto toga da dodate\nova podeÁavanja ure–aju?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Zameni|PoniÁti
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+¶elite li da \33bzamenite\33n podeÁavanja za\n\33b%s\33n\nonima od\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Zameni|PoniÁti
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+¶elite li da \33bzamenite\33n podeÁavanja za\n\33b%s\33n\nonima iz\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Dodaj|PoniÁti
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+¶elite li da \33bdodate\33n podeÁavanja od\n\33b%s\33n\nure–aju\n\33b%s\33n?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Ups!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Naßalost, prevlaüenje i puÁtanje na\ntaj cilj nije podrßano.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Nizak
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Visok
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Pun
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Obustavljeno
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Mrtav
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Mrtav \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Slabo napajanje
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Radi
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Povezan
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Upozorenje
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+GreÁka
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Neuspeh
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

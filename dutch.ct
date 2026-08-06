@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+GUI voor de Poseidon USB-stack
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Project
+; Project
+;
+MSG_MENU_ABOUT
+Over...
+; About...
+;
+MSG_MENU_ABOUTMUI
+Over MUI...
+; About MUI...
+;
+MSG_MENU_HELP
+Help
+; Help
+;
+MSG_MENU_ONLINE
+Online
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Offline
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Iconificeer
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Einde
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Informatie
+; Information
+;
+MSG_MENU_SAVELOG
+Foutenlog bewaren...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Fouten wissen
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Apparatenlijst bewaren...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Instellingen
+; Settings
+;
+MSG_MENU_LOAD
+Laden...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Bewaar
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Bewaar als...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI-instellingen
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+Algemeen
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Controllers
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Apparaten
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Klassen
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Opties
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Popups
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Config
+; Config
+;
+MSG_ERRLVL_ALL
+Alle meldingen
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Waarschuwingen en erger
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Fouten en mislukkingen
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Alleen mislukkingen
+; Failures only
+;
+MSG_POPUP_NEVER
+Nooit een popupvenster openen! Bah!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Alleen popup bij een fout
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Popup bij nieuwe, onbekende apparaten
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Popup als er geen koppeling is
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Popup als er nog geen configuratie is
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Popup bij configureerbare klasse
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Popup, ongeacht de koppeling
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Val me altijd meteen lastig
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 grafische gebruikersinterface
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cvoor de Poseidon USB-stack
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cAlle rechten voorbehouden.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason-iconen zijn\nbeschikbaar gesteld door Martin Merz.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bBeschikbare USB-hardwarecontrollers
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Dit is de lijst met beschikbare hardwarecontrollers.\nEr kunnen meerdere verschillende controllers tegelijk\nin het systeem aanwezig zijn.\nGebruik het gadget 'Nieuw' onderaan om een item toe te voegen.\nDe eerste keer dat u het apparaat toevoegt, moet u de\nhardwarecontroller handmatig online zetten.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uNaam
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uUnit
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uOnline
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uProduct
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Ja
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Nee
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33ionbekend tot online
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Device:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Geef in dit veld de naam op van het\ncontrollerstuurprogramma. Deze devices staan\nnormaal gesproken in DEVS:USBHardware.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Selecteer USBHardware-device...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Unit:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Als er meerdere kaarten van hetzelfde\ntype in uw machine zitten, voer hier\nhet unitnummer van de kaart in.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Nieuw
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Klik hier om een nieuw item voor een\nhardwarestuurprogramma aan te maken.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopiëren
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Klik hier om het geselecteerde item voor\nhet hardwarestuurprogramma te kopiëren.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Verwijderen
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Klik hier om het geselecteerde item te verwijderen.\nDe hardware gaat automatisch offline en schakelt\nalle aangesloten apparaten uit.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Online
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Klik hier om een afzonderlijk\nhardwarestuurprogramma in te schakelen.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Offline
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Klik hier om een afzonderlijk\nhardwarestuurprogramma uit te schakelen.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Info
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Klik hier voor informatie over het stuurprogramma.\nHet apparaat moet online zijn om de informatie\nbeschikbaar te maken.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bUSB-apparaten in het systeem
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Dit is de lijst met USB-apparaten (functies) die\nzich momenteel in het systeem bevinden. Hij toont\nook de bestaande apparaat- of interfacekoppelingen.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uNaam
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uSnelheid
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uStatus
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uKlasse
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uKoppelingen
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Klassescan
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Met deze knop start u een klassescan. Dit betekent dat\nvan elk apparaat wordt onderzocht of het overeenkomt met\neen van de standaardklassen in het systeem. Zo ja, dan wordt\neen koppeling gemaakt en wordt de functionaliteit automatisch\naan het systeem toegevoegd.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Ontkoppelen
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Verwijdert handmatig een koppeling. Dit kan nuttig\nzijn om een apparaat tijdelijk uit te schakelen.\nGebruik 'Klassescan' om de koppeling te herstellen.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Informatie
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Opent een gedetailleerd informatievenster.\nProbeer het gerust, er kan niets misgaan.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Instellingen
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Als er een apparaatkoppeling bestaat en de klasse\neen configuratie-GUI ondersteunt, opent deze knop\nhet voorkeurenvenster.\n\nLet op: de bijbehorende knop voor de instellingen\nvan de interfacekoppeling vindt u in het\ninformatievenster.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Slaapstand
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Zet het apparaat in de energiebesparende slaapstand.\nAls een klassekoppeling slaapstand niet ondersteunt,\ndoet deze knop niets.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Hervatten
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Laat het apparaat weer volledig werken nadat\nhet in de slaapstand is gezet.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Voeding resetten
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Zet de voeding van de hubpoort uit en weer aan en\nleest het apparaat opnieuw uit. Handig om dode\napparaten te reactiveren.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Uitschakelen
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Schakelt de poort permanent uit. Opnieuw aansluiten\nvan het apparaat activeert hem niet opnieuw.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (zijn Latijnse naam is Neptunus), god van de zee\nen haar bewoners, en een van de Olympiërs, zoon van\nKronos en Rheia, broer van Zeus, Hades, Demeter,\nHera en Hestia. Hij was getrouwd met Amphitrite, een\nnereïde, en kreeg bij haar zoon Triton, een meerman.\nNet als andere Olympiërs had hij vele liefdesaffaires\n(bijv. met Medusa) en talrijke kinderen (bijv. Pegasos).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bBeschikbare USB-klassen
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Dit is de lijst met beschikbare USB-klassen.\nElke klasse is een stuurprogramma voor een groep\nUSB-apparaten. Klassen kunnen handmatig worden\ntoegevoegd met 'Toevoegen' of automatisch met 'Map scannen'.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uNaam
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uGebr.#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uBeschrijving
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Klassebibliotheek:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+Om handmatig een USB-klassestuurprogramma toe te voegen,\nvoer hier de naam in en klik op 'Toevoegen'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Selecteer USB-klassebibliotheek...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cToevoegen
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+Om handmatig een USB-klassestuurprogramma\ntoe te voegen, voer hierboven de naam in\nen klik op deze knop.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Verwijderen
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Klik hier om een klassestuurprogramma en\nal zijn huidige koppelingen te verwijderen.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Configureren
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Als een klassestuurprogramma enige vorm van\nconfiguratie ondersteunt, klik dan hier om het\nconfiguratievenster van de klasse te openen.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Map scannen
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Zoekt automatisch naar klassestuurprogramma's\nen voegt alle gevonden\nstuurprogramma's toe aan het systeem.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bDiverse instellingen
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Stack-instellingen
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+SubTask-prioriteit:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Bepaalt de taakprioriteit van alle\nsubtaken die Poseidon start.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Opstartvertraging:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Bij reset-resident bepaalt deze waarde hoe\nlang Poseidon moet wachten tot USB-apparaten\ngereed zijn, zodat er kan worden opgestart\nvan trage apparaten zoals een USB-cd-station.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld sec.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Hubpoort automatisch uitschakelen bij te lage stroomvoorziening:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Als bij een poort te lage stroomvoorziening wordt\ngedetecteerd, schakelt deze optie automatisch het\napparaat uit dat dit veroorzaakt.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Hubpoort automatisch uitschakelen als apparaat uitvalt:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Als een apparaat uitvalt (transfer-timeouts) en\ndeze schakelaar aanstaat, wordt de hubpoort\nautomatisch uitgeschakeld om onnodig\nprestatieverlies te voorkomen.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Voeding hubpoort automatisch resetten als apparaat uitvalt:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Als een apparaat uitvalt (transfer-timeouts) en\ndeze schakelaar aanstaat, wordt de hubpoort\nautomatisch gereset om het apparaat te herstellen.\nDit kan echter tot vervelende oneindige lussen leiden.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Energiebesparende slaapstand inschakelen:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Apparaten worden na een opgegeven periode van\ninactiviteit in de slaapstand gezet.\nHet stroomverbruik daalt tot minder dan 1mA.\nHervatten gebeurt meestal binnen 25ms.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Slaapstand forceren, ook als de klasse dit niet ondersteunt:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Klassestuurprogramma's horen de slaapstand te\nondersteunen. Zo niet, dan geeft deze optie de\nkoppeling gewoon vrij voordat het apparaat slaapt.\nDit gebeurt alleen bij apparaten met remote wakeup,\nanders zou de klasse niet automatisch herkoppelen.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Inactiviteitstijd voor slaapstand:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Wachttijd voordat wordt geprobeerd een apparaat in\nde energiebesparende slaapstand te zetten.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld sec.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Log-opties
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Infoberichten loggen:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Schakelt het loggen van normale\ninformatieberichten in of uit.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Waarschuwingen loggen:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Schakelt het loggen van waarschuwingen in of uit.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Fouten loggen:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Schakelt het loggen van fouten in of uit.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Storingen loggen:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Schakelt het loggen van storingen in of uit.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Geheugen gereserveerd in Poseidon-pool:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bPopup-instellingen
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Opties popupvenster
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Bij aansluiten:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Weergavegedrag van popups bij het\naansluiten van nieuwe USB-apparaten
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Bij loskoppelen:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Of er een venster moet verschijnen\nals het apparaat wordt verwijderd.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Bij uitvallen van apparaat:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Opent een requester als een apparaat dood lijkt.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Popupvertraging:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Hoe lang de requester getoond moet worden\nvoordat hij automatisch verdwijnt.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld sec.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Venster activeren:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Maakt het venster actief bij het openen.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Naar voren halen:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Haalt het venster naar voren als de inhoud verandert.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Geluid bij aansluiten:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Dit geluid wordt afgespeeld telkens als\neen apparaat op de bus wordt aangesloten.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Selecteer een af te spelen geluidsbestand...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Geluid bij loskoppelen:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Dit geluid wordt afgespeeld telkens als\neen apparaat van de bus wordt verwijderd.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Selecteer een af te spelen geluidsbestand...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bConfiguratiebeheer (gebruik drag & drop)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+In dit vak ziet u alle instellingen die samen met\nhet voorkeurenbestand in ENVARC: zijn bewaard.\nMet dit paneel kunt u instellingen verwijderen of exporteren.\n\nGebruik drag & drop om instellingen te kopiëren of te vervangen.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uType
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uBeschrijving
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uEigenaar
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uGrootte
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Bewaren als
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Bewaar alle instellingen onder de opgegeven naam\nom ze later weer te laden.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Exporteren
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Hiermee kunt u een geselecteerd item bewaren\nom het later weer te laden.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Importeren
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Importeert een eerder bewaard deel van de instellingen.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Verwijderen
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Verwijdert het geselecteerde instellingenitem.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Berichtenlog
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Informatieniveau:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Dit gadget bepaalt de hoeveelheid en het\ntype berichten dat hieronder wordt getoond.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Bewaren op schijf
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Om een logbestand van de fouten te maken,\nbijv. om de informatie naar mij te sturen\nvoor een foutmelding of hulp.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Alles wissen
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Met deze knop verwijdert u alle berichten\nin de stack. U kunt ze daarna niet meer\nterughalen.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Dit zijn de berichten die de Poseidon-stack\ntot nu toe heeft gegenereerd. Klik op de knop\n'Alles wissen' om deze lijst te legen.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Alles online
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Start alle USB-hardwarestuurprogramma's die\nin het paneel 'Hardware' zijn ingevoerd.\nBovendien worden de gevonden apparaten\ngecontroleerd op mogelijke koppelingen.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Alles offline
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+Met 'Offline' kunt u alle stuurprogramma's\nvoor USB-hardware uitschakelen.\nDit legt de stack volledig stil.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Herstarten
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+Klikken op 'Herstarten' stopt en herstart\nalle hardwarestuurprogramma's.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Bewaren
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Klik op deze knop om uw huidige instellingen\nop schijf te bewaren. De configuratie wordt\nzowel in ENVARC: als in\n ENV: opgeslagen.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Gebruiken
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Klik op deze knop om uw instellingen te gebruiken\nzonder ze permanent te bewaren. De configuratie\nwordt in ENV: opgeslagen.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+onbekend
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Informatievenster hardwarestuurprogramma
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Deze velden tonen wat algemene informatie\nover het USB-hardwarestuurprogramma.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+Algemene informatie over het USB-hardwarestuurprogramma
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Device:\nUnit:\nVersie:\nProduct:\nFabrikant:\nBeschrijving:\nCopyright:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Selecteer het bestand om de fouten in te bewaren...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Foutenlogboek bewaard in bestand %s.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Fout bij het openen van bestand %s om te schrijven.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Selecteer het bestand om de devicelijst in te bewaren...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Fout bij het uitvoeren van PsdDevLister
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister bewaard naar %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Selecteer een Poseidon-instellingenbestand...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Configuratie geladen uit %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Selecteer het bestand om de instellingen in te bewaren...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Configuratie is bewaard in %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Kon configuratie niet bewaren in %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Configuratie niet bewaard!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Configuratie is bewaard.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Gebruik|Bewaar|Annuleer
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+De huidige configuratie is gewijzigd\nen nog niet bewaard.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Kon configuratie niet bewaren.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Geen
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Ik ben niet dom!|Ik denk er nog eens over
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+U staat op het punt een geforceerde \33bdevice\33n-\nbinding tot stand te brengen. Dit is geen interface-binding.\nDe meeste mensen zijn niet in staat de handleiding\nte lezen en richten meer schade aan dan goeds.\nZorg ervoor dat u weet wat u doet en niets\nkapotmaakt (en mij daarna lastigvalt met\nonzinnige e-mails).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+Device-binding van %s aan %s wordt geforceerd.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+Geforceerde device-binding van %s verwijderd.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Verwijder|Annuleer
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+U staat op het punt de configuratiegegevens\nvan het device met ID\n\33b%s\33n te \33bverwijderen\33n.\nDit omvat alle apart bewaarde klasse-instellingen\nvoor het device of de interfaces, en ook\nde gegevens die Trident bewaart (zoals een eigen naam of\npopup-onderdrukking).\n\nWeet u zeker dat u deze instellingen wilt verwijderen?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+U staat op het punt de (standaard)configuratie\nvan de klasse \33b%s\33n te \33bverwijderen\33n.\nHierdoor worden de begininstellingen van de klasse\n\33bbij de volgende start\33n op de interne standaardwaarden gezet!\nDit heeft normaal gesproken geen invloed op de apart\nbewaarde instellingen van device of interface.\n\nWeet u zeker dat u deze instellingen wilt verwijderen?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+U staat op het punt de klasseconfiguratie\nvan de klasse \33b%s\33n te \33bverwijderen\33n,\ndie speciaal bewaard is voor het device met ID\n\33b%s\33n.\n\nWeet u zeker dat u deze instellingen wilt verwijderen?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+U staat op het punt de klasseconfiguratie\nvan de klasse \33b%s\33n te \33bverwijderen\33n,\ndie bewaard is voor de specifieke interface\n\33b%s\33n van het device met ID\n\33b%s\33n.\n\nWeet u zeker dat u deze instellingen wilt verwijderen?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Wilt u deze\n\33bonbekende instellingengegevens\33n echt uit de instellingen verwijderen?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Selecteer het bestand om de instellingen naar te exporteren...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+Kon bestand %s niet openen.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Selecteer het bestand om de instellingen uit te importeren...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Oeps!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Om instellingen van een device of interface\nte importeren moet u het device-item\nselecteren waaraan ze toegevoegd moeten worden.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Ik ken dat soort instellingenbestand niet.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Leesfout bij het laden van instellingenbestand %s.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+Kon geen buffer toewijzen voor het laden van %s.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+%s lijkt geen iff-bestand te zijn.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+Kon bestand %s niet openen.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Vervang|Voeg samen|Annuleer
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+Wilt u de instellingen van\n\33b%s\33n\n\33bvervangen\33n of \33bsamenvoegen\33n met de inhoud van\n\33b%s\33n?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Aan device toevoegen|Annuleer
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Sorry, alleen instellingen van dezelfde eigenaar kunnen\nworden vervangen.\n\nWilt u deze instellingen in plaats daarvan\naan het device toevoegen?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Vervang|Annuleer
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+Wilt u de instellingen van\n\33b%s\33n\n\33bvervangen\33n door die van\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Vervang|Annuleer
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+Wilt u de instellingen van\n\33b%s\33n\n\33bvervangen\33n door die in\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Voeg toe|Annuleer
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+Wilt u de instellingen van\n\33b%s\33n\n\33btoevoegen\33n aan het device\n\33b%s\33n?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Oeps!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Sorry, drag'n drop naar dat doel\nwordt niet ondersteund.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Laag
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Hoog
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Volledig
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Onderbroken
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Dood
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Dood \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Laag vermogen
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Actief
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Verbonden
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Waarschuwing
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Fout
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Mislukt
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

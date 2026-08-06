@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language norsk
+## codeset 0
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Grafisk grensesnitt for Poseidon USB-stakken
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Prosjekt
+; Project
+;
+MSG_MENU_ABOUT
+Om...
+; About...
+;
+MSG_MENU_ABOUTMUI
+Om MUI...
+; About MUI...
+;
+MSG_MENU_HELP
+Hjelp
+; Help
+;
+MSG_MENU_ONLINE
+Tilkoblet
+; Online
+;
+MSG_MENU_SC_ONLINE
+Å
+; O
+;
+MSG_MENU_OFFLINE
+Frakoblet
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Minimer
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Avslutt
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Informasjon
+; Information
+;
+MSG_MENU_SAVELOG
+Lagre feillogg...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Tøm feillogg
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Lagre enhetsliste...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Innstillinger
+; Settings
+;
+MSG_MENU_LOAD
+Last inn...
+; Load...
+;
+MSG_MENU_SC_LOAD
+Y
+; L
+;
+MSG_MENU_SAVE
+Lagre
+; Save
+;
+MSG_MENU_SC_SAVE
+H
+; S
+;
+MSG_MENU_SAVEAS
+Lagre som...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI-innstillinger
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+Generelt
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Kontrollere
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Enheter
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Klasser
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Valg
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Popup-vinduer
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Oppsett
+; Config
+;
+MSG_ERRLVL_ALL
+Alle meldinger
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Advarsler og verre
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Feil og alvorlige feil
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Bare alvorlige feil
+; Failures only
+;
+MSG_POPUP_NEVER
+Åpne aldri et popup-vindu! Æsj!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Popup bare ved feiltilstand
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Popup ved nye, ukjente enheter
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Popup hvis det ikke finnes noen binding
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Popup hvis det ikke finnes oppsett ennå
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Popup ved konfigurerbar klasse
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Popup, uansett binding
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Plag meg alltid umiddelbart
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 grafisk grensesnitt
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cfor Poseidon USB-stakken
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cMed enerett.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason-ikonene er\nlevert av Martin Merz.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bTilgjengelige USB-maskinvarekontrollere
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Dette er listen over tilgjengelige maskinvarekontrollere.\nFlere ulike kontrollere kan finnes i systemet\nsamtidig.\nBruk 'Ny'-knappen nederst for å legge til en oppføring.\nDu må sette en maskinvarekontroller online manuelt\nførste gang du legger til enheten.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uNavn
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uNummer
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uOnline
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uProdukt
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Ja
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Nei
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33iukjent inntil online
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Enhet:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Oppgi navnet på kontrollerens enhetsdriver\ni dette feltet. Disse enhetene ligger\nvanligvis i DEVS:USBHardware.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Velg USBHardware-enhet...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Enhet:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Hvis du har flere kort av samme\ntype i maskinen, skriv inn\nkortets enhetsnummer her.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Ny
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Klikk her for å opprette en\nny maskinvaredriveroppføring.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopier
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Klikk her for å kopiere den valgte\nmaskinvaredriveroppføringen.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Slett
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Klikk her for å fjerne den valgte oppføringen.\nMaskinvaren går automatisk offline, og alle\ntilkoblede enheter stoppes.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Online
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Klikk her for å aktivere en\nenkelt maskinvaredriver.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Offline
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Klikk her for å deaktivere en\nenkelt maskinvaredriver.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Info
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Klikk her for å få informasjon om\nenhetsdriveren. Enheten må være online\nfor at informasjonen skal være tilgjengelig.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bUSB-enheter i systemet
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Dette er listen over USB-enheter (funksjoner)\nsom finnes i systemet nå. Den viser også de\nnåværende enhets- eller grensesnittbindingene.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uNavn
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uHastighet
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uTilstand
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uKlasse
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uBindinger
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Klasseskann
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Klikk på denne knappen for å starte et klasseskann. Det betyr at\nhver enhet blir undersøkt for å se om den passer med noen av\nstandardklassene i systemet. I så fall opprettes en binding og\nfunksjonaliteten legges automatisk til i systemet.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Løs binding
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Fjerner en binding manuelt. Dette kan være\nnyttig for å deaktivere en enhet midlertidig.\nBruk 'Klasseskann' for å gjenopprette bindingen.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Informasjon
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Åpner et detaljert informasjonsvindu.\nBare prøv, ingenting kan gå galt.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Innstillinger
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Hvis det finnes en enhetsbinding og klassen\nstøtter et grafisk oppsett, vil et klikk på denne\nknappen åpne innstillingsvinduet.\n\nMerk at den tilsvarende knappen for innstillinger\nfor grensesnittbindinger finnes inne i\ninformasjonsvinduet.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Hvilemodus
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Setter enheten i strømsparende hvilemodus.\nHvis en klassebinding ikke støtter hvilemodus,\ngjør denne knappen ingenting.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Gjenoppta
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Gjenoppretter enheten til full drift etter\nat den ble satt i hvilemodus.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Strøm av/på
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Slår hub-porten av og på igjen og teller opp enheten\npå nytt. Nyttig for å gjenopplive døde enheter.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Deaktiver
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Slår av strømmen til porten permanent. Den kan ikke\nreaktiveres ved å koble enheten fra og til igjen.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (Neptun på latin), havets gud og gud for\ndets innbyggere, en av olympierne, sønn av Kronos\nog Rhea, bror av Zevs, Hades, Demeter, Hera og\nHestia. Han var gift med Amfitrite, en nereide, og\nfikk med henne sønnen Triton, en havmann. Som\nandre olympiere hadde han mange kjærlighetsforhold\n(f.eks. med Medusa) og tallrike barn (f.eks. Pegasos).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bTilgjengelige USB-klasser
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Dette er listen over tilgjengelige USB-klasser.\nHver klasse er en programvaredriver for en gruppe\nUSB-enheter. Klasser kan legges til manuelt med\n'Legg til'-knappen eller automatisk med 'Skann katalog'.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uNavn
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uBruk#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uBeskrivelse
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Klassebibliotek:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+For å legge til en USB-klassedriver manuelt,\nskriv inn navnet her og klikk på 'Legg til'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Velg USB-klassebibliotek...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cLegg til
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+For å legge til en USB-klassedriver\nmanuelt, skriv inn navnet over\nog klikk på denne knappen.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Fjern
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Klikk her for å fjerne en klassedriver\nog alle dens nåværende bindinger.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Konfigurer
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Hvis en klassedriver støtter en eller annen\nform for oppsett, kan du klikke her for å\nåpne klassens oppsettvindu.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Skann katalog
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Søker automatisk etter klassedrivere\nog legger alle drivere som blir funnet\ntil i systemet.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bDiverse innstillinger
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Stakkinnstillinger
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Prioritet for deloppgaver:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Angir oppgaveprioriteten til alle\ndeloppgaver som startes av Poseidon.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Oppstartsforsinkelse:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Hvis stakken er resident over omstart, angir denne\nverdien hvor lenge Poseidon skal vente på at\nUSB-enhetene skal falle til ro, slik at en kan starte\nopp fra trege enheter som en USB CD-stasjon.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Deaktiver hub-porten automatisk ved for lav effekt:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Hvis for lav effekt oppdages på en port, vil denne\nbryteren automatisk slå av enheten som\nforårsaker tilstanden.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Deaktiver hub-porten automatisk hvis enheten dør:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Hvis en enhet dør (tidsavbrudd under overføring)\nog denne bryteren er valgt, blir hub-porten\ndeaktivert automatisk for å unngå unødvendig\ntap av ytelse.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Slå hub-porten automatisk av og på hvis enheten dør:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Hvis en enhet dør (tidsavbrudd under overføring)\nog denne bryteren er valgt, blir hub-porten\nnullstilt automatisk for å prøve å gjenopplive\nenheten. Dette kan imidlertid føre til stygge evige løkker.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Aktiver strømsparende hvilemodus:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Enheter blir satt i hvilemodus etter et angitt\ntidsrom uten aktivitet.\nStrømforbruket går ned til under 1mA.\nGjenopptakelse av drift skjer vanligvis innen 25ms.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Tving hvilemodus, selv om klassen ikke støtter det:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Klassedrivere bør støtte overgang til hvilemodus.\nHvis de ikke gjør det, vil denne bryteren rett og\nslett løse bindingen før hvilemodus.\nDette gjøres bare for enheter med fjernoppvekking,\nellers ville ikke klassen bundet seg på nytt automatisk.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Inaktivitetstid før hvilemodus:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Ventetid før en enhet forsøkes satt i\nstrømsparende hvilemodus.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Loggvalg
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Loggfør infomeldinger:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Slår logging av vanlige\ninformasjonsmeldinger av og på.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Loggfør advarsler:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Slår logging av advarsler av og på.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Loggfør feil:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Slår logging av feil av og på.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Loggfør alvorlige feil:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Slår logging av alvorlige feil av og på.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Minne allokert i Poseidon-poolen:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bPopup-innstillinger
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Valg for popup-vinduer
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Ved tilkobling:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Oppførsel for popup-vinduer når\nnye USB-enheter kobles til
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Ved frakobling:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Om et vindu skal vises\nnår enheten fjernes.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Når en enhet dør:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Åpner en dialog hvis enheten ser ut til å være død.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Popup-forsinkelse:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Hvor lenge dialogen skal vises\nfør den forsvinner automatisk.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Aktiver vindu:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Gjør vinduet aktivt når det åpnes.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Sprett forran:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Løft vinduet til forgrunnen når innholdet endres.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Tilkoblingslyd:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Denne lyden spilles av hver gang\nen enhet kobles til bussen.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Velg en lydfil som skal spilles av...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Frakoblingslyd:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Denne lyden spilles av hver gang\nen enhet fjernes fra bussen.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Velg en lydfil som skal spilles av...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bOppsettbehandling (bruk dra og slipp)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+I denne boksen ser du alle innstillingene som er\nlagret sammen med innstillingsfilen i ENVARC:.\nDu kan bruke dette panelet til å slette eller\neksportere innstillinger.\n\nBruk dra og slipp for å kopiere eller erstatte innstillinger.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uType
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uBeskrivelse
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uEier
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uStørrelse
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Lagre som
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Lagrer alle innstillingene under et gitt navn\nslik at de kan lastes inn igjen senere.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Eksporter
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Lar deg lagre en valgt oppføring\nslik at den kan lastes inn igjen senere.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Importer
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Importerer tidligere lagrede innstillinger.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Fjern
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Sletter den valgte innstillingsoppføringen.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Meldingslogg
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Informasjonsnivå:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Dette valget bestemmer mengden og\ntypen meldinger som vises nedenfor.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Lagre til disk
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+For å lage en loggfil over feilene,\nf.eks. for å sende informasjonen til meg\nved feilrapportering eller for hjelp.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Tøm alt
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Klikk på denne knappen for å fjerne alle\nmeldingene i stakken. De kan ikke\nhentes tilbake.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Dette er meldingene som Poseidon-stakken har\ngenerert så langt. Hvis du vil tømme denne listen,\nklikker du bare på 'Tøm alle meldinger'-knappen.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Alle online
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Starter alle USB-maskinvaredrivere som er\nlagt inn i 'Maskinvare'-panelet.\nI tillegg blir enhetene som finnes sjekket\nfor mulige bindinger.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Alle offline
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+Med 'Offline' kan du stoppe alle\nUSB-maskinvaredriverne.\nDette stanser stakken helt.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Omstart
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+Klikk på 'Omstart' for å stoppe og starte\nalle maskinvaredriverne på nytt.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Lagre
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Klikk på denne knappen for å lagre de\nnåværende innstillingene til disk. Oppsettet\nblir lagret i både ENVARC: og\n ENV:.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Bruk
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Klikk på denne knappen for å bruke\ninnstillingene uten å lagre dem permanent.\nOppsettet blir lagret i ENV:.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+ukjent
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Informasjonsvindu for maskinvaredriver
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Disse feltene viser generell informasjon\nom USB-maskinvaredriveren.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+Generell informasjon om USB-maskinvaredriveren
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Enhet:\nNummer:\nVersjon:\nProdukt:\nProdusent:\nBeskrivelse:\nOpphavsrett:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Velg fil å lagre feil til...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Feilloggen ble lagret til filen %s.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Feil ved åpning av filen %s for skriving.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Velg fil å lagre enhetslisten til...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Feil ved kjøring av PsdDevLister
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister lagret til %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Velg en Poseidon-innstillingsfil...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Konfigurasjon lastet fra %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Velg fil å lagre innstillinger til...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Konfigurasjonen ble lagret til %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Kunne ikke lagre konfigurasjonen til %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Konfigurasjonen ble ikke lagret!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Konfigurasjonen ble lagret.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Bruk|Lagre|Avbryt
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+Den gjeldende konfigurasjonen er endret\nog ennå ikke lagret.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Kunne ikke lagre konfigurasjonen.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Ingen
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Jeg er ikke dum!|Jeg tenker meg om
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Du er i ferd med å opprette en tvungen \33benhets\33n-\nbinding. Dette er ikke en grensesnittbinding. De\nfleste klarer ikke å lese manualen, og de gjør\nmer skade enn nytte.\nForsikre deg om at du vet hva du gjør og ikke\nødelegger noe (for så å plage meg med\ntåpelige e-poster).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+Tvinger enhetsbinding av %s til %s.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+Fjernet tvungen enhetsbinding av %s.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Fjern|Avbryt
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+Du er i ferd med å \33bfjerne\33n konfigurasjons-\ndataene knyttet til enheten med ID\n\33b%s\33n.\nDette omfatter alle klasseinnstillinger som er lagret\nindividuelt for enheten eller grensesnittene, samt\ndet Trident lagrer (som egendefinert navn eller\nsperring av oppsprettvinduer).\n\nEr du sikker på at du vil fjerne disse innstillingene?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+Du er i ferd med å \33bfjerne\33n (standard)-\nkonfigurasjonen for klassen \33b%s\33n.\nDette setter klassens startinnstillinger til de\ninterne standardverdiene \33bved neste oppstart\33n!\nDet påvirker normalt ikke innstillinger som er lagret\nindividuelt for enheter eller grensesnitt.\n\nEr du sikker på at du vil fjerne disse innstillingene?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+Du er i ferd med å \33bfjerne\33n klasse-\nkonfigurasjonen for klassen \33b%s\33n,\nsom er lagret spesielt for enheten med ID\n\33b%s\33n.\n\nEr du sikker på at du vil fjerne disse innstillingene?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+Du er i ferd med å \33bfjerne\33n klasse-\nkonfigurasjonen for klassen \33b%s\33n\nsom er lagret for det bestemte grensesnittet\n\33b%s\33n på enheten med ID\n\33b%s\33n.\n\nEr du sikker på at du vil fjerne disse innstillingene?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Vil du virkelig fjerne disse\n\33bukjente innstillingsdataene\33n fra innstillingene?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Velg fil å eksportere innstillinger til...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+Klarte ikke å åpne filen %s.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Velg fil å importere innstillinger fra...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Oi!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+For å importere innstillingsdata for\nenhet eller grensesnitt må du velge\nenhetsoppføringen de skal legges til i.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Jeg kjenner ikke igjen den typen innstillingsfil.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Lesefeil under lasting av innstillingsfilen %s.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+Klarte ikke å tildele buffer for lasting av %s.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+%s ser ikke ut til å være en iff-fil.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+Klarte ikke å åpne filen %s.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Erstatt|Slå sammen|Avbryt
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+Vil du \33berstatte\33n eller \33bslå sammen\33n innstillingene til\n\33b%s\33n\nmed innholdet fra\n\33b%s\33n?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Legg til enhet|Avbryt
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Beklager, men bare innstillinger med samme eier\nkan erstattes.\n\nVil du heller legge disse innstillingene\ntil enheten?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Erstatt|Avbryt
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+Vil du \33berstatte\33n innstillingene til\n\33b%s\33n\nmed dem fra\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Erstatt|Avbryt
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+Vil du \33berstatte\33n innstillingene til\n\33b%s\33n\nmed den i\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Legg til|Avbryt
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+Vil du \33blegge til\33n innstillingene fra\n\33b%s\33n\ni enheten\n\33b%s\33n?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Oi!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Beklager, dra og slipp til\ndette målet støttes ikke.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Lav
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Høy
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Full
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Suspendert
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Død
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Død \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Lav effekt
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Kjører
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Tilkoblet
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Advarsel
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Feil
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+FEIL
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

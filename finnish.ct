@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Poseidon USB -pinon käyttöliittymä
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Projekti
+; Project
+;
+MSG_MENU_ABOUT
+Tietoa...
+; About...
+;
+MSG_MENU_ABOUTMUI
+Tietoja MUI:sta...
+; About MUI...
+;
+MSG_MENU_HELP
+Help
+; Help
+;
+MSG_MENU_ONLINE
+Yhteydessä
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Ei yhteyttä
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Pienennä kuvakkeeksi
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Lopeta
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Tietoa
+; Information
+;
+MSG_MENU_SAVELOG
+Tallenna virheloki...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Tyhjennä virheet
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Tallenna laiteluettelo...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Asetukset
+; Settings
+;
+MSG_MENU_LOAD
+Lataa...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Tallenna
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Tallenna nimellä...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI-asetukset
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+Yleistä
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Ohjaimet
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Laitteet
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Luokat
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Valinnat
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Ponnahdusikkunat
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Asetukset
+; Config
+;
+MSG_ERRLVL_ALL
+Kaikki viestit
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Varoitukset ja vakavammat
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Virheet ja vakavat virheet
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Vain vakavat virheet
+; Failures only
+;
+MSG_POPUP_NEVER
+Älä koskaan avaa ponnahdusikkunaa! Pyh!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Ponnahda vain virhetilanteessa
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Ponnahda uusien, tuntemattomien laitteiden kohdalla
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Ponnahda, jos sidontaa ei ole
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Ponnahda, jos asetuksia ei vielä ole
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Ponnahda, jos luokka on määriteltävissä
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Ponnahda sidonnasta riippumatta
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Häiritse minua aina heti
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 -graafinen käyttöliittymä
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cPoseidon USB -pinolle
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cKaikki oikeudet pidätetään.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason-kuvakkeet ovat\nMartin Merzin ystävällisesti tarjoamat.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bKäytettävissä olevat USB-laiteohjaimet
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Tämä on luettelo käytettävissä olevista laiteohjaimista.\nJärjestelmässä voi olla useita eri ohjaimia\nsamanaikaisesti.\nLisätäksesi kohdan käytä alhaalla olevaa 'Uusi'-säädintä.\nSinun täytyy kytkeä laiteohjain päälle käsin, kun\nlisäät laitteen ensimmäisen kerran.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uNimi
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uYksikkö
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uPäällä
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uTuote
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Kyllä
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Ei
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33ituntematon kunnes päällä
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Laite:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Anna ohjaimen laiteajurin nimi tähän\nkenttään. Nämä laitteet sijaitsevat\nyleensä hakemistossa DEVS:USBHardware.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Valitse USBHardware-laite...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Yksikkö:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Jos koneessasi on useita samanlaisia\nkortteja, anna kortin yksikkönumero\ntähän.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Uusi
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Napsauta tästä luodaksesi\nuuden laiteajurikohdan.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopioi
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Napsauta tästä kopioidaksesi valitun\nlaiteajurikohdan.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Poista
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Napsauta tästä poistaaksesi valitun kohdan.\nLaitteisto siirtyy automaattisesti pois päältä\nja sammuttaa kaikki siihen kytketyt laitteet.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Päälle
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Napsauta tästä ottaaksesi yksittäisen\nlaiteajurin käyttöön.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Pois
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Napsauta tästä poistaaksesi yksittäisen\nlaiteajurin käytöstä.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Tiedot
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Saadaksesi tietoja laiteajurista napsauta\ntästä. Laitteen täytyy olla päällä, jotta\ntiedot ovat saatavilla.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bJärjestelmän USB-laitteet
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Tämä on luettelo järjestelmässä tällä hetkellä\nolevista USB-laitteista (toiminnoista). Se näyttää myös\nnykyiset laite- ja liitäntäsidonnat.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uNimi
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uNopeus
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uTila
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uLuokka
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uSidonnat
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Luokkahaku
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Tämän painikkeen napsauttaminen aloittaa luokkahaun. Se tarkoittaa,\nettä jokainen laite tutkitaan sen selvittämiseksi, vastaako se jotakin\njärjestelmän vakioluokkaa. Tällöin luodaan sidonta ja toiminnallisuus\nlisätään järjestelmään automaattisesti.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Pura sidonta
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Poistaa sidonnan käsin. Tästä voi olla hyötyä,\nkun laite halutaan poistaa väliaikaisesti käytöstä.\nKäytä 'Luokkahaku'-painiketta sidonnan palauttamiseen.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Tiedot
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Avaa yksityiskohtaisen tietoikkunan.\nKokeile vain, mitään ei voi mennä pieleen.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Asetukset
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Jos laitesidonta on olemassa ja luokka tukee\nasetusten käyttöliittymää, tämän painikkeen\nnapsauttaminen avaa asetusikkunan.\n\nHuomaa, että vastaava painike\nliitäntäsidonnan asetuksille löytyy\ntietoikkunasta.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Lepotilaan
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Asettaa laitteen virransäästöä varten lepotilaan.\nJos luokkasidonta ei tue lepotilaa, tämä\npainike ei tee mitään.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Herätä
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Palauttaa laitteen täyteen toimintaan sen\njälkeen kun se on asetettu lepotilaan.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Virtakierto
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Katkaisee ja kytkee keskittimen portin virran ja luetteloi\nlaitteen uudelleen. Kätevä kuolleiden laitteiden elvytykseen.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Poista käytöstä
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Katkaisee portin virran pysyvästi. Sitä ei voi\naktivoida uudelleen irrottamalla ja kytkemällä laitetta.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (latinalaiselta nimeltään Neptunus) on meren ja\nsen asukkaiden jumala, yksi olympolaisista, Kronoksen ja\nRhean poika sekä Zeuksen, Haadeksen, Demeterin, Heran ja\nHestian veli. Hän oli naimisissa nereidi Amfitriten kanssa,\nja heille syntyi poika Triton, merenmies. Muiden olympolaisten\ntavoin hänellä oli monia rakkaussuhteita (esim. Medusan\nkanssa) ja lukuisia lapsia (esim. Pegasos).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bKäytettävissä olevat USB-luokat
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Tämä on luettelo käytettävissä olevista USB-luokista.\nKukin luokka on ohjelmistoajuri tietylle USB-laitteiden\nryhmälle. Luokkia voi lisätä käsin 'Lisää'-painikkeella\ntai automaattisesti 'Hakemistohaku'-painikkeella.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uNimi
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uKäyttö#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uKuvaus
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Luokkakirjasto:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+Lisätäksesi USB-luokka-ajurin käsin\nkirjoita sen nimi tähän ja napsauta 'Lisää'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Valitse USB-luokkakirjasto...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cLisää
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+Lisätäksesi USB-luokka-ajurin käsin\nkirjoita sen nimi yllä olevaan kenttään\nja napsauta tätä painiketta.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Poista
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Napsauta tästä poistaaksesi luokka-ajurin\nja kaikki sen nykyiset sidonnat.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Määritä
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Jos luokka-ajuri tukee jonkinlaista\nmäärittelyä, napsauta tästä niin luokan\nasetusikkuna avautuu.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Hakemistohaku
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Etsii automaattisesti luokka-ajureita ja\nlisää kaikki löytyneet ajurit\njärjestelmään.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bSekalaiset asetukset
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Pinon asetukset
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Alitehtävien prioriteetti:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Määrää kaikkien Poseidonin käynnistämien\nalitehtävien prioriteetin.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Käynnistysviive:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Jos ohjelma on reset-resident, tämä arvo määrää,\nkuinka kauan Poseidon odottaa USB-laitteiden\nasettumista, mikä mahdollistaa käynnistyksen\nhitailta laitteilta kuten USB-CD-asemalta.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Poista keskittimen portti käytöstä automaattisesti pienen virran tilanteissa:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Jos portissa havaitaan pienen virran tilanne,\ntämän valinnan ollessa päällä tilanteen\naiheuttava laite sammutetaan automaattisesti.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Poista keskittimen portti käytöstä automaattisesti, jos laite kuolee:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Jos laite kuolee (siirtojen aikakatkaisuja) ja\ntämä valinta on päällä, keskittimen portti\npoistetaan automaattisesti käytöstä turhien\nsuorituskykyhaittojen välttämiseksi.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Kierrätä keskittimen portin virta automaattisesti, jos laite kuolee:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Jos laite kuolee (siirtojen aikakatkaisuja) ja\ntämä valinta on päällä, keskittimen portti\nnollataan automaattisesti laitteen elvyttämiseksi.\nTämä voi kuitenkin johtaa ikäviin ikuisiin silmukoihin.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Ota virransäästölepotila käyttöön:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Laitteet asetetaan lepotilaan määritetyn\nkäyttämättömyysajan jälkeen.\nVirrankulutus laskee alle 1 mA:n.\nToiminnan palautuminen tapahtuu yleensä 25 ms:ssa.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Pakota lepotila, vaikka luokka ei sitä tukisi:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Luokka-ajurien pitäisi tukea lepotilaan siirtymistä.\nJos ne eivät tue, tämän valinnan käyttöönotto\nyksinkertaisesti purkaa sidonnan ennen lepotilaa.\nTämä tehdään vain etäherätystä tukeville laitteille,\nmuutoin luokka ei sitoutuisi uudelleen automaattisesti.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Lepotilan käyttämättömyysaika:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Aika, jonka jälkeen laitetta yritetään asettaa\nvirransäästölepotilaan.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Kirjausasetukset
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Kirjaa tiedotusviestit:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Kytkee tavallisten tiedotusviestien\nkirjaamisen päälle tai pois.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Kirjaa varoitukset:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Kytkee varoitusten kirjaamisen päälle tai pois.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Kirjaa virheet:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Kytkee virheiden kirjaamisen päälle tai pois.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Kirjaa vakavat virheet:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Kytkee vakavien virheiden kirjaamisen päälle tai pois.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Poseidonin muistialtaasta varattu muisti:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bPonnahdusikkuna-asetukset
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Ponnahdusikkunan asetukset
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Kytkettäessä:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Ponnahdusikkunan toiminta uusia\nUSB-laitteita kytkettäessä
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Irrotettaessa:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Avataanko ponnahdusikkuna,\nkun laite poistetaan.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Laitteen kuollessa:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Avaa ilmoitusikkunan, jos laite näyttää kuolleen.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Ponnahdusviive:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Kuinka kauan ilmoitusikkunaa näytetään\nennen sen automaattista katoamista.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld sek.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Aktivoi ikkuna:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Tekee ikkunasta aktiivisen sen avautuessa.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Nosta eteen:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Nostaa ikkunan eteen, jos sisältö muuttuu.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Kytkennän ääni:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Tämä ääni soitetaan aina, kun laite\nkytketään väylään.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Valitse soitettava äänitiedosto...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Irrotuksen ääni:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Tämä ääni soitetaan aina, kun laite\npoistetaan väylästä.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Valitse soitettava äänitiedosto...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bAsetusten hallinta (käytä vedä ja pudota)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+Tässä laatikossa näet kaikki asetukset, jotka on\ntallennettu asetustiedoston mukana hakemistoon ENVARC:.\nTässä paneelissa voit poistaa tai viedä asetuksia.\n\nKäytä vedä ja pudota asetusten kopiointiin tai korvaamiseen.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uTyyppi
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uKuvaus
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uOmistaja
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uKoko
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Tallenna nimellä
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Tallentaa kaikki asetukset annetulla nimellä\nmyöhempää lataamista varten.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Vie
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Mahdollistaa valitun kohdan tallentamisen\nmyöhempää lataamista varten.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Tuo
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Tuo aiemmin tallennetun asetusosion.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Poista
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Poistaa valitun asetuskohdan.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Viestiloki
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Tietotaso:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Tämä säädin määrää alla näytettävien\nviestien määrän ja tyypin.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Tallenna levylle
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Luo virheistä lokitiedoston, jonka voit\nesimerkiksi lähettää minulle vikailmoitusta\ntai avunpyyntöä varten.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Tyhjennä kaikki
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Tämän painikkeen napsauttaminen poistaa\nkaikki pinon viestit. Niitä ei saa\nenää takaisin.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Nämä ovat Poseidon-pinon tähän mennessä\ntuottamat viestit. Jos haluat tyhjentää tämän\nluettelon, napsauta 'Tyhjennä kaikki' -painiketta.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Kaikki päälle
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Käynnistää kaikki 'Ohjaimet'-paneeliin\nlisätyt USB-laiteajurit.\nLisäksi löydetyt laitteet tarkistetaan\nmahdollisten sidontojen varalta.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Kaikki pois
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+'Pois'-painikkeella voit sammuttaa kaikki\nUSB-laiteajurit.\nTämä pysäyttää pinon kokonaan.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Käynnistä uudelleen
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+'Käynnistä uudelleen' pysäyttää ja käynnistää\nuudelleen kaikki laiteajurit.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Tallenna
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Tallentaaksesi nykyiset asetukset levylle\nnapsauta tätä painiketta. Asetukset\ntallennetaan sekä hakemistoon ENVARC: että\n ENV:.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Käytä
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Ottaaksesi asetukset käyttöön tallentamatta\nniitä pysyvästi napsauta tätä painiketta.\nAsetukset tallennetaan hakemistoon ENV:.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+tuntematon
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Laiteajurin tietoikkuna
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Nämä kentät näyttävät yleisiä tietoja\nUSB-laiteajurista.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+USB-laiteajurin yleiset tiedot
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Laite:\nYksikkö:\nVersio:\nTuote:\nValmistaja:\nKuvaus:\nCopyright:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Valitse tiedosto, johon virheet tallennetaan...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Virheloki tallennettu tiedostoon %s.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Virhe avattaessa tiedostoa %s kirjoittamista varten.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Valitse tiedosto, johon laiteluettelo tallennetaan...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Virhe suoritettaessa PsdDevListeriä
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister tallennettu tiedostoon %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Valitse Poseidon-asetustiedosto...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Asetukset ladattu tiedostosta %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Valitse tiedosto, johon asetukset tallennetaan...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Asetukset tallennettiin onnistuneesti tiedostoon %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Asetuksia ei voitu tallentaa tiedostoon %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Asetuksia ei tallennettu!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Asetukset tallennettiin onnistuneesti.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Käytä|Tallenna|Peru
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+Nykyisiä asetuksia on muutettu,\neikä niitä ole vielä tallennettu.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Asetuksia ei voitu tallentaa.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Ei mitään
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+En ole tyhmä!|Harkitsen uudelleen
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Olet luomassa pakotettua \33blaite\33nsidontaa.\nTämä ei ole liitäntäsidonta. Useimmat ihmiset\neivät kykene lukemaan käyttöohjetta ja aiheuttavat\nenemmän haittaa kuin hyötyä.\nVarmistathan, että tiedät mitä teet etkä riko\nmitään (ja vaivaa minua sen jälkeen typerillä\nsähköposteilla).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+Pakotetaan laitteen %s sidonta luokkaan %s.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+Laitteen %s pakotettu sidonta poistettu.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Poista|Peru
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+Olet aikeissa \33bpoistaa\33n asetustiedot,\njotka liittyvät laitteeseen, jonka tunnus on\n\33b%s\33n.\nTämä sisältää kaikki laitteelle tai liitännöille\nerikseen tallennetut luokka-asetukset sekä\nTridentin tallentamat tiedot (kuten oman nimen tai\nponnahdusikkunan eston).\n\nHaluatko varmasti poistaa nämä asetukset?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+Olet aikeissa \33bpoistaa\33n luokan \33b%s\33n\n(oletus)asetukset.\nTämä palauttaa luokan alkuasetukset sisäisiin\noletusarvoihin \33bseuraavalla käynnistyksellä\33n!\nSe ei yleensä vaikuta laitteelle tai liitännälle\nerikseen tallennettuihin asetuksiin.\n\nHaluatko varmasti poistaa nämä asetukset?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+Olet aikeissa \33bpoistaa\33n luokan\n\33b%s\33n asetukset,\njotka on tallennettu erikseen laitteelle,\njonka tunnus on \33b%s\33n.\n\nHaluatko varmasti poistaa nämä asetukset?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+Olet aikeissa \33bpoistaa\33n luokan\n\33b%s\33n asetukset,\njotka on tallennettu nimenomaan liitännälle\n\33b%s\33n laitteessa, jonka tunnus on\n\33b%s\33n.\n\nHaluatko varmasti poistaa nämä asetukset?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Haluatko todella poistaa nämä\n\33btuntemattomat asetustiedot\33n asetuksista?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Valitse tiedosto, johon asetukset viedään...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+Tiedoston %s avaaminen epäonnistui.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Valitse tiedosto, josta asetukset tuodaan...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Hups!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Tuodaksesi laitteen tai liitännän\nasetustiedot sinun täytyy valita\nlaitekohta, johon ne lisätään.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+En tunne tuollaista asetustiedostoa.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Lukuvirhe ladattaessa asetustiedostoa %s.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+Puskurin varaaminen tiedoston %s lataamiseksi epäonnistui.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+%s ei näytä olevan iff-tiedosto.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+Tiedoston %s avaaminen epäonnistui.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Korvaa|Yhdistä|Peru
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+Haluatko \33bkorvata\33n vai \33byhdistää\33n kohteen\n\33b%s\33n\nasetukset kohteen\n\33b%s\33n sisällöllä?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Lisää laitteeseen|Peru
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Valitettavasti vain saman omistajan asetukset\nvoidaan korvata.\n\nHaluatko sen sijaan lisätä nämä asetukset\nlaitteeseen?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Korvaa|Peru
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+Haluatko \33bkorvata\33n kohteen\n\33b%s\33n\nasetukset kohteen\n\33b%s\33n asetuksilla?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Korvaa|Peru
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+Haluatko \33bkorvata\33n kohteen\n\33b%s\33n\nasetukset kohteen\n\33b%s\33n asetuksilla?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Lisää|Peru
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+Haluatko \33blisätä\33n kohteen\n\33b%s\33n\nasetukset laitteeseen\n\33b%s\33n?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Hups!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Valitettavasti vedä ja pudota -toimintoa\nei tueta tähän kohteeseen.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Matala
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Korkea
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Täysi
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Keskeytetty
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Kuollut
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Kuollut \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Pieni virta
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Käynnissä
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Kytketty
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Varoitus
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Virhe
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Epäonnistui
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

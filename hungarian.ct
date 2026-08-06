@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+A Poseidon USB stack grafikus felülete
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_ABOUT
+Névjegy...
+; About...
+;
+MSG_MENU_ABOUTMUI
+A MUI névjegye...
+; About MUI...
+;
+MSG_MENU_HELP
+Help
+; Help
+;
+MSG_MENU_ONLINE
+Online
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Offline
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Ikonizálás
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Kilépés
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Információ
+; Information
+;
+MSG_MENU_SAVELOG
+Hibanapló mentése...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Hibák törlése
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Eszközlista mentése...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Beállítások
+; Settings
+;
+MSG_MENU_LOAD
+Betöltés...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Ment
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Mentés másként...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI beállítások
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+Általános
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Vezérlõk
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Eszközök
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Osztályok
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Opciók
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Felugrók
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Beállítás
+; Config
+;
+MSG_ERRLVL_ALL
+Minden üzenet
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Figyelmeztetés és rosszabb
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Hibák és meghibásodások
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Csak meghibásodások
+; Failures only
+;
+MSG_POPUP_NEVER
+Soha ne nyíljon felugró ablak! Pfuj!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Felugrás csak hiba esetén
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Felugrás új, ismeretlen eszközöknél
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Felugrás, ha nincs kötés
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Felugrás, ha még nincs beállítás
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Felugrás beállítható osztály esetén
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Felugrás a kötéstõl függetlenül
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Mindig azonnal zavarjon
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 grafikus felhasználói felület
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33ca Poseidon USB stackhez
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cMinden jog fenntartva.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cA Mason ikonok\nMartin Merz jóvoltából.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bElérhetõ USB hardvervezérlõk
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Ez az elérhetõ hardvervezérlõk listája.\nEgyszerre több különbözõ vezérlõ is lehet\na rendszerben.\nBejegyzés hozzáadásához használd az alul lévõ 'Új' gadgetet.\nAz eszköz elsõ hozzáadásakor kézzel kell online\nállapotba helyezned a hardvervezérlõt.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uNév
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uEgység
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uOnline
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uTermék
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Igen
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Nem
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33iismeretlen, amíg nincs online
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Eszköz:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Ebbe a mezõbe írd be a vezérlõ eszközmeghajtójának\nnevét. Ezek az eszközök általában a\nDEVS:USBHardware könyvtárban találhatók.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Válassz USBHardware eszközt...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Egység:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Ha több azonos típusú kártya van a\ngépedben, itt add meg a kártya\negységszámát.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Új
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Kattints ide egy új hardvermeghajtó-bejegyzés\nlétrehozásához.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Másol
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Kattints ide a kiválasztott hardvermeghajtó-bejegyzés\nmásolásához.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Töröl
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Kattints ide a kiválasztott bejegyzés eltávolításához.\nA hardver automatikusan offline állapotba kerül,\nmagával rántva minden csatlakoztatott eszközét.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Online
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Kattints ide egy adott hardvermeghajtó\naktiválásához.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Offline
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Kattints ide egy adott hardvermeghajtó\nkikapcsolásához.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Infó
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Az eszközmeghajtóról szóló információkért\nkattints ide. Az eszköznek online állapotban kell\nlennie, hogy az információ elérhetõ legyen.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bUSB eszközök a rendszerben
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Ez a rendszerben jelenleg található USB eszközök\n(funkciók) listája. Megmutatja a jelenleg létezõ\neszköz- vagy interfészkötéseket is.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uNév
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uSebesség
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uÁllapot
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uOsztály
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uKötések
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Oszt. keresés
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Erre a gombra kattintva elindul az osztálykeresés. Ez azt jelenti,\nhogy minden eszköznél megvizsgálja, hogy illeszkedik-e a rendszerben\nlévõ szabványos osztályok valamelyikéhez. Ilyenkor létrejön egy kötés,\nés a funkció automatikusan hozzáadódik a rendszerhez.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Kötés bont
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Kézzel eltávolít egy kötést. Ez hasznos lehet egy\neszköz ideiglenes kikapcsolásához.\nA kötés újraaktiválásához használd az 'Oszt. keresés' gombot.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Információ
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Megnyit egy részletes információs ablakot.\nCsak próbáld ki, semmi baj nem történhet.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Beállítás
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Ha van eszközkötés, és az osztály támogat\nbeállító felületet, erre a gombra kattintva\nmegnyílik a beállítóablak.\n\nVedd figyelembe, hogy az interfészkötés\nbeállításaihoz tartozó gomb az információs\nablakban található.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Felfüggeszt
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Energiatakarékos felfüggesztett módba küldi az eszközt.\nHa egy osztálykötés nem támogatja a felfüggesztést,\nez a gomb nem csinál semmit.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Folytat
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Visszaállítja az eszközt teljes mûködésre, miután\nfelfüggesztett módba került.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Táp ki/be
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Ki- és bekapcsolja a hub port tápellátását, és újra\nfelismeri az eszközt. Hasznos halott eszközök\nújraélesztéséhez.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Letilt
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Véglegesen kikapcsolja a port tápellátását. Az eszköz\nki-/bedugásával nem aktiválható újra.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (latin nevén Neptunus) a tenger és lakóinak\nistene, az olümposziak egyike, Kronosz és Rheia fia,\nZeusz, Hadész, Démétér, Héra és Hesztia testvére.\nFelesége Amphitrité, egy néreisz volt, akitõl Tritón,\na sellõfiú született. A többi olümposzihoz hasonlóan\nsok szerelmi kalandja (pl. Medúzával) és számos\ngyermeke (pl. Pégaszosz) volt.
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bElérhetõ USB osztályok
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Ez az elérhetõ USB osztályok listája.\nMinden osztály egy szoftvermeghajtó az USB eszközök\negy csoportjához. Az osztályok kézzel a 'Hozzáad' gombbal,\nvagy automatikusan a 'Keresés' gombbal adhatók hozzá.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uNév
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uHaszn.#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uLeírás
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Osztálykönyvtár:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+USB osztálymeghajtó kézi hozzáadásához\nírd be ide a nevét, és kattints a 'Hozzáad' gombra.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Válassz USB osztálykönyvtárat...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cHozzáad
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+USB osztálymeghajtó kézi hozzáadásához\nírd be a nevét fent, és kattints\nerre a gombra.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Eltávolít
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Kattints ide egy osztálymeghajtó és\nminden aktuális kötésének eltávolításához.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Beállítás
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Ha egy osztálymeghajtó támogat valamilyen\nbeállítást, kattints ide, és megnyílik\naz osztály beállítóablaka.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Keresés
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Automatikusan megkeresi az osztálymeghajtókat, és\naz összes megtalált meghajtót hozzáadja a rendszerhez.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bVegyes beállítások
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Stack beállítások
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Altaszkok prioritása:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Megadja a Poseidon által indított\nösszes altaszk prioritását.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Indítási késleltetés:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Ha reset-rezidens, ez az érték határozza meg,\nhogy a Poseidon mennyi ideig várjon az USB\neszközök beállására, lehetõvé téve a lassú\neszközökrõl, például USB CD meghajtóról való indítást.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld mp.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Hubport automatikus letiltása alacsony tápellátás esetén:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Ha egy porton alacsony tápellátást észlel a rendszer,\nezzel a kapcsolóval automatikusan kikapcsolja\naz alacsony tápellátást okozó eszközt.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Hub port automatikus letiltása, ha az eszköz halott:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Ha egy eszköz halottá válik (átviteli idõtúllépések),\nés ez a kapcsoló be van jelölve, akkor a hub port\nautomatikusan letiltódik, hogy elkerüld a felesleges\nteljesítményveszteséget.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Hubport automatikus ki-be kapcsolása, ha az eszköz lefagy:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Ha egy eszköz lefagy (átviteli idõtúllépések),\nés ez a kapcsoló be van kapcsolva, akkor a hubport\nautomatikusan visszaállításra kerül az eszköz\nújraélesztéséhez. Ez azonban csúnya végtelen ciklusokhoz vezethet.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Energiatakarékos felfüggesztett mód engedélyezése:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Az eszközök felfüggesztett módba kerülnek a megadott\ntétlenségi idõ letelte után.\nA fogyasztás 1mA alá csökken.\nA mûködés folytatása általában 25ms-en belül megtörténik.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Felfüggesztés kikényszerítése akkor is, ha az osztály nem támogatja:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Az osztály-illesztõprogramoknak támogatniuk kellene a\nfelfüggesztett módba lépést. Ha nem teszik, ez a kapcsoló\negyszerûen felszabadítja a kötést a felfüggesztés elõtt.\nEz csak a távoli ébresztésre képes eszközöknél történik meg,\nkülönben az osztály nem kötõdne újra automatikusan.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Tétlenségi idõ a felfüggesztés elõtt:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Várakozási idõ, mielõtt a rendszer megpróbálja az eszközt\nenergiatakarékos felfüggesztett módba helyezni.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld mp.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Naplózási beállítások
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Információs üzenetek naplózása:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+A normál információs üzenetek\nnaplózását kapcsolja.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Figyelmeztetések naplózása:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+A figyelmeztetések naplózását kapcsolja.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Hibák naplózása:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+A hibák naplózását kapcsolja.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Meghiúsulások naplózása:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+A meghiúsulások naplózását kapcsolja.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+A Poseidon poolban lefoglalt memória:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bFelugró beállítások
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Felugró ablak beállításai
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Csatlakoztatáskor:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+A felugró ablak viselkedése új\nUSB-eszközök csatlakoztatásakor
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Leválasztáskor:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Felugorjon-e egy ablak,\nha az eszközt eltávolítják.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Eszköz lefagyásakor:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Párbeszédablak megnyitása, ha az eszköz lefagyottnak tûnik.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Felugró ablak késleltetése:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Meddig maradjon látható a párbeszédablak,\nmielõtt automatikusan eltûnik.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld mp.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Ablak aktiválása:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Az ablak aktívvá tétele megnyitáskor.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Elõtérbe hozás:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Az ablak elõtérbe hozása, ha a tartalma megváltozik.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Csatlakozási hang:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Ez a hang szólal meg minden alkalommal,\namikor egy eszköz csatlakozik a buszra.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Válaszd ki a lejátszandó hangfájlt...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Leválasztási hang:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Ez a hang szólal meg minden alkalommal,\namikor egy eszközt eltávolítanak a buszról.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Válaszd ki a lejátszandó hangfájlt...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bBeállításkezelés (Használd a fogd-és-vidd módszert)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+Ebben a dobozban láthatod az összes beállítást, amely\naz ENVARC: könyvtárban lévõ beállításfájlban van mentve.\nEzen a panelen törölhetsz vagy exportálhatsz beállításokat.\n\nHasználd a fogd-és-vidd módszert a beállítások másolásához vagy cseréjéhez.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uTípus
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uLeírás
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uTulajdonos
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uMéret
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Ment mint
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Az összes beállítás mentése megadott néven,\nhogy késõbb újratölthesd.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Exportál
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Lehetõvé teszi egy kiválasztott bejegyzés mentését,\nhogy késõbb újratöltsd.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Importál
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Importál egy korábban mentett beállításrészletet.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Eltávolít
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Törli a kiválasztott beállításbejegyzést.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Üzenetnapló
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Információs szint:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Ez a gadget határozza meg az alább\nmegjelenõ üzenetek mennyiségét és típusát.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Mentés lemezre
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Naplófájl készítése a hibákról, pl. azért,\nhogy elküldd nekem az információt\nhibajelentéshez vagy segítségkéréshez.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Mind törlése
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Erre a gombra kattintva a stackben lévõ összes\nüzenet törlõdik. Nincs mód a visszaszerzésükre.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Ezek a Poseidon stack eddig generált üzenetei.\nHa törölni akarod ezt a listát, egyszerûen\nkattints a 'Mind törlése' gombra.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Mind online
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Elindítja az összes USB hardvereszköz-meghajtót,\namely a 'Hardver' panelen szerepel.\nEzenkívül a megtalált eszközöknél ellenõrzi\na lehetséges kötéseket.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Mind offline
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+Az 'Offline' gombbal leállíthatod az összes USB\nhardvereszköz-meghajtót.\nEz teljesen megállítja a stacket.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Újraindít
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+Az 'Újraindít' gombra kattintva leáll és újraindul\nminden hardvereszköz-meghajtó.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Ment
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+A jelenlegi beállítások lemezre mentéséhez kattints\nerre a gombra. A beállítások az ENVARC: és az\n ENV: könyvtárba is elmentõdnek.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Használ
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Ha használni akarod, de nem véglegesen menteni a\nbeállításaidat, kattints erre a gombra. A beállítások\naz ENV: könyvtárba kerülnek.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+ismeretlen
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Hardvermeghajtó információs ablak
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Ezek a mezõk általános információkat mutatnak\naz USB hardvermeghajtóról.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+Általános USB hardvermeghajtó információk
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Eszköz:\nEgység:\nVerzió:\nTermék:\nGyártó:\nLeírás:\nCopyright:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Válaszd ki a fájlt a hibák mentéséhez...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+A hibanapló mentve a(z) %s fájlba.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Hiba a(z) %s fájl írásra való megnyitásakor.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Válaszd ki a fájlt az eszközlista mentéséhez...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Hiba a PsdDevLister futtatásakor
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+A DevLister mentve ide: %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Válassz egy Poseidon beállításfájlt...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Beállítások betöltve innen: %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Válaszd ki a fájlt a beállítások mentéséhez...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+A beállítások sikeresen elmentve ide: %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Nem sikerült elmenteni a beállításokat ide: %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+A beállítások nincsenek elmentve!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+A beállítások sikeresen elmentve.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Használ|Ment|Mégsem
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+A jelenlegi beállítások megváltoztak,\nés még nincsenek elmentve.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Nem sikerült elmenteni a beállításokat.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Nincs
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Nem vagyok hülye!|Meggondolom
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Kikényszerített \33beszközkötést\33n készülsz\nlétrehozni. Ez nem interfészkötés. A legtöbb\nember képtelen elolvasni a kézikönyvet, és\ntöbb kárt okoz, mint hasznot.\nKérlek, gyõzõdj meg róla, hogy tudod, mit csinálsz,\nés nem rontasz el dolgokat (majd zaklatsz engem\nostoba e-mailekkel).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+A(z) %s eszközkötésének kikényszerítése erre: %s.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+A(z) %s kikényszerített eszközkötése eltávolítva.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Eltávolítás|Mégsem
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+Készülsz \33beltávolítani\33n a következõ azonosítójú\neszközhöz tartozó beállítási adatokat:\n\33b%s\33n.\nEz magában foglalja az eszközhöz vagy interfészeihez\nkülön mentett összes osztálybeállítást, valamint\nazt is, amit a Trident ment (például egyedi nevet vagy\nfelugró ablak tiltását).\n\nBiztosan eltávolítod ezeket a beállításokat?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+Készülsz \33beltávolítani\33n a\n\33b%s\33n osztály (alapértelmezett) beállításait.\nEttõl az osztály kezdeti beállításai a belsõ\nalapértékekre állnak vissza \33ba következõ indításkor\33n!\nEz általában nem érinti az eszközökhöz vagy\ninterfészekhez külön mentett beállításokat.\n\nBiztosan eltávolítod ezeket a beállításokat?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+Készülsz \33beltávolítani\33n a\n\33b%s\33n osztály osztálybeállításait,\namelyek külön a(z)\n\33b%s\33n azonosítójú eszközhöz lettek mentve.\n\nBiztosan eltávolítod ezeket a beállításokat?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+Készülsz \33beltávolítani\33n a\n\33b%s\33n osztály osztálybeállításait,\namelyek a(z)\n\33b%s\33n interfészhez lettek mentve, a következõ\nazonosítójú eszköznél:\n\33b%s\33n.\n\nBiztosan eltávolítod ezeket a beállításokat?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Valóban el akarod távolítani ezt az\n\33bismeretlen beállítási adatot\33n a beállítások közül?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Válaszd ki a fájlt a beállítások exportálásához...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+Nem sikerült megnyitni a(z) %s fájlt.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Válaszd ki a fájlt a beállítások importálásához...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Hoppá!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Eszköz- vagy interfészbeállítások\nimportálásához ki kell választanod azt az\neszközbejegyzést, amelyhez hozzá kell adni.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Nem ismerem ezt a fajta beállításfájlt.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Olvasási hiba a(z) %s beállításfájl betöltésekor.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+Nem sikerült puffert foglalni a(z) %s betöltéséhez.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+A(z) %s nem tûnik iff fájlnak.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+Nem sikerült megnyitni a(z) %s fájlt.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Csere|Egyesítés|Mégsem
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+Le akarod \33bcserélni\33n vagy \33begyesíteni\33n a(z)\n\33b%s\33n\nbeállításait a következõ tartalmával:\n\33b%s\33n?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Hozzáadás az eszközhöz|Mégsem
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Sajnálom, de csak az azonos tulajdonosú beállítások\ncserélhetõk le.\n\nSzeretnéd inkább hozzáadni ezt a beállítást\naz eszközhöz?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Csere|Mégsem
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+Le akarod \33bcserélni\33n a(z)\n\33b%s\33n\nbeállításait a következõére:\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Csere|Mégsem
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+Le akarod \33bcserélni\33n a(z)\n\33b%s\33n\nbeállításait az itt találhatóval:\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Hozzáadás|Mégsem
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+Hozzá akarod \33badni\33n a(z)\n\33b%s\33n\nbeállításait a(z)\n\33b%s\33n eszközhöz?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Hoppá!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Sajnálom, a fogd-és-vidd mûvelet erre a\ncélpontra nem támogatott.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Alacsony
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Magas
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Teljes
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Felfüggesztve
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Halott
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Halott \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Kis fogyasztás
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Fut
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Csatlakoztatva
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Figyelmeztetés
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Hiba
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Hiba
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

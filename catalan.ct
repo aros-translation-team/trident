@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Interfície gràfica de la pila USB Poseidon
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Projecte
+; Project
+;
+MSG_MENU_ABOUT
+Sobre...
+; About...
+;
+MSG_MENU_ABOUTMUI
+Sobre MUI...
+; About MUI...
+;
+MSG_MENU_HELP
+Ajuda
+; Help
+;
+MSG_MENU_ONLINE
+En línia
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Fora de línia
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Iconificar
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Sortir
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Informació
+; Information
+;
+MSG_MENU_SAVELOG
+Desar el registre d'errors...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Buidar els errors
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Desar la llista de dispositius...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Paràmetres
+; Settings
+;
+MSG_MENU_LOAD
+Carregar...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Desar
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Desar com...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+Paràmetres de MUI
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+General
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Controladors
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Dispositius
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Classes
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Opcions
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Finestres emergents
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Configuració
+; Config
+;
+MSG_ERRLVL_ALL
+Tots els missatges
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Avisos i pitjor
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Errors i fallades
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Només fallades
+; Failures only
+;
+MSG_POPUP_NEVER
+No obrir mai una finestra emergent! Bah!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Emergent només en cas d'error
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Emergent per a dispositius nous i desconeguts
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Emergent si no hi ha vinculació
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Emergent si encara no hi ha configuració
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Emergent segons classe configurable
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Emergent, independentment de la vinculació
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Molesta'm sempre immediatament
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cInterfície gràfica d'usuari Trident V4.4
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cper a la pila USB Poseidon
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cTots els drets reservats.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cLes icones Mason són\ncortesia de Martin Merz.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bControladors de maquinari USB disponibles
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Aquesta és la llista de controladors de maquinari disponibles.\nHi pot haver diversos controladors diferents al sistema\nalhora.\nPer afegir una entrada, useu el giny 'Nou' de la part inferior.\nCal posar manualment en línia un controlador de maquinari\nel primer cop que afegiu el dispositiu.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uNom
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uUnitat
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uEn línia
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uProducte
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Sí
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+No
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33idesconegut fins que estigui en línia
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Dispositiu:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Indiqueu en aquest camp el nom del dispositiu\ncontrolador. Aquests dispositius es troben\nnormalment a DEVS:USBHardware.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Seleccionar el dispositiu USBHardware...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Unitat:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Si hi ha diverses targetes del mateix\ntipus a la vostra màquina, introduïu\naquí el número d'unitat de la placa.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Nou
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Feu clic aquí per crear una nova\nentrada de controlador de maquinari.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Copiar
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Feu clic aquí per copiar l'entrada de\ncontrolador de maquinari seleccionada.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Esborrar
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Feu clic aquí per eliminar l'entrada seleccionada.\nEl maquinari es posarà automàticament fora de línia,\ndesconnectant tots els dispositius que hi estiguin connectats.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c En línia
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Feu clic aquí per activar un\ncontrolador de maquinari individual.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Fora de línia
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Feu clic aquí per desactivar un\ncontrolador de maquinari individual.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Info
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Per obtenir informació sobre el controlador de\ndispositiu, feu clic aquí. El dispositiu ha d'estar en línia\nperquè la informació estigui disponible.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bDispositius USB al sistema
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Aquesta és la llista de dispositius USB (funcions)\nactualment al sistema. També mostra les vinculacions\nde dispositiu o d'interfície existents actualment.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uNom
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uVelocitat
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uEstat
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uClasse
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uVinculacions
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Explorar classes
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+En fer clic en aquest botó s'iniciarà una exploració de classes. Això vol dir\nque s'examinarà cada dispositiu per veure si coincideix amb alguna de les classes\nestàndard del sistema. En aquest cas, s'establirà una vinculació\ni la funcionalitat s'afegirà automàticament al sistema.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Desvincular
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Elimina manualment una vinculació. Pot ser\nútil per desactivar temporalment un dispositiu.\nUseu 'Explorar classes' per reactivar la vinculació.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Informació
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Obre una finestra d'informació detallada.\nProveu-ho, res no pot anar malament.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Paràmetres
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Si hi ha una vinculació de dispositiu i la classe\nsuporta una interfície gràfica de configuració, en fer\nclic en aquest botó s'obrirà la finestra de preferències.\n\nTingueu en compte que el botó corresponent per als\nparàmetres de la vinculació d'interfície es troba dins\nla finestra d'informació.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Suspendre
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Posa el dispositiu en mode de suspensió d'estalvi d'energia.\nSi una vinculació de classe no suporta la suspensió,\naquest botó no farà res.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Reprendre
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Torna el dispositiu al ple funcionament després\nd'haver estat posat en mode de suspensió.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Cicle d'alimentació
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Reinicia l'alimentació del port del concentrador i torna\na enumerar el dispositiu. Útil per reactivar dispositius morts.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Desactivar
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Apaga permanentment el port. No es pot reactivar\ndesconnectant i tornant a connectar el dispositiu.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Posidó (el seu nom llatí és Neptú), el déu del mar\ni dels seus habitants, i un dels olímpics, fill\nde Cronos i Rea, germà de Zeus, Hades, Demèter,\nHera i Hèstia. Estava casat amb Amfitrite, una nereida,\namb qui va tenir el fill Tritó, un tritó marí. Com altres\nolímpics, va tenir molts amors (p. ex. amb Medusa)\ni nombrosos fills (p. ex. Pegàs).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bClasses USB disponibles
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Aquesta és la llista de classes USB disponibles.\nCada classe és un controlador de programari per a un grup de\ndispositius USB. Les classes es poden afegir manualment amb\nel botó 'Afegir' o automàticament amb 'Explorar directori'.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uNom
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uÚs#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uDescripció
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Biblioteca de classe:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+Per afegir manualment un controlador de classe USB,\nintroduïu aquí el seu nom i feu clic a 'Afegir'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Seleccionar la biblioteca de classe USB...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cAfegir
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+Per afegir manualment un controlador de\nclasse USB, introduïu el seu nom a dalt\ni feu clic en aquest botó.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Eliminar
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Feu clic aquí per eliminar un controlador de classe\ni totes les seves vinculacions actuals.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Configurar
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Si un controlador de classe suporta algun tipus de\nconfiguració, feu-hi clic i s'obrirà\nuna finestra de configuració de la classe.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Explorar directori
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Explora automàticament els controladors de\nclasse i\nafegeix al sistema tots els controladors trobats.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bParàmetres diversos
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Paràmetres de la pila
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Prioritat de les subtasques:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Defineix la prioritat de tasca de totes\nles subtasques iniciades per Poseidon.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Retard d'arrencada:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Si és resident al reset, aquest valor defineix\nquant de temps ha d'esperar Poseidon que els dispositius\nUSB estiguin llestos, per permetre arrencar des de\ndispositius lents com ara un lector de CD USB.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Desactivar automàticament el port del concentrador en condicions de baixa potència:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Si es detecta una condició de baixa potència en un port,\nseleccionar aquest commutador apagarà automàticament\nel dispositiu que causa la condició de baixa potència.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Desactivar automàticament el port del concentrador si el dispositiu es mor:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Si un dispositiu es mor (temps d'espera de transferència\nesgotat) i aquest commutador està seleccionat, el port del\nconcentrador es desactivarà automàticament per evitar\npèrdues de rendiment innecessàries.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Reiniciar automàticament l'alimentació del port del concentrador si el dispositiu es mor:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Si un dispositiu es mor (temps d'espera de transferència\nesgotat) i aquest commutador està seleccionat, el port del\nconcentrador es reiniciarà automàticament per intentar reviure\nel dispositiu. Tanmateix, això pot provocar bucles infinits molestos.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Activar el mode de suspensió d'estalvi d'energia:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Els dispositius es posaran en mode de suspensió després\nd'un interval especificat d'inactivitat.\nEl consum d'energia baixa a menys d'1 mA.\nLa represa del funcionament sol produir-se en uns 25 ms.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Forçar el mode de suspensió, encara que la classe no el suporti:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Els controladors de classe haurien de suportar el mode\nde suspensió. Si no ho fan, activar aquest commutador\nsimplement alliberarà la vinculació abans de suspendre.\nAixò només es fa amb dispositius amb despertador remot;\naltrament la classe no es tornaria a vincular automàticament.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Temps d'inactivitat per a la suspensió:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Temps d'espera abans d'intentar posar un dispositiu\nen mode de suspensió d'estalvi d'energia.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Opcions de registre
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Registrar missatges d'informació:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Commuta el registre dels missatges\nd'informació normals.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Registrar avisos:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Commuta el registre d'avisos.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Registrar errors:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Commuta el registre d'errors.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Registrar fallades:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Commuta el registre de fallades.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Memòria assignada al pool de Poseidon:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bParàmetres de finestres emergents
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Opcions de la finestra emergent
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+En connectar:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Comportament de la finestra emergent en\nconnectar nous dispositius USB
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+En desconnectar:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Si s'ha d'obrir una finestra emergent\nquan es retira el dispositiu.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+En cas de mort del dispositiu:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Obre una finestra de petició si el dispositiu sembla mort.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Retard de la finestra emergent:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Quant de temps s'ha de mostrar la finestra\nabans que desaparegui automàticament.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Activar la finestra:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Fa que la finestra quedi activa en obrir-se.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Portar al davant:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Porta la finestra al davant si el contingut canvia.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+So de connexió:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Aquest so es reproduirà cada cop que\nes connecti un dispositiu al bus.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Seleccionar un fitxer de so per reproduir...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+So de desconnexió:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Aquest so es reproduirà cada vegada\nque es retiri un dispositiu del bus.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Seleccionar un fitxer de so per reproduir...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bGestió de la configuració (useu arrossegar i deixar anar)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+En aquesta caixa podeu veure totes les preferències que es\ndesen amb el fitxer de preferències a ENVARC:.\nPodeu usar aquest panell per esborrar o exportar preferències.\n\nUseu arrossegar i deixar anar per copiar o reemplaçar preferències.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uTipus
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uDescripció
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uPropietari
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uMida
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Desar com
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Desa totes les preferències amb el nom indicat\nper tornar-les a carregar més tard.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Exportar
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Us permet desar una entrada seleccionada\nper tornar-la a carregar més tard.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Importar
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Importa unes preferències desades prèviament.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Eliminar
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Esborra l'entrada de preferències seleccionada.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Registre de missatges
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Nivell d'informació:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Aquest giny determina la quantitat i el\ntipus de missatges mostrats a sota.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Desar al disc
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Per generar un fitxer de registre dels errors,\np. ex. per enviar-me la informació\nper informar d'errors o demanar ajuda.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Buidar-ho tot
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+En fer clic en aquest botó s'eliminaran tots\nels missatges de la pila. No hi ha manera\nde recuperar-los.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Aquests són els missatges generats fins ara per la\npila Poseidon. Si voleu netejar aquesta llista,\nfeu clic al botó 'Buidar-ho tot'.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Tot en línia
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Inicia tots els controladors de maquinari USB que\ns'han introduït al panell 'Maquinari'.\nA més, es comprovarà si els dispositius trobats\ntenen possibles vinculacions.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Tot fora de línia
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+Amb 'Fora de línia' podeu aturar tots els controladors\nde maquinari USB.\nAixò atura completament la pila.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Reiniciar
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+En fer clic a 'Reiniciar' s'aturaran i es reiniciaran\ntots els controladors de maquinari.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Desar
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Per desar les preferències actuals al disc, feu\nclic en aquest botó. La configuració es\ndesarà tant a ENVARC: com a\n ENV:.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Usar
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Per usar les preferències sense desar-les\npermanentment, feu clic en aquest botó. La\nconfiguració es desarà a ENV:.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+desconegut
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Finestra d'informació del controlador de maquinari
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Aquests camps mostren informació general\nsobre el controlador de maquinari USB.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+Informació general del controlador de maquinari USB
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Dispositiu:\nUnitat:\nVersió:\nProducte:\nFabricant:\nDescripció:\nCopyright:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Seleccionar el fitxer on desar els errors...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Registre d'errors desat al fitxer %s.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Error en obrir el fitxer %s per escriure-hi.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Seleccionar el fitxer on desar la llista de dispositius...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Error en executar PsdDevLister
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister desat a %s.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Seleccionar un fitxer de preferències de Poseidon...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Configuració carregada des de %s.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Seleccionar el fitxer on desar les preferències...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+La configuració s'ha desat correctament a %s.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+No s'ha pogut desar la configuració a %s.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Configuració no desada!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+La configuració s'ha desat correctament.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Usar|Desar|Cancel·lar
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+La configuració actual s'ha modificat\ni encara no s'ha desat.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+No s'ha pogut desar la configuració.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Cap
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+No sóc ximple!|M'ho repensaré
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Esteu a punt d'establir una vinculació forçada de\n\33bdispositiu\33n. Això no és una vinculació d'interfície.\nCom que la majoria de la gent no és capaç de llegir el\nmanual, causen més mal que bé.\nAssegureu-vos que sabeu què esteu fent\ni que no espatllareu res (i llavors empipeu-me amb\ncorreus ximples).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+Forçant la vinculació de dispositiu de %s a %s.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+S'ha eliminat la vinculació forçada de dispositiu de %s.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Eliminar|Cancel·lar
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+Esteu a punt d'\33beliminar\33n les dades de\nconfiguració relacionades amb el dispositiu amb l'ID\n\33b%s\33n.\nAixò inclou tots els paràmetres de classe desats\nindividualment per al dispositiu o les interfícies, així\ncom les coses que desa Trident (com ara el nom personalitzat\no la inhibició de finestres emergents).\n\nSegur que voleu eliminar aquestes preferències?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+Esteu a punt d'\33beliminar\33n la configuració\n(per defecte) de la classe \33b%s\33n.\nAixò establirà les preferències inicials de la classe als\nvalors interns per defecte \33ben la propera arrencada\33n!\nNormalment no afecta els paràmetres desats individualment\nper al dispositiu o la interfície.\n\nSegur que voleu eliminar aquestes preferències?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+Esteu a punt d'\33beliminar\33n la configuració\nde classe de la classe \33b%s\33n,\ndesada específicament per al dispositiu amb ID\n\33b%s\33n.\n\nSegur que voleu eliminar aquestes preferències?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+Esteu a punt d'\33beliminar\33n la configuració\nde classe de la classe \33b%s\33n\ndesada per a la interfície concreta\n\33b%s\33n del dispositiu amb ID\n\33b%s\33n.\n\nSegur que voleu eliminar aquestes preferències?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Realment voleu eliminar aquestes\n\33bdades de preferències desconegudes\33n de les preferències?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Seleccionar el fitxer on exportar les preferències...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+No s'ha pogut obrir el fitxer %s.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Seleccionar el fitxer d'on importar les preferències...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Ep!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Per importar dades de preferències de dispositiu\no d'interfície, heu de seleccionar\nl'entrada del dispositiu on s'han d'afegir.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+No conec aquest tipus de fitxer de preferències.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Error de lectura en carregar el fitxer de preferències %s.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+No s'ha pogut assignar el buffer per carregar %s.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+%s no sembla ser un fitxer iff.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+No s'ha pogut obrir el fitxer %s.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Reemplaçar|Fusionar|Cancel·lar
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+Voleu \33breemplaçar\33n o \33bfusionar\33n les preferències de\n\33b%s\33n\namb el contingut de\n\33b%s\33n?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Afegir al dispositiu|Cancel·lar
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Ho sentim, però només es poden reemplaçar les preferències\ndel mateix propietari.\n\nVoleu, en canvi, afegir aquestes preferències\nal dispositiu?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Reemplaçar|Cancel·lar
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+Voleu \33breemplaçar\33n les preferències de\n\33b%s\33n\nper les de\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Reemplaçar|Cancel·lar
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+Voleu \33breemplaçar\33n les preferències de\n\33b%s\33n\nper la que hi ha a\n\33b%s\33n?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Afegir|Cancel·lar
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+Voleu \33bafegir\33n les preferències de\n\33b%s\33n\nal dispositiu\n\33b%s\33n?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Ep!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Ho sentim, l'operació d'arrossegar i deixar anar\nsobre aquesta destinació no està suportada.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Baix
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Alt
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Ple
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Suspès
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Mort
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Mort \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Baixa potència
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+En marxa
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Connectat
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Avís
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Error
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Fallada
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Poseidon USB Yýðýný GUI
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Proje
+; Project
+;
+MSG_MENU_ABOUT
+Hakkýnda...
+; About...
+;
+MSG_MENU_ABOUTMUI
+MUI Hakkýnda...
+; About MUI...
+;
+MSG_MENU_HELP
+Help
+; Help
+;
+MSG_MENU_ONLINE
+Çevrimiçi
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Çevrimdýþý
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Simge durumu
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Çýkýþ
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Bilgi
+; Information
+;
+MSG_MENU_SAVELOG
+Hata günlüðünü kaydet...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Hatalarý temizle
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Aygýt listesini kaydet...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Ayarlar
+; Settings
+;
+MSG_MENU_LOAD
+Yükle...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Kaydet
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Faklý kaydet...
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI Ayarlarý
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+Genel
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Denetleyiciler
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Aygýtlar
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Sýnýflar
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Seçenek
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Açýlýr Pencereler
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Yapýlandýrma
+; Config
+;
+MSG_ERRLVL_ALL
+Tüm mesajlar
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Uyarý ve daha kötüsü
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Hatalar ve baþarýsýzlýklar
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Yalnýzca baþarýsýzlýklar
+; Failures only
+;
+MSG_POPUP_NEVER
+Asla açýlýr pencere açma! Öf!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Yalnýzca hata durumunda açýl
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Yeni, bilinmeyen aygýtlarda açýl
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Baðlama yoksa açýl
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Henüz yapýlandýrma yoksa açýl
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Yapýlandýrýlabilir sýnýfta açýl
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Baðlamadan baðýmsýz olarak açýl
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Her zaman hemen beni rahatsýz et
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 Grafiksel Kullanýcý Arayüzü
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cPoseidon USB Yýðýný için
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cTelif Hakký \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cTüm haklarý saklýdýr.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason Simgeleri\nMartin Merz'in izniyledir.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bKullanýlabilir USB Donaným Denetleyicileri
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Bu, kullanýlabilir donaným denetleyicilerinin listesidir.\nSistemde ayný anda birkaç farklý denetleyici bulunabilir.\nBir girdi eklemek için alttaki 'Yeni' aracýný kullanýn.\nAygýtý ilk kez eklediðinizde donaným denetleyicisini\nelle çevrimiçi duruma getirmeniz gerekir.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uAdý
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uBirim
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uÇevrimiçi
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uÜrün
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Evet
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Hayýr
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33içevrimiçi olana kadar bilinmiyor
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Aygýt:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Denetleyici aygýt sürücüsünün adýný bu\nalana girin. Bu aygýtlar normalde\nDEVS:USBHardware içinde saklanýr.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+USBHardware aygýtýný seçin...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Birim:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Makinenizde ayný türden birden fazla\nkart varsa, kartýn birim numarasýný\nburaya girin.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Yeni
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Yeni bir donaným sürücüsü girdisi\noluþturmak için buraya týklayýn.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopyala
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Seçili donaným sürücüsü girdisini\nkopyalamak için buraya týklayýn.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Sil
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Seçili girdiyi kaldýrmak için buraya týklayýn.\nDonaným otomatik olarak çevrimdýþý olacak ve\nbaðlý tüm aygýtlarý da devre dýþý býrakacaktýr.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Çevrimiçi
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Tek bir donaným sürücüsünü etkinleþtirmek\niçin buraya týklayýn.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Çevrimdýþý
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Tek bir donaným sürücüsünü devre dýþý\nbýrakmak için buraya týklayýn.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Bilgi
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Aygýt sürücüsü hakkýnda bilgi almak için buraya\ntýklayýn. Bilginin kullanýlabilmesi için aygýtýn\nçevrimiçi olmasý gerekir.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bSistemdeki USB Aygýtlarý
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Bu, þu anda sistemde bulunan USB aygýtlarýnýn\n(iþlevlerinin) listesidir. Ayrýca mevcut aygýt\nveya arayüz baðlamalarýný da gösterir.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uAdý
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uHýz
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uDurum
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uSýnýf
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uBaðlamalar
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Sýnýf Taramasý
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Bu düðmeye týklamak bir sýnýf taramasý baþlatýr. Bu, her aygýtýn\nsistemdeki standart sýnýflardan bazýlarýna uyup uymadýðýnýn\nincelenmesi demektir. Uymasý durumunda bir baðlama kurulur\nve iþlevsellik sisteme otomatik olarak eklenir.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Baðlamayý kaldýr
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Bir baðlamayý elle kaldýrýr. Bu, bir aygýtý geçici\nolarak devre dýþý býrakmak için yararlý olabilir.\nBaðlamayý yeniden kurmak için 'Sýnýf Taramasý'ný kullanýn.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Bilgi
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Ayrýntýlý bir bilgi penceresi açar.\nDeneyin, ters gidecek bir þey yok.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Ayarlar
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Bir aygýt baðlamasý varsa ve sýnýf bir yapýlandýrma\narayüzünü destekliyorsa, bu düðmeye týklamak\ntercihler penceresini açar.\n\nArayüz baðlama ayarlarýna ait düðmenin bilgi\npenceresinin içinde bulunduðunu\nunutmayýn.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Askýya al
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Aygýtý güç tasarrufu saðlayan askýya alma moduna\ngönderir. Bir sýnýf baðlamasý askýya almayý\ndesteklemiyorsa bu düðme hiçbir þey yapmaz.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Devam ettir
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Askýya alma moduna alýnan aygýtý tam\nçalýþma durumuna geri döndürür.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Gücü sýfýrla
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Hub portunun gücünü kapatýp açar ve aygýtý yeniden\nnumaralandýrýr. Ölü aygýtlarý canlandýrmak için iþe yarar.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Devre dýþý býrak
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Portu kalýcý olarak kapatýr. Aygýtý çýkarýp yeniden\ntakarak tekrar etkinleþtirilemez.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (Latince adýyla Neptün) denizin ve onun\nsakinlerinin tanrýsý, Olimposlulardan biri, Kronos ile\nRhea'nýn oðlu, Zeus, Hades, Demeter, Hera ve Hestia'nýn\nkardeþidir. Bir Nereid olan Amphitrite ile evlendi ve\nondan bir denizadamý olan Triton adlý oðlu oldu. Diðer\nOlimposlular gibi birçok aþk macerasý (örn. Medusa ile)\nve sayýsýz çocuðu (örn. Pegasos) oldu.
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bKullanýlabilir USB Sýnýflarý
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Bu, kullanýlabilir USB sýnýflarýnýn listesidir.\nHer sýnýf, bir grup USB aygýtý için bir yazýlým\nsürücüsüdür. Sýnýflar 'Ekle' düðmesiyle elle veya\n'Dizin Tara' ile otomatik olarak eklenebilir.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uAdý
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uKullaným#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uAçýklama
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Sýnýf kütüphanesi:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+Bir usb sýnýf sürücüsünü elle eklemek için,\nadýný buraya girin ve 'Ekle'ye týklayýn.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+USB sýnýf kütüphanesini seçin...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cEkle
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+Bir usb sýnýf sürücüsünü elle\neklemek için adýný yukarýya girin\nve bu düðmeye týklayýn.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Kaldýr
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Bir sýnýf sürücüsünü ve mevcut tüm\nbaðlamalarýný kaldýrmak için buraya týklayýn.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Yapýlandýr
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Bir sýnýf sürücüsü herhangi bir yapýlandýrmayý\ndestekliyorsa, buraya týklayýn; sýnýfýn\nyapýlandýrma penceresi açýlacaktýr.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Dizin Tara
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Sýnýf sürücülerini otomatik olarak tarar ve\nbulunan tüm sürücüleri\nsisteme ekler.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bÇeþitli Ayarlar
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Yýðýn Ayarlarý
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Alt görev önceliði:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Poseidon tarafýndan baþlatýlan tüm alt\ngörevlerin görev önceliðini belirler.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Önyükleme gecikmesi:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Sýfýrlamada yerleþik kalýyorsa, bu deðer Poseidon'un\nUSB aygýtlarýnýn yerleþmesi için ne kadar bekleyeceðini\nbelirler; böylece USB CD sürücüsü gibi yavaþ\naygýtlardan önyükleme yapýlabilir.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld sn.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Düþük güç durumlarýnda hub portunu otomatik devre dýþý býrak:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Bir portta düþük güç durumu algýlanýrsa, bu anahtarý\nseçmek düþük güç durumuna yol açan aygýtý\notomatik olarak kapatacaktýr.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Aygýt yanýt vermez olursa hub portunu otomatik devre dýþý býrak:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Bir aygýt yanýt vermez olursa (aktarým zaman aþýmlarý)\nve bu anahtar seçiliyse, gereksiz baþarým kayýplarýný\nönlemek için hub portu otomatik olarak devre dýþý\nbýrakýlacaktýr.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Aygýt yanýt vermez olursa hub portunun gücünü otomatik sýfýrla:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Bir aygýt yanýt vermez olursa (aktarým zaman aþýmlarý)\nve bu anahtar seçiliyse, aygýtý canlandýrmak için hub portu\notomatik olarak sýfýrlanacaktýr. Ancak bu, tatsýz sonsuz\ndöngülere yol açabilir.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Güç tasarrufu askýya alma modunu etkinleþtir:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Aygýtlar belirtilen bir hareketsizlik süresinin ardýndan\naskýya alma moduna geçirilecektir.\nGüç tüketimi 1mA'nýn altýna iner.\nÇalýþmaya dönüþ genellikle 25ms içinde gerçekleþir.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Sýnýf desteklemese bile askýya alma modunu zorla:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Sýnýf sürücüleri askýya alma moduna geçmeyi desteklemelidir.\nDesteklemiyorlarsa, bu anahtarý etkinleþtirmek askýya\nalmadan önce baðlamayý kaldýrýr. Bu yalnýzca uzaktan\nuyandýrma aygýtlarýnda yapýlýr, aksi halde sýnýf\notomatik olarak yeniden baðlanmaz.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Askýya alma için hareketsizlik süresi:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Bir aygýtý güç tasarrufu saðlayan askýya alma\nmoduna geçirmeden önceki bekleme süresi.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld sn.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Günlükleme Seçenekleri
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Bilgi mesajlarýný günlüðe kaydet:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Normal bilgi mesajlarýnýn günlüðe\nkaydýný açar/kapatýr.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Uyarýlarý günlüðe kaydet:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Uyarýlarýn günlüðe kaydýný açar/kapatýr.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Hatalarý günlüðe kaydet:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Hatalarýn günlüðe kaydýný açar/kapatýr.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Baþarýsýzlýklarý günlüðe kaydet:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Baþarýsýzlýklarýn günlüðe kaydýný açar/kapatýr.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Poseidon Havuzunda ayrýlan bellek:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bAçýlýr Pencere Ayarlarý
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Açýlýr Pencere Seçenekleri
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Baðlanýrken:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Yeni USB aygýtlarý baðlanýrken açýlýr\npencere gösterim davranýþý
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Baðlantý kesildiðinde:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Aygýt çýkarýldýðýnda bir pencerenin\naçýlýp açýlmayacaðý.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Aygýt yanýt vermediðinde:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Aygýt yanýt vermiyor görünüyorsa bir sistem istemi açar.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Açýlýr pencere gecikmesi:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Sistem istemi otomatik olarak kaybolmadan\nönce ne kadar süre gösterilsin.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld sn.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Pencereyi etkinleþtir:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Açýlýrken pencereyi etkin yapar.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Öne getir:
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Ýçerik deðiþirse pencereyi öne getirir.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Baðlantý sesi:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Bu ses, veri yoluna her aygýt\nbaðlandýðýnda çalýnacaktýr.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Çalýnacak bir ses dosyasý seçin...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Baðlantý kesilme sesi:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Bu ses, veri yolundan her aygýt\nçýkarýldýðýnda çalýnacaktýr.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Çalýnacak bir ses dosyasý seçin...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bYapýlandýrma yönetimi (Sürükle & býrak kullanýn)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+Bu kutuda ENVARC: içindeki tercih dosyasýyla\nbirlikte kaydedilen tüm tercihleri görebilirsiniz.\nBu paneli tercihleri silmek veya dýþa aktarmak\niçin kullanabilirsiniz.\n\nTercihleri kopyalamak veya deðiþtirmek için\nsürükle & býrak kullanýn.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uTür
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uAçýklama
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uSahibi
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uBoyut
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Farklý kaydet
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Daha sonra yeniden yüklemek üzere tüm tercihleri\nverilen adla kaydeder.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Dýþa aktar
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Seçili bir girdiyi daha sonra yeniden\nyüklemek üzere kaydetmenizi saðlar.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Ýçeri aktar
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Daha önce kaydedilmiþ bir tercih parçasýný içeri aktarýr.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Kaldýr
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Seçili tercih girdisini siler.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Mesaj Günlüðü
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Bilgi seviyesi:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Bu araç, aþaðýda gösterilen mesajlarýn\nmiktarýný ve türünü belirler.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Diske kaydet
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Hatalarýn günlük dosyasýný oluþturmak için,\nörn. hata bildirimi veya yardým amacýyla\nbilgileri bana göndermek üzere.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Tümünü temizle
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Bu düðmeye týklamak yýðýndaki tüm\nmesajlarý siler. Onlarý geri getirmenin\nbir yolu yoktur.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Bunlar Poseidon yýðýnýnýn þu ana kadar ürettiði\nmesajlardýr. Bu listeyi temizlemek istiyorsanýz\n'Tüm mesajlarý temizle' düðmesine týklayýn.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Tümü Çevrimiçi
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+'Donaným' panelinde girilmiþ tüm USB donaným\naygýt sürücülerini baþlatýr. Ayrýca bulunan\naygýtlar olasý baðlamalar için\nkontrol edilir.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Tümü Çevrimdýþý
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+'Çevrimdýþý' ile tüm USB donaným aygýt\nsürücülerini kapatabilirsiniz.\nBu, yýðýný tamamen durdurur.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Yeniden baþlat
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+'Yeniden baþlat'a týklamak tüm donaným aygýt\nsürücülerini durdurup yeniden baþlatýr.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Kaydet
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Mevcut tercihlerinizi diske kaydetmek için bu\ndüðmeye týklayýn. Yapýlandýrma hem ENVARC:\nhem de\n ENV: içinde saklanacaktýr.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Kullan
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Tercihlerinizi kullanmak ama kalýcý olarak kaydetmemek\niçin bu düðmeye týklayýn. Yapýlandýrma\nENV: içinde saklanacaktýr.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+bilinmiyor
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Donaným sürücüsü bilgi penceresi
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Bu alanlar USB donaným sürücüsü hakkýnda\nbazý genel bilgileri gösterir.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+Genel USB donaným sürücüsü bilgileri
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Aygýt:\nBirim:\nSürüm:\nÜrün:\nÜretici:\nAçýklama:\nTelif Hakký:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Hatalarýn kaydedileceði dosyayý seçin...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Hata günlüðü %s dosyasýna kaydedildi.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+%s dosyasý yazmak için açýlýrken hata.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Aygýt listesinin kaydedileceði dosyayý seçin...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+PsdDevLister çalýþtýrýlýrken hata
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister %s dosyasýna kaydedildi.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Bir Poseidon Tercih dosyasý seçin...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Yapýlandýrma %s dosyasýndan yüklendi.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Tercihlerin kaydedileceði dosyayý seçin...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Yapýlandýrma %s dosyasýna baþarýyla kaydedildi.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Yapýlandýrma %s dosyasýna kaydedilemedi.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Yapýlandýrma kaydedilmedi!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Yapýlandýrma baþarýyla kaydedildi.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Kullan|Kaydet|Vazgeç
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+Geçerli yapýlandýrma deðiþtirildi\nve henüz kaydedilmedi.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Yapýlandýrma kaydedilemedi.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Hiçbiri
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Aptal deðilim!|Bir daha düþüneyim
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Zorlanmýþ bir \33baygýt\33n baðlamasý kurmak\nüzeresiniz. Bu bir arayüz baðlamasý deðildir.\nÇoðu kiþi kýlavuzu okuyamadýðý için\nfaydadan çok zarar veriyor.\nLütfen ne yaptýðýnýzý bildiðinizden ve bir þeyi\nbozmadýðýnýzdan emin olun (sonra da bana saçma\ne-postalar yazmayýn).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+%s aygýtýnýn %s ile baðlanmasý zorlanýyor.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+%s için zorlanmýþ aygýt baðlamasý kaldýrýldý.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Kaldýr|Vazgeç
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+ID'si \33b%s\33n olan aygýtla ilgili\nyapýlandýrma verilerini \33bkaldýrmak\33n üzeresiniz.\nBuna aygýt veya arayüzler için ayrý ayrý\nkaydedilmiþ tüm sýnýf ayarlarý ile Trident'in\nkaydettikleri (özel ad veya açýlýr pencere\nengelleme gibi) dahildir.\n\nBu tercihleri kaldýrmak istediðinizden emin misiniz?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+\33b%s\33n sýnýfýnýn (varsayýlan)\nyapýlandýrmasýný \33bkaldýrmak\33n üzeresiniz.\nBu, sýnýfýn baþlangýç tercihlerini \33bbir sonraki önyüklemede\33n\ndahili varsayýlanlara ayarlayacak!\nNormalde aygýt veya arayüz için ayrý ayrý\nkaydedilmiþ ayarlarý etkilemez.\n\nBu tercihleri kaldýrmak istediðinizden emin misiniz?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+\33b%s\33n sýnýfýnýn,\nID'si \33b%s\33n olan aygýt için özel olarak\nkaydedilmiþ sýnýf yapýlandýrmasýný\n\33bkaldýrmak\33n üzeresiniz.\n\nBu tercihleri kaldýrmak istediðinizden emin misiniz?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+\33b%s\33n sýnýfýnýn,\n\33b%s\33n arayüzü için\n(\33b%s\33n ID'li aygýtta) kaydedilmiþ\nsýnýf yapýlandýrmasýný \33bkaldýrmak\33n üzeresiniz.\n\nBu tercihleri kaldýrmak istediðinizden emin misiniz?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Bu \33bbilinmeyen tercih verisini\33n\ntercihlerden gerçekten kaldýrmak istiyor musunuz?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Tercihlerin dýþa aktarýlacaðý dosyayý seçin...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+%s dosyasý açýlamadý.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Ýçeri aktarýlacak tercih dosyasýný seçin...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Hoppa!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Aygýt veya arayüz tercih verilerini\niçeri aktarmak için, ekleneceði\naygýt girdisini seçmeniz gerekir.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Bu tür bir tercih dosyasýný tanýmýyorum.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+%s tercih dosyasý yüklenirken okuma hatasý.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+%s yüklemek için tampon ayrýlamadý.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+%s bir iff dosyasý gibi görünmüyor.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+%s dosyasý açýlamadý.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Deðiþtir|Birleþtir|Vazgeç
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+\33b%s\33n\ntercihlerini\n\33b%s\33n\niçeriðiyle \33bdeðiþtirmek\33n mi yoksa \33bbirleþtirmek\33n mi istiyorsunuz?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Aygýta ekle|Vazgeç
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Üzgünüm, yalnýzca ayný sahibe ait tercihler\ndeðiþtirilebilir.\n\nBunun yerine bu tercihleri\naygýta eklemek ister misiniz?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Deðiþtir|Vazgeç
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+\33b%s\33n\ntercihlerini\n\33b%s\33n\ntercihleriyle \33bdeðiþtirmek\33n ister misiniz?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Deðiþtir|Vazgeç
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+\33b%s\33n\ntercihlerini\n\33b%s\33n\niçindekiyle \33bdeðiþtirmek\33n ister misiniz?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Ekle|Vazgeç
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+\33b%s\33n\ntercihlerini\n\33b%s\33n\naygýtýna \33beklemek\33n ister misiniz?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Hoppa!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Üzgünüm, o hedefe sürükle-býrak\niþlemi desteklenmiyor.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Düþük
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Yüksek
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Tam
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Askýya alýndý
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Ölü
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Ölü \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Düþük Güç
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Çalýþýyor
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Baðlý
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Uyarý
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Hata
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Baþarýsýz
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;

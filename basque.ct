@@ -1,0 +1,1131 @@
+## version $VER: Trident.catalog 2.0 (06.08.2026)
+## language euskara
+## codeset 0
+;
+MSG_APP_TITLE
+Trident
+; Trident
+;
+MSG_APP_VERSION
+4.4 (06-Dec-2025)
+; 4.4 (06-Dec-2025)
+;
+MSG_APP_DESC
+Poseidon USB pilaren GUIa
+; Poseidon USB Stack GUI
+;
+MSG_MENU_PROJECT
+Proiektu
+; Project
+;
+MSG_MENU_ABOUT
+About...
+; About...
+;
+MSG_MENU_ABOUTMUI
+MUI buruz...
+; About MUI...
+;
+MSG_MENU_HELP
+Ayuda
+; Help
+;
+MSG_MENU_ONLINE
+Online
+; Online
+;
+MSG_MENU_SC_ONLINE
+O
+; O
+;
+MSG_MENU_OFFLINE
+Offline
+; Offline
+;
+MSG_MENU_SC_OFFLINE
+F
+; F
+;
+MSG_MENU_ICONIFY
+Ikono bihurtu
+; Iconify
+;
+MSG_MENU_SC_ICONIFY
+H
+; H
+;
+MSG_MENU_QUIT
+Atera
+; Quit
+;
+MSG_MENU_SC_QUIT
+Q
+; Q
+;
+MSG_MENU_INFO
+Informazioa
+; Information
+;
+MSG_MENU_SAVELOG
+Gorde errore-erregistroa...
+; Save error log...
+;
+MSG_MENU_FLUSH
+Erroreak garbitu
+; Flush errors
+;
+MSG_MENU_SAVEDEV
+Gorde gailu-zerrenda...
+; Save device list...
+;
+MSG_MENU_SETTINGS
+Ezarpenak
+; Settings
+;
+MSG_MENU_LOAD
+Kargatu...
+; Load...
+;
+MSG_MENU_SC_LOAD
+L
+; L
+;
+MSG_MENU_SAVE
+Gorde
+; Save
+;
+MSG_MENU_SC_SAVE
+S
+; S
+;
+MSG_MENU_SAVEAS
+Gorde bezala... 
+; Save as...
+;
+MSG_MENU_SC_SAVEAS
+A
+; A
+;
+MSG_MENU_MUISETTINGS
+MUI hobespenak
+; MUI Settings
+;
+MSG_MENU_SC_MUISETTINGS
+M
+; M
+;
+MSG_WINDOW_TITLE
+Trident 4.4
+; Trident 4.4
+;
+MSG_MAINPANEL_GENERAL
+General
+; General
+;
+MSG_MAINPANEL_CONTROLLERS
+Kontrolagailuak
+; Controllers
+;
+MSG_MAINPANEL_DEVICES
+Gailuak
+; Devices
+;
+MSG_MAINPANEL_CLASSES
+Klaseak
+; Classes
+;
+MSG_MAINPANEL_OPTIONS
+Auerak
+; Options
+;
+MSG_MAINPANEL_POPUPS
+Popup-ak
+; Popups
+;
+MSG_MAINPANEL_CONFIG
+Konfigurazioa
+; Config
+;
+MSG_ERRLVL_ALL
+Mezu guztiak
+; All messages
+;
+MSG_ERRLVL_WARNINGS
+Abisuak eta okerragoak
+; Warning and worse
+;
+MSG_ERRLVL_ERRORS
+Erroreak eta hutsegiteak
+; Errors and failures
+;
+MSG_ERRLVL_FAILURES
+Hutsegiteak bakarrik
+; Failures only
+;
+MSG_POPUP_NEVER
+Inoiz ez ireki popup leihorik! Bah!
+; Never open a popup window! Bah!
+;
+MSG_POPUP_ERROR
+Popup errore-egoeratan bakarrik
+; Only popup on an error condition
+;
+MSG_POPUP_UNKNOWN
+Popup gailu berri eta ezezagunetan
+; Popup on new, unknown devices
+;
+MSG_POPUP_NOBINDING
+Popup, loturarik ez badago
+; Popup, if there is no binding
+;
+MSG_POPUP_NOCONFIG
+Popup, oraindik konfiguraziorik ez badago
+; Popup, if there is no config yet
+;
+MSG_POPUP_CONFIGCLASS
+Popup klase konfiguragarrietan
+; Popup on configurable class
+;
+MSG_POPUP_BINDING
+Popup, lotura kontuan hartu gabe
+; Popup, regardless of binding
+;
+MSG_POPUP_ALWAYS
+Gogaitu nazazu beti berehala
+; Always immediately annoy me
+;
+MSG_PANEL_GENERAL_LABEL1
+\33cTrident V4.4 erabiltzaile-interfaze grafikoa
+; \33cTrident V4.4 Graphical User Interface
+;
+MSG_PANEL_GENERAL_LABEL2
+\33cPoseidon USB pilarako
+; \33cfor the Poseidon USB Stack
+;
+MSG_PANEL_GENERAL_LABEL3
+\33cCopyright \xa92002-2009 Chris Hodges
+; \33cCopyright \xa92002-2009 Chris Hodges
+;
+MSG_PANEL_GENERAL_LABEL4
+\33cEskubide guztiak erreserbatuta.
+; \33cAll rights reserved.
+;
+MSG_PANEL_GENERAL_LABEL5
+\33cMason ikonoak\nMartin Merz-en kortesia dira.
+; \33cMason Icons are\ncourtesy of Martin Merz.
+;
+MSG_PANEL_HARDWARE_LABEL1
+\33c\33bUSB hardware kontrolagailu eskuragarriak
+; \33c\33bUSB Hardware Controllers available
+;
+MSG_PANEL_HARDWARE_CONTROLLER_HELP
+Hau hardware kontrolagailu eskuragarrien zerrenda da.\nHainbat kontrolagailu ezberdin egon daitezke sisteman\naldi berean.\nSarrera bat gehitzeko, erabili beheko 'Berria' gadgeta.\nGailua gehitzen duzun lehen aldian hardware kontrolagailua\neskuz jarri behar duzu online.
+; This is the list of available hardware controllers.\nSeveral different controllers can be in the system at\nthe same time.\nTo add an entry, use the 'New' gadget at the bottom.\nYou need to manually set an hardware controller online\nthe first time you add the device.
+;
+MSG_PANEL_HARDWARE_COLS_NAME
+\33uIzena
+; \33uName
+;
+MSG_PANEL_HARDWARE_COLS_UNIT
+\33uUnitatea
+; \33uUnit
+;
+MSG_PANEL_HARDWARE_COLS_ONLINE
+\33uOnline
+; \33uOnline
+;
+MSG_PANEL_HARDWARE_COLS_PRODUCT
+\33uProduktua
+; \33uProduct
+;
+MSG_PANEL_HARDWARE_ONLINE_YES
+Bai
+; Yes
+;
+MSG_PANEL_HARDWARE_ONLINE_NO
+Ez
+; No
+;
+MSG_PANEL_HARDWARE_UNKNOWN
+\33iezezaguna online egon arte
+; \33iunknown until online
+;
+MSG_PANEL_HARDWARE_LABEL2
+Periferiko:
+; Device:
+;
+MSG_PANEL_HARDWARE_DEVICE_HELP
+Idatzi kontrolagailuaren gailu-kontrolatzailearen\nizena eremu honetan. Gailu hauek normalean\nDEVS:USBHardware-n gordetzen dira.
+; Give the name of the controller device\ndriver in this field. These devices are\nnormally stored in DEVS:USBHardware.
+;
+MSG_PANEL_HARDWARE_SELECT
+Hautatu USBHardware gailua...
+; Select USBHardware device...
+;
+MSG_PANEL_HARDWARE_UNIT
+Unitatea:
+; Unit:
+;
+MSG_PANEL_HARDWARE_UNIT_HELP
+Zure makinan mota bereko txartel\nbat baino gehiago badaude, idatzi\nhemen txartelaren unitate-zenbakia.
+; If there are multiple cards of the\nsame kind in your machine, enter\nthe unit number of the board here.
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW
+\33c Berria
+; \33c New
+;
+MSG_PANEL_HARDWARE_DRIVER_NEW_HELP
+Sakatu hemen hardware kontrolatzailearen\nsarrera berri bat sortzeko.
+; Click here to create a\nnew hardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY
+\33c Kopiatu
+; \33c Copy
+;
+MSG_PANEL_HARDWARE_DRIVER_COPY_HELP
+Sakatu hemen hautatutako hardware\nkontrolatzailearen sarrera kopiatzeko.
+; Click here to copy the selected\nhardware driver entry.
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE
+\33c Ezabatu
+; \33c Delete
+;
+MSG_PANEL_HARDWARE_DRIVER_DELETE_HELP
+Sakatu hemen hautatutako sarrera kentzeko.\nHardwarea automatikoki offline jarriko da,\nkonektatutako gailu guztiak itzaliz.
+; Click here to remove the selected entry.\nThe hardware will automatically go offline,\ntaking all its connected devices down.
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE
+\33c Online
+; \33c Online
+;
+MSG_PANEL_HARDWARE_DRIVER_ONLINE_HELP
+Sakatu hemen hardware kontrolatzaile\nbat aktibatzeko.
+; Click here to activate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE
+\33c Offline
+; \33c Offline
+;
+MSG_PANEL_HARDWARE_DRIVER_OFFLINE_HELP
+Sakatu hemen hardware kontrolatzaile\nbat desaktibatzeko.
+; Click here to deactivate an\nindividual hardware driver.
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO
+\33c Info
+; \33c Info
+;
+MSG_PANEL_HARDWARE_DRIVER_INFO_HELP
+Gailu-kontrolatzaileari buruzko informazioa lortzeko,\nsakatu hemen. Gailuak online egon behar du\ninformazioa eskuragarri egoteko.
+; To get information on the device driver,\nclick here. The device needs to be online\nfor the information to be available.
+;
+MSG_PANEL_DEVICES_LABEL
+\33c\33bUSB gailuak sisteman
+; \33c\33bUSB Devices in the system
+;
+MSG_PANEL_DEVICES_HELP
+Hau sisteman une honetan dauden USB gailuen\n(funtzioen) zerrenda da. Une honetan dauden\ngailu- edo interfaze-loturak ere erakusten ditu.
+; This is the list of USB devices (functions)\ncurrently in the system. It also shows the\ncurrently existing device or interface bindings.
+;
+MSG_PANEL_DEVICES_COLS_NAME
+\33uIzena
+; \33uName
+;
+MSG_PANEL_DEVICES_COLS_SPEED
+\33uAbiadura
+; \33uSpeed
+;
+MSG_PANEL_DEVICES_COLS_STATE
+\33uEgoera
+; \33uState
+;
+MSG_PANEL_DEVICES_COLS_CLASS
+\33uKlasea
+; \33uClass
+;
+MSG_PANEL_DEVICES_COLS_BINDINGS
+\33uLoturak
+; \33uBindings
+;
+MSG_PANEL_DEVICES_SCAN
+\33c Klase-eskaneoa
+; \33c Class Scan
+;
+MSG_PANEL_DEVICES_SCAN_HELP
+Botoi hau sakatzean klase-eskaneo bat hasiko da. Horrek esan nahi du\ngailu bakoitza aztertuko dela sistemako klase estandarren batekin\nbat datorren ikusteko. Hala bada, lotura bat ezarriko da\neta funtzionalitatea sistemari automatikoki gehituko zaio.\n
+; Clicking on this button will start a class scan. This means that\neach device will be examined if it matches some of the standard\nclasses in the system. In this case, a binding will be established\nand the functionality will be added to the system automatically.\n
+;
+MSG_PANEL_DEVICES_UNBIND
+\33c Askatu
+; \33c Unbind
+;
+MSG_PANEL_DEVICES_UNBIND_HELP
+Lotura bat eskuz kentzen du. Erabilgarria izan\ndaiteke gailu bat aldi baterako desaktibatzeko.\nErabili 'Klase-eskaneoa' lotura berraktibatzeko.
+; Manually removes a binding. This can be\nuseful to temporarily deactivate a device.\nUse 'Class Scan' to reactivate the binding.
+;
+MSG_PANEL_DEVICES_INFO
+\33c Informazioa
+; \33c Information
+;
+MSG_PANEL_DEVICES_INFO_HELP
+Informazio xehatuko leiho bat irekitzen du.\nProbatu lasai, ezin da ezer gaizki atera.
+; Opens a detailed information window.\nJust try it, nothing can go wrong.
+;
+MSG_PANEL_DEVICES_SETTINGS
+\33c Ezarpenak
+; \33c Settings
+;
+MSG_PANEL_DEVICES_SETTINGS_HELP
+Gailu-lotura bat badago eta klaseak\nkonfigurazio GUI bat onartzen badu, botoi hau\nsakatzean hobespenen leihoa irekiko da.\n\nKontuan izan interfaze-loturaren ezarpenetarako\nbotoia informazio-leihoaren barruan\naurki daitekeela.
+; If there is a device binding and the class\nsupports a configuration GUI, clicking on this\nbutton will open the preferences window.\n\nNote well, that the corresponding button for the\ninterface binding settings can be found inside\nthe information window.
+;
+MSG_PANEL_DEVICES_SUSPEND
+\33c Eseki
+; \33c Suspend
+;
+MSG_PANEL_DEVICES_SUSPEND_HELP
+Gailua energia aurrezteko eseki modura bidaltzen du.\nKlase-lotura batek esekitzea onartzen ez badu,\nbotoi honek ez du ezer egingo.
+; Sends device into power saving suspend mode.\nIf a class binding does not support suspend,\nthis button will do nothing.
+;
+MSG_PANEL_DEVICES_RESUME
+\33c Berrekin
+; \33c Resume
+;
+MSG_PANEL_DEVICES_RESUME_HELP
+Gailua funtzionamendu osora itzultzen du\neseki moduan jarri ondoren.\n
+; Resumes the device to full operation after\nit was placed into suspend mode.\n
+;
+MSG_PANEL_DEVICES_POWERCYCLE
+\33c Itzali-piztu
+; \33c Powercycle
+;
+MSG_PANEL_DEVICES_POWERCYCLE_HELP
+Hub ataka itzali eta pizten du, eta gailua berriro\nenumeratzen du. Hildako gailuak berraktibatzeko erabilgarria.\n
+; Power cycles the hub port and re-enumerates\ndevice. Comes handy to reactivate dead devices.\n
+;
+MSG_PANEL_DEVICES_DISABLE
+\33c Desgaitu
+; \33c Disable
+;
+MSG_PANEL_DEVICES_DISABLE_HELP
+Ataka betiko itzaltzen du. Ezin da berraktibatu\ngailua deskonektatuz/berriro konektatuz.\n
+; Permanently powers off the port. It cannot be\nreactivated by unplugging/replugging the device.\n
+;
+MSG_POSEIDON_SHORTHELP
+Poseidon (latinez Neptuno) itsasoaren eta bertako\nbiztanleen jainkoa da, olinpiarretako bat, Cronos\neta Rearen semea, Zeus, Hades, Demeter, Hera eta\nHestiaren anaia. Amphitrite nereidarekin ezkonduta\nzegoen, eta harekin Triton semea izan zuen, itsas gizona.\nBeste olinpiarrek bezala, amodio-kontu asko izan zituen\n(adib. Medusarekin) eta seme-alaba ugari (adib. Pegaso).
+; Poseidon (his latin name Neptune) the god of the sea\nand its inhabitants, and one of the Olympians, the son\nof Cronus and Rhea, brother of Zeus, Hades, Demeter,\nHera, Hestia. He was married to Amphitrite, a Nereid,\nand had by her the son Triton, a merman. Like other\nOlympians, had many love affairs (e.g. with Medusa)\nand numerous children (e.g. Pegasos).
+;
+MSG_PANEL_CLASSES
+\33c\33bUSB klase eskuragarriak
+; \33c\33bUSB Classes available
+;
+MSG_PANEL_CLASSES_HELP
+Hau USB klase eskuragarrien zerrenda da.\nKlase bakoitza USB gailu talde baterako software\nkontrolatzaile bat da. Klaseak eskuz gehi daitezke\n'Gehitu' botoiarekin edo automatikoki 'Dir eskaneatu'-rekin.
+; This is the list of USB classes available.\nEach class is a software driver for a group of\nUSB devices. Classes can be manually added using\nthe 'Add' button or automatically with 'Dir Scan'.
+;
+MSG_PANEL_CLASSES_COLS_NAME
+\33uIzena
+; \33uName
+;
+MSG_PANEL_CLASSES_COLS_USE
+\33uErab#
+; \33uUse#
+;
+MSG_PANEL_CLASSES_COLS_DESC
+\33uDeskribapena
+; \33uDescription
+;
+MSG_PANEL_CLASSES_LABEL
+Klase-liburutegia:
+; Class library:
+;
+MSG_PANEL_CLASSES_LABEL_HELP
+USB klase-kontrolatzaile bat eskuz gehitzeko,\nidatzi bere izena hemen eta sakatu 'Gehitu'.
+; To manually add an usb class driver,\nenter its name here and click on 'Add'.
+;
+MSG_PANEL_CLASSES_SELECT
+Hautatu USB klase-liburutegia...
+; Select USB class library...
+;
+MSG_PANEL_CLASSES_ADD
+\33cGehitu
+; \33cAdd
+;
+MSG_PANEL_CLASSES_ADD_HELP
+USB klase-kontrolatzaile bat eskuz\ngehitzeko, idatzi bere izena goian\neta sakatu botoi hau.
+; To manually add an usb class\ndriver, enter its name above\nand click on this button.
+;
+MSG_PANEL_CLASSES_REMOVE
+\33c Kendu
+; \33c Remove
+;
+MSG_PANEL_CLASSES_REMOVE_HELP
+Sakatu hemen klase-kontrolatzaile bat\neta bere uneko lotura guztiak kentzeko.
+; Click here to remove a class driver\nand all its current bindings.
+;
+MSG_PANEL_CLASSES_CONFIG
+\33c Konfiguratu
+; \33c Configure
+;
+MSG_PANEL_CLASSES_CONFIG_HELP
+Klase-kontrolatzaile batek konfigurazioren bat\nonartzen badu, sakatu hemen eta klasearen\nkonfigurazio-leiho bat irekiko da.
+; If a class driver supports some kind of\nconfiguration, click here and it will\nopen a configuration window of the class.
+;
+MSG_PANEL_CLASSES_SCAN
+\33c Dir eskaneatu
+; \33c Dir Scan
+;
+MSG_PANEL_CLASSES_SCAN_HELP
+Klase-kontrolatzaileak automatikoki\neskaneatzen ditu eta\naurkitutako guztiak sistemari gehitzen dizkio.
+; Automatically scans for class\ndrivers and\nadds all drivers found to the system.
+;
+MSG_PANEL_OPTIONS
+\33c\33bHainbat ezarpen
+; \33c\33bVarious Settings
+;
+MSG_PANEL_OPTIONS_STACK
+Pilaren ezarpenak
+; Stack Settings
+;
+MSG_PANEL_OPTIONS_PRIORITY
+Azpiatazen lehentasuna:
+; SubTask priority:
+;
+MSG_PANEL_OPTIONS_PRIORITY_HELP
+Poseidon-ek abiarazitako azpiataza guztien\nlehentasuna zehazten du.
+; Defines the task priority of all\nsubtasks started by Poseidon.
+;
+MSG_PANEL_OPTIONS_BOOT
+Abioko atzerapena:
+; Boot delay:
+;
+MSG_PANEL_OPTIONS_BOOT_HELP
+Reset ondoren egoiliar bada, balio honek zehazten du\nzenbat denbora itxaron behar duen Poseidon-ek USB\ngailuak egonkortu arte, USB CD unitate bat bezalako\ngailu geldoetatik abiaraztea ahalbidetuz.
+; If reset resident, this value defines,\nhow long Poseidon should wait for USB\ndevices to settle, allowing to boot from\nslow devices such as an USB CD drive.
+;
+MSG_PANEL_OPTIONS_BOOT_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_DISABLELOW
+Automatikoki desgaitu hub ataka potentzia baxuko egoeratan:
+; Automatically disable hub port on low power conditions:
+;
+MSG_PANEL_OPTIONS_DISABLELOW_HELP
+Ataka batean potentzia baxuko egoera bat antzematen bada,\naukera hau hautatuta potentzia baxua eragiten duen\ngailua automatikoki itzaliko da.
+; If a low power condition is detected at a port,\nselecting this switch will automatically turn off\nthe device causing the low power condition.
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD
+Automatikoki desgaitu hub ataka, gailua hilda geratzen bada:
+; Automatically disable hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_DISABLEDEAD_HELP
+Gailu bat hilda geratzen bada (transferentzia denbora-mugak),\neta aukera hau hautatuta badago, hub ataka\nautomatikoki desgaituko da beharrezkoak ez diren\nerrendimendu-galerak saihesteko.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be disabled automatically to avoid unnecessary\nperformance penalties.
+;
+MSG_PANEL_OPTIONS_POWERCYCLE
+Automatikoki itzali-piztu hub ataka, gailua hilda geratzen bada:
+; Automatically power cycle hub port, if device drops dead:
+;
+MSG_PANEL_OPTIONS_POWERCYCLE_HELP
+Gailu bat hilda geratzen bada (transferentzia denbora-mugak),\neta aukera hau hautatuta badago, hub ataka\nautomatikoki reseteatuko da gailua berpizten saiatzeko.\nHala ere, honek begizta infinitu gogaikarriak eragin ditzake.
+; If a device drops dead (transfer timeouts),\nand this switch is selected, then the hub port\nwill be reset automatically to try to revive the\ndevice. However, this can lead to nasty infinity loops.
+;
+MSG_PANEL_OPTIONS_POWERSAVE
+Gaitu energia aurrezteko eseki modua:
+; Enable power-saving suspend mode:
+;
+MSG_PANEL_OPTIONS_POWERSAVE_HELP
+Gailuak eseki modura eramango dira zehaztutako\ninaktibitate tarte baten ondoren.\nEnergia-kontsumoa 1mA baino gutxiagora jaisten da.\nFuntzionamendura itzultzea 25ms barru gertatu ohi da.
+; Devices will be placed into suspend mode after\na specified interval of inactivity.\nPower consumption goes down to less than 1mA.\nResuming of operation usually takes place within 25ms.
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND
+Behartu eseki modua, klaseak onartzen ez badu ere:
+; Force suspend mode, even if not supported by class:
+;
+MSG_PANEL_OPTIONS_FORCESUSPEND_HELP
+Klase-kontrolatzaileek eseki modura joatea onartu\nbeharko lukete. Onartzen ez badute, aukera hau gaituta\nlotura askatuko da esekitzearen aurretik.\nHau urruneko esnatzea duten gailuetan bakarrik egiten da,\nbestela klasea ez litzateke automatikoki berriro lotuko.
+; Class drivers should support going into suspend\nmode. If they don't, enabling this switch will\nsimply release the binding prior to suspending.\nThis is only performed on remote wakeup devices,\notherwise the class wouldn't rebind automatically.
+;
+MSG_PANEL_OPTIONS_INACTIVITY
+Esekitzeko inaktibitate denbora-muga:
+; Inactivity timeout for suspend:
+;
+MSG_PANEL_OPTIONS_INACTIVITY_HELP
+Gailu bat energia aurrezteko eseki modura\neramaten saiatu aurreko denbora-muga.
+; Timeout before trying to place a device into\npower saving suspend mode.
+;
+MSG_PANEL_OPTIONS_INACTIVITY_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_OPTIONS_LOGGING
+Erregistro-aukerak
+; Logging Options
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL
+Erregistratu informazio-mezuak:
+; Log info messages:
+;
+MSG_PANEL_OPTIONS_LOGGING_LABEL_HELP
+Informazio-mezu arrunten erregistroa\naktibatzen/desaktibatzen du.
+; Toggles logging of normal\ninformation messages.
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN
+Erregistratu abisuak:
+; Log warnings:
+;
+MSG_PANEL_OPTIONS_LOGGING_WARN_HELP
+Abisuen erregistroa aktibatzen/desaktibatzen du.
+; Toggles logging of warnings.
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR
+Erregistratu erroreak:
+; Log errors:
+;
+MSG_PANEL_OPTIONS_LOGGING_ERR_HELP
+Erroreen erregistroa aktibatzen/desaktibatzen du.
+; Toggles logging of errors.
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL
+Erregistratu hutsegiteak:
+; Log failures:
+;
+MSG_PANEL_OPTIONS_LOGGING_FAIL_HELP
+Hutsegiteen erregistroa aktibatzen/desaktibatzen du.
+; Toggles logging of failures.
+;
+MSG_PANEL_OPTIONS_MEMORY
+Poseidon Pool-ean esleitutako memoria:
+; Memory allocated in Poseidon Pool:
+;
+MSG_PANEL_POPO
+\33c\33bPopup ezarpenak
+; \33c\33bPopup Settings
+;
+MSG_PANEL_POPO_LABEL
+Popup leihoaren aukerak
+; Popup Window Options
+;
+MSG_PANEL_POPO_CONNECT
+Konektatzean:
+; On connecting:
+;
+MSG_PANEL_POPO_CONNECT_HELP
+Popup leihoaren portaera USB gailu\nberriak konektatzean
+; Popup display behaviour on\nconnecting new USB devices
+;
+MSG_PANEL_POPO_DISCONNECT
+Deskonektatzean:
+; On disconnect:
+;
+MSG_PANEL_POPO_DISCONNECT_HELP
+Leiho bat ireki behar den ala ez\ngailua kentzen bada.
+; Whether to popup a window\nif the device is removed.
+;
+MSG_PANEL_POPO_DEATH
+Gailua hiltzean:
+; On device death:
+;
+MSG_PANEL_POPO_DEATH_HELP
+Ireki eskatzaile bat, gailua hilda dagoela badirudi.
+; Open a requester, if device seems to be dead.
+;
+MSG_PANEL_POPO_DELAY
+Popup atzerapena:
+; Popup delay:
+;
+MSG_PANEL_POPO_DELAY_HELP
+Zenbat denboraz erakutsiko den eskatzailea\nautomatikoki desagertu aurretik.
+; How long should the requester be displayed\nbefore disappearing automatically.
+;
+MSG_PANEL_POPO_DELAY_FORMAT
+%ld seg.
+; %ld sec.
+;
+MSG_PANEL_POPO_ACTIVATE
+Aktibatu leihoa:
+; Activate window:
+;
+MSG_PANEL_POPO_ACTIVATE_HELP
+Leihoa aktibo bihurtzen du irekitzean.
+; Make the window active when opening.
+;
+MSG_PANEL_POPO_TOFRONT
+Aurreko planora ekarri
+; Pop to front:
+;
+MSG_PANEL_POPO_TOFRONT_HELP
+Ekarri leihoa aurrera, edukia aldatzen bada.
+; Pop window to front, if content changes.
+;
+MSG_PANEL_POPO_CONSOUND
+Konexio-soinua:
+; Connection sound:
+;
+MSG_PANEL_POPO_CONSOUND_HELP
+Soinu hau erreproduzituko da gailu bat\nbusera konektatzen den bakoitzean.
+; This sound will be replayed everytime\na device is connected to the bus.
+;
+MSG_PANEL_POPO_CONSOUND_SELECT
+Hautatu erreproduzitzeko soinu-fitxategi bat...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_POPO_DISCONSOUND
+Deskonexio-soinua:
+; Disconnect sound:
+;
+MSG_PANEL_POPO_DISCONSOUND_HELP
+Soinu hau erreproduzituko da gailu bat\nbusetik kentzen den bakoitzean.
+; This sound will be replayed everytime\na device is removed from the bus.
+;
+MSG_PANEL_POPO_DISCONSOUND_SELECT
+Hautatu erreproduzitzeko soinu-fitxategi bat...
+; Select a sound file to be replayed...
+;
+MSG_PANEL_CONFIG
+\33c\33bKonfigurazio-kudeaketa (Erabili arrastatu eta jaregin)
+; \33c\33bConfiguration management (Use drag & drop)
+;
+MSG_PANEL_CONFIG_HELP
+Kutxa honetan ENVARC:-eko hobespen-fitxategiarekin\nbatera gordetako hobespen guztiak ikus ditzakezu.\nPanel hau hobespenak ezabatzeko edo esportatzeko erabil dezakezu.\n\nErabili arrastatu eta jaregin hobespenak kopiatzeko edo ordezteko.\n
+; In this box you can see all the preferences that are\nsaved along the prefs file in ENVARC:.\nYou can use this panel to delete or export prefs.\n\nUse drag & drop to copy or replace preferences.\n
+;
+MSG_PANEL_CONFIG_COLS_TYPE
+\33uMota
+; \33uType
+;
+MSG_PANEL_CONFIG_COLS_DESC
+\33uDeskribapena
+; \33uDescription
+;
+MSG_PANEL_CONFIG_COLS_OWNER
+\33uJabea
+; \33uOwner
+;
+MSG_PANEL_CONFIG_COLS_SIZE
+\33uTamaina
+; \33uSize
+;
+MSG_PANEL_CONFIG_SAVEAS
+\33c Gorde honela
+; \33c Save as
+;
+MSG_PANEL_CONFIG_SAVEAS_HELP
+Gorde hobespen guztiak emandako izenarekin\ngero berriro kargatzeko.
+; Save all the prefs under given name\nfor reloading it later.
+;
+MSG_PANEL_CONFIG_EXPORT
+\33c Esportatu
+; \33c Export
+;
+MSG_PANEL_CONFIG_EXPORT_HELP
+Hautatutako sarrera bat gordetzeko\naukera ematen dizu, gero berriro kargatzeko.
+; Allows you to save a selected entry\nto reload it later.
+;
+MSG_PANEL_CONFIG_IMPORT
+\33c Inportatu
+; \33c Import
+;
+MSG_PANEL_CONFIG_IMPORT_HELP
+Aurrez gordetako hobespen zati bat inportatzen du.
+; Imports a previously saved piece of prefs.
+;
+MSG_PANEL_CONFIG_REMOVE
+\33c Kendu
+; \33c Remove
+;
+MSG_PANEL_CONFIG_REMOVE_HELP
+Hautatutako hobespen-sarrera ezabatzen du.
+; Deletes the selected prefs entry.
+;
+MSG_PANEL_CONFIG_MSGLOG
+Mezu-erregistroa
+; Message Log
+;
+MSG_PANEL_CONFIG_INFLVL
+Informazio-maila:
+; Information level:
+;
+MSG_PANEL_CONFIG_INFLVL_HELP
+Gadget honek behean erakusten diren mezuen\nkopurua eta mota zehazten ditu.
+; This gadget determines the amount and\ntype of messages shown below.
+;
+MSG_PANEL_CONFIG_LOGSAVE
+\33c Gorde diskoan
+; \33c Save to disk
+;
+MSG_PANEL_CONFIG_LOGSAVE_HELP
+Erroreen erregistro-fitxategi bat sortzeko,\nadib. informazioa niri bidaltzeko\nakatsen berri emateko edo laguntza eskatzeko.
+; To generate a logfile of the errors,\ne.g. to send the information to me\nfor bug reporting or help.
+;
+MSG_PANEL_CONFIG_LOGFLUSH
+\33c Garbitu dena
+; \33c Flush all
+;
+MSG_PANEL_CONFIG_LOGFLUSH_HELP
+Botoi hau sakatzean pilako mezu guztiak\nkenduko dira. Ez dago horiek\nberreskuratzeko modurik.
+; Clicking on this button will remove all\nthe messages in the stack. There's no way\nto get them back.
+;
+MSG_PANEL_CONFIG_LOGHELP
+Hauek dira Poseidon pilak orain arte sortutako\nmezuak. Zerrenda hau garbitu nahi baduzu,\nsakatu 'Garbitu dena' botoia.
+; These are the messages of the Poseidon stack\ngenerated so far. If you want to clear this list\njust click on the 'Flush all messages' button.
+;
+MSG_PANEL_CONFIG_ALLONLINE
+\33c Denak online
+; \33c All Online
+;
+MSG_PANEL_CONFIG_ALLONLINE_HELP
+Abiarazi 'Hardware' panelean sartutako USB\nhardware gailu-kontrolatzaile guztiak.\nGainera, aurkitutako gailuak lotura posibleen\nbila aztertuko dira.
+; Start all USB hardware device drivers that\nhave been entered in the 'Hardware' panel.\nMoreover, the found devices will be checked\nfor possible bindings.
+;
+MSG_PANEL_CONFIG_ALLOFFLINE
+\33c Denak offline
+; \33c All Offline
+;
+MSG_PANEL_CONFIG_ALLOFFLINE_HELP
+'Offline' erabiliz USB hardware gailu-kontrolatzaile\nguztiak geldiaraz ditzakezu.\nHonek pila erabat gelditzen du.
+; Using 'Offline' you can take down all the USB\nhardware device drivers.\nThis totally halts the stack.
+;
+MSG_PANEL_CONFIG_RESTART
+\33c Berrabiarazi
+; \33c Restart
+;
+MSG_PANEL_CONFIG_RESTART_HELP
+'Berrabiarazi' sakatzean hardware gailu-kontrolatzaile\nguztiak gelditu eta berrabiaraziko dira.
+; Clicking on 'Restart' will stop and restart\nall hardware device drivers.
+;
+MSG_PANEL_CONFIG_SAVE
+\33c Gorde
+; \33c Save
+;
+MSG_PANEL_CONFIG_SAVE_HELP
+Uneko hobespenak diskoan gordetzeko, sakatu\nbotoi hau. Konfigurazioa ENVARC:-en\nzein\n ENV:-en gordeko da.
+; To save your current prefs to disk, click\non this button. The configuration will be\nstored in both ENVARC: and\n ENV:.
+;
+MSG_PANEL_CONFIG_USE
+\33c Erabili
+; \33c Use
+;
+MSG_PANEL_CONFIG_USE_HELP
+Hobespenak erabiltzeko baina betiko ez gordetzeko,\nsakatu botoi hau. Konfigurazioa\nENV:-en gordeko da.
+; To use, but not permanently save your prefs\nclick this button. The configuration will be\nstored in ENV:.
+;
+MSG_UNKNOWN
+ezezaguna
+; unknown
+;
+MSG_HARDWARE_WINDOW
+Hardware kontrolatzailearen informazio-leihoa
+; Hardware driver information window
+;
+MSG_HARDWARE_WINDOW_HELP
+Eremu hauek USB hardware kontrolatzaileari buruzko\ninformazio orokorra erakusten dute.
+; These fields show some general information\non the USB hardware driver.
+;
+MSG_HARDWARE_WINDOW_FRAME
+USB hardware kontrolatzailearen informazio orokorra
+; General USB hardware driver information
+;
+MSG_HARDWARE_WINDOW_LABEL
+Gailua:\nUnitatea:\nBertsioa:\nProduktua:\nFabrikatzailea:\nDeskribapena:\nCopyright:
+; Device:\nUnit:\nVersion:\nProduct:\nManufacturer:\nDescription:\nCopyright:
+;
+MSG_ACTION_SAVE_ERR
+Hautatu erroreak gordetzeko fitxategia...
+; Select file to save errors to...
+;
+MSG_ACTION_SAVE_ERR_FILE
+Errors.log
+; Errors.log
+;
+MSG_ACTION_ERR_SAVED
+Errore-erregistroa %s fitxategian gorde da.
+; Error log saved to file %s.
+;
+MSG_ACTION_ERR_SAVED_ERRWRITE
+Errorea %s fitxategia idazteko irekitzean.
+; Error opening file %s for writing.
+;
+MSG_ACTION_SAVE_DEV
+Hautatu gailu-zerrenda gordetzeko fitxategia...
+; Select file to save device list to...
+;
+MSG_ACTION_SAVE_DEV_FILE
+DevList.log
+; DevList.log
+;
+MSG_ACTION_SAVE_DEV_ERREXE
+Errorea PsdDevLister exekutatzean
+; Error executing PsdDevLister
+;
+MSG_ACTION_DEV_SAVED
+DevLister %s fitxategian gorde da.
+; DevLister saved to %s.
+;
+MSG_ACTION_PREFS_LOAD
+Hautatu Poseidon hobespen-fitxategi bat...
+; Select a Poseidon Prefs file...
+;
+MSG_ACTION_PREFS_LOADED
+Konfigurazioa %s-tik kargatu da.
+; Config loaded from %s.
+;
+MSG_ACTION_PREFS_SAVEAS
+Hautatu hobespenak gordetzeko fitxategia...
+; Select file to save prefs to...
+;
+MSG_ACTION_PREFS_SAVED
+Konfigurazioa ondo gorde da %s fitxategian.
+; Configuration successfully saved to %s.
+;
+MSG_ACTION_PREFS_SAVEDERR
+Ezin izan da konfigurazioa %s-n gorde.
+; Couldn't save config to %s.
+;
+MSG_ACTION_PREFS_NOTSAVED
+Konfigurazioa ez da gorde!
+; Config not saved!
+;
+MSG_ACTION_PREFS_SAVEDSUCCESS
+Konfigurazioa ondo gorde da.
+; Configuration successfully saved.
+;
+MSG_ACTION_USEQUIT
+Erabili|Gorde|Deuseztu
+; Use|Save|Cancel
+;
+MSG_ACTION_CONFIGCHANGED
+Uneko konfigurazioa aldatu egin da\neta oraindik ez da gorde.
+; The current configuration has been changed\nand not been saved yet.
+;
+MSG_ACTION_SAVEQUIT
+Ezin izan da konfigurazioa gorde.
+; Couldn't save config.
+;
+MSG_ACTION_DEV_FORCEBIND_NONE
+Bat ere ez
+; None
+;
+MSG_ACTION_DEV_FORCE_REQ
+Ez naiz tuntuna!|Berriro pentsatuko dut
+; I'm not dumb!|I'll reconsider
+;
+MSG_ACTION_DEV_FORCE_REQ_TXT
+Behartutako \33bgailu\33n-lotura bat ezartzear\nzaude. Hau ez da interfaze-lotura bat.\nJende gehiena ez da eskuliburua irakurtzeko gai,\neta onura baino kalte gehiago eragiten dute.\nMesedez, ziurtatu badakizula zer egiten ari zaren\neta ez duzula ezer apurtuko (eta gero ez nazazu\nemail tuntunekin gogaitu).
+; You are about to establish a forced \33bdevice\33n\nbinding. This is not an interface binding. As\nmost people are not capable of reading the\nmanual and they cause more harm than good.\nPlease make sure you know, what you're doing\nand not breaking things (and then bugger me with\nsilly emails).
+;
+MSG_ACTION_DEV_FORCE
+%s-en gailu-lotura %s-ra behartzen.
+; Forcing device binding of %s to %s.
+;
+MSG_ACTION_DEV_FORCE_REMOVE
+%s-en behartutako gailu-lotura kendu da.
+; Removed forced device binding of %s.
+;
+MSG_ACTION_CFG_REMOVE
+Kendu|Deuseztu
+; Remove|Cancel
+;
+MSG_ACTION_CFG_REMOVE_HELP
+\33b%s\33n ID-a duen gailuari lotutako\nkonfigurazio-datuak \33bkentzear\33n zaude.\nHonek gailu edo interfazeentzat banaka gordetako\nklase-ezarpen guztiak hartzen ditu barne, baita\nTrident-ek gordetzen dituenak ere (izen pertsonalizatua\nedo popup-en debekua, adibidez).\n\nZiur zaude hobespen hauek kendu nahi dituzula?
+; You are about to \33bremove\33n the configuration\ndata related to the device with the ID\n\33b%s\33n.\nThis includes all individually saved class\nsetting for the device or interfaces, as well\nas the stuff Trident saves (such as custom name or\npopup inhibit).\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_DEFAULT
+\33b%s\33n klasearen konfigurazio (lehenetsia)\n\33bkentzear\33n zaude.\nHonek klasearen hasierako hobespenak barneko\nbalio lehenetsietara ezarriko ditu \33bhurrengo abioan\33n!\nNormalean ez die eragiten gailu edo interfazeentzat\nbanaka gordetako ezarpenei.\n\nZiur zaude hobespen hauek kendu nahi dituzula?
+; You are about to \33bremove\33n the (default)\nconfiguration of the class \33b%s\33n.\nThis will set the classes initial prefs to the\ninternal defaults \33bon next boot\33n!\nIt does normally not affect the device or interface\nindividually saved settings.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS
+\33b%s\33n klasearen konfigurazioa\n\33bkentzear\33n zaude, bereziki\n\33b%s\33n ID-a duen gailuarentzat gordetakoa.\n\nZiur zaude hobespen hauek kendu nahi dituzula?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n,\nspecifically saved for device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_CLASS_DEF
+\33b%s\33n klasearen konfigurazioa\n\33bkentzear\33n zaude,\n\33b%s\33n interfazerako gordetakoa,\n\33b%s\33n ID-a duen gailuarena.\n\nZiur zaude hobespen hauek kendu nahi dituzula?
+; You are about to \33bremove\33n the class\nconfiguration of the class \33b%s\33n\nsaved for the particular interface\n\33b%s\33n of the device with ID\n\33b%s\33n.\n\nAre you sure you want to remove these prefs?
+;
+MSG_ACTION_CFG_REMOVE_UNKNOWN
+Benetan kendu nahi dituzu\n\33bhobespen-datu ezezagun\33n hauek hobespenetatik?
+; Do you really want to remove this\n\33bunknown prefs data\33n from the preferences?
+;
+MSG_ACTION_MEMPOOL_FORMAT
+%ld KB
+; %ld KB
+;
+MSG_ACTION_CFG_EXPORT
+Hautatu hobespenak esportatzeko fitxategia...
+; Select file to export prefs to...
+;
+MSG_ACTION_CFG_PREFS_FILE
+unknown.prefs
+; unknown.prefs
+;
+MSG_ACTION_STACKCFG_FILE
+stackcfg.prefs
+; stackcfg.prefs
+;
+MSG_ACTION_DEVICECFG_FILE
+devicecfg.prefs
+; devicecfg.prefs
+;
+MSG_ACTION_CLASSCFG_FILE
+classcfg.prefs
+; classcfg.prefs
+;
+MSG_ACTION_DEVCFGDATA_FILE
+devclscfg.prefs
+; devclscfg.prefs
+;
+MSG_ACTION_IFCFGDATA_FILE
+ifclscfg.prefs
+; ifclscfg.prefs
+;
+MSG_ACTION_CFG_FAIL
+%s fitxategia irekitzeak huts egin du.
+; Failed to open file %s.
+;
+MSG_ACTION_CFG_IMPORT
+Hautatu hobespenak inportatzeko fitxategia...
+; Select file to import prefs from...
+;
+MSG_ACTION_CFGDATA_OOPS
+Ene!
+; Oops!
+;
+MSG_ACTION_CFGDATA_OOPS_HELP
+Gailu edo interfaze baten hobespen-datuak\ninportatzeko, gehitu behar diren gailuaren\nsarrera hautatu behar duzu.
+; To import device or interface\nprefs data, you need to select\nthe device entry where it should be added.
+;
+MSG_ACTION_CFGDATA_ERR
+Ez dut hobespen-fitxategi mota hori ezagutzen.
+; I don't know that kind of prefs file.
+;
+MSG_ACTION_CFGDATA_ERR_READ
+Irakurketa-errorea %s hobespen-fitxategia kargatzean.
+; Read error on loading prefs file %s.
+;
+MSG_ACTION_CFGDATA_ERR_ALLOC
+%s kargatzeko bufferra esleitzeak huts egin du.
+; Failed to allocate buffer for loading %s.
+;
+MSG_ACTION_CFGDATA_ERR_IFF
+Ez dirudi %s iff fitxategi bat denik.
+; %s does not seem to be an iff file.
+;
+MSG_ACTION_CFGDATA_ERR_OPEN
+%s fitxategia irekitzeak huts egin du.
+; Failed to open file %s.
+;
+MSG_APPLYDRAGACTION_DEVICECFG
+Ordeztu|Batu|Deuseztu
+; Replace|Merge|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_HELP
+\33b%s\33n-en hobespenak\n\33b%s\33n-en edukiarekin\n\33bordeztu\33n ala \33bbatu\33n nahi dituzu?
+; Do you want to \33breplace\33n or \33bmerge\33n the prefs of\n\33b%s\33n\nwith the contents from\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA
+Gehitu gailuari|Deuseztu
+; Add to device|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_HELP
+Barkatu, baina jabe bereko hobespenak\nbakarrik ordezka daitezke.\n\nHorren ordez, hobespen hauek gailuari\ngehitu nahi dizkiozu?
+; Sorry, but only prefs of the same owner can\nbe replaced.\n\nDo you wish to add this prefs\nto the device instead?
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE
+Ordeztu|Deuseztu
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVCFGDATA_REPLACE_HELP
+\33b%s\33n-en hobespenak\n\33b%s\33n-enekin\n\33bordeztu\33n nahi dituzu?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby those of\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE
+Ordeztu|Deuseztu
+; Replace|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_REPLACE_HELP
+\33b%s\33n-en hobespenak\n\33b%s\33n-ekoarekin\n\33bordeztu\33n nahi dituzu?
+; Do you want to \33breplace\33n the prefs of\n\33b%s\33n\nby the one in\n\33b%s\33n?
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD
+Gehitu|Deuseztu
+; Add|Cancel
+;
+MSG_APPLYDRAGACTION_DEVICECFG_ADD_HELP
+\33b%s\33n-en hobespenak\n\33b%s\33n gailuari\n\33bgehitu\33n nahi dizkiozu?
+; Do you want to \33badd\33n the prefs of\n\33b%s\33n\nto the device\n\33b%s\33n?
+;
+MSG_CFGLISTDISPATCHER_OOPS
+Ene!
+; Oops!
+;
+MSG_CFGLISTDISPATCHER_OOPS_HELP
+Barkatu, helburu horretara arrastatu\neta jaregitea ez dago onartuta.
+; Sorry, drag'n drop operation to\nthat target is not supported.
+;
+MSG_DEVICE_SPEED_LOW
+Baxua
+; Low
+;
+MSG_DEVICE_SPEED_HIGH
+Altua
+; High
+;
+MSG_DEVICE_SPEED_FULL
+Beteta
+; Full
+;
+MSG_DEVICE_SPEED_SUPER
+Super
+; Super
+;
+MSG_DEVICE_STATE_SUSPENDED
+Geldituta
+; Suspended
+;
+MSG_DEVICE_STATE_DEAD
+Hilda
+; Dead
+;
+MSG_DEVICE_STATE_DEADLP
+Hilda \/ LP
+; Dead \/ LP
+;
+MSG_DEVICE_STATE_LOWPOWER
+Potentzia baxua
+; Low Power
+;
+MSG_DEVICE_STATE_CONFIGURED
+Martxan
+; Running
+;
+MSG_DEVICE_STATE_DEVDESC
+DevDesc
+; DevDesc
+;
+MSG_DEVICE_STATE_HASADDRESS
+ValidAddr
+; ValidAddr
+;
+MSG_DEVICE_STATE_CONNECTED
+Konektatuta
+; Connected
+;
+MSG_LOGLEVEL_OK
+
+;
+MSG_LOGLEVEL_WARNING
+Oharpen
+; Warning
+;
+MSG_LOGLEVEL_ERROR
+Errore
+; Error
+;
+MSG_LOGLEVEL_FAILURE
+Hutsegitea
+; Failure
+;
+MSG_LOGLEVEL_OTHER
+???
+; ???
+;
